@@ -103,6 +103,15 @@
 | [[summary-vita-adae-et-eve]] | Vita Adae et Evae |
 | [[summary-shepherd-hermas]] | Пастырь Ерма |
 
+### Новые корпуса и сравнительные источники
+
+| Файл | Источник |
+|---|---|
+| [[summary-book-of-changes]] | Book of Changes (Yijing) |
+| [[summary-ramayana]] | The Ramayana |
+| [[summary-mahabharat]] | The Mahabharat |
+| [[summary-eridu-paradise-adapa]] | Eridu / Adapa / paradise motif |
+
 ### Древние корпуса
 
 | Файл | Источник |
