@@ -1,39 +1,40 @@
 ---
-title: "Epic of Gilgamesh, Tablet XI"
+title: "Эпос о Гильгамеше, табличка XI"
 source: "GEHA / UFSC PDF"
-author: "Anonymous Mesopotamian tradition; Portuguese translation by Carlos Daudt de Oliveira"
-year: "Standard Babylonian version in modern translation"
-language: "pt"
+author: "месопотамская анонимная традиция; португальский перевод Карлоса Даудта де Оливейры"
+year: "стандартная вавилонская версия в современном переводе"
+language: "ru"
 text_source: "https://geha.paginas.ufsc.br/files/2017/04/A-Epop%C3%A9ia-de-Gilgamesh.-Tradu%C3%A7%C3%A3o-de-Carlos-Daudt-de-Oliveira.-Martins-fontes-2011.-ISBN-85-336-1389-X.pdf"
 local_pdf: "../pdfs/20-gilgamesh-xi.pdf"
-notes: "Downloaded full translation; used here mainly for the introduction and Tablet XI flood narrative."
+notes: "Полный перевод, где потопная история включена в вопрос о смертности и бессмертии."
 ---
 
-# Epic of Gilgamesh, Tablet XI
+# Эпос о Гильгамеше, табличка XI
 
-## What this source gives us
+Эта табличка нужна нашей базе как один из главных месопотамских текстов о потопе и человеческой смертности. В отличие от `Атрахасиса`, здесь рассказ о потопе включён в более широкий поиск бессмертия.
 
-This translation is valuable because it places the flood story inside a larger search for immortality. Gilgamesh reaches Utnapishtim not as a hero seeking military fame, but as a mortal trying to understand death. That turns the flood narrative into a meditation on human limits.
+## Содержание
 
-## Why it matters
+Гильгамеш после смерти Энкиду боится собственной смертности и ищет Утнапиштима, чтобы понять, как тот получил вечную жизнь. Утнапиштим рассказывает о совете богов, о предупреждении Эа, о строительстве корабля, о потопе, о птицах, о жертве и о том, что бессмертие не возвращается Гильгамешу.
 
-- It preserves the later, standard Babylonian shape of the flood tradition.
-- It shows how the flood story becomes part of a larger question: why humans die.
-- It gives a divine warning, a boat, a flood, bird tests, sacrifice, and then the final impossibility of immortality.
-- It also prepares the later serpent episode, which fits the broader symbol pattern of lost renewal.
+## Почему это важно
 
-## Key sequence
+Текст показывает, что потоп в месопотамской традиции можно читать не только как катастрофу, но и как часть размышления о смерти, пределе и невозможности перейти человеческую границу.
 
-- Gilgamesh searches for Utnapishtim because Enkidu's death has made him fear his own mortality.
-- Utnapishtim explains the divine decision to destroy humanity.
-- Ea warns him indirectly and tells him to build a boat.
-- The flood in this translation lasts six days and six nights, with calm returning on the seventh day.
-- The birds are sent out to test whether the waters have receded.
-- After the sacrifice, Utnapishtim is preserved at the edge of the world, but Gilgamesh does not obtain immortality.
+## Для базы
 
-## Graph use
+Нужен для тем:
 
-Use this source when linking:
+- смертность,
+- поиск бессмертия,
+- последний праведник,
+- птицы после потопа,
+- жертва после катастрофы,
+- и змея как знак утраченного обновления.
+
+## Связи
+
+Связывать с:
 
 - [[summary-mesopotamian-flood]]
 - [[analysis-potop]]
@@ -41,4 +42,3 @@ Use this source when linking:
 - [[entity-gilgamesh]]
 - [[entity-enki]]
 - [[entity-enlil]]
-
