@@ -1,37 +1,39 @@
 ---
-title: "The Pima Indians: abstracts of myths"
+title: "Пима: извлечения из мифов о сотворении"
 source: "Wikisource"
-author: "Comparative mythographic collection"
-year: "Early 20th-century collection"
-language: "en"
+author: "сравнительный мифографический сборник"
+year: "начало XX века"
+language: "ru"
 text_source: "https://en.wikisource.org/wiki/The_Pima_Indians/Sophiology/Abstracts_of_myths"
-notes: "Pima creation and myth abstracts useful for origin, flood, world-making, and local sacred memory."
+notes: "Пима-материал о сотворении, локальной сакральной памяти и мире-первотворении."
 ---
 
-# The Pima Indians: abstracts of myths
+# Пима: извлечения из мифов о сотворении
 
-## What this source gives us
+Этот источник даёт компактное, но важное введение в пима-материал. Он нужен нашей базе потому, что показывает один из североамериканских вариантов представлений о происхождении мира, людей и местной сакральной памяти.
 
-This source gives a compact mythic entry into Pima material: creation myth, local sacred history, and mythic memory. It is especially useful as a comparative North American creation source.
+## Что в нём важно
 
-## Why it matters
+В центре оказываются не только сама история сотворения, но и способ, которым традиция хранит память о первособытии. Для сравнительного исследования это особенно полезно: можно увидеть, как миф о происхождении закрепляется в локальной культуре и становится частью образа места.
 
-- It adds another North American layer to the comparative field.
-- It helps track creation myths outside the Near East and Eurasia.
-- It is useful for studying how local traditions preserve world-making stories.
+## Для чего он нужен
 
-## Key motifs
+Этот текст помогает сравнивать:
 
-- creation myth
-- local sacred memory
-- world-making
-- comparison with flood and origin motifs
+- мифы о создании мира,
+- локальную память о происхождении,
+- и представления о том, как мир устроен после первотворения.
 
-## Graph use
+Он особенно полезен как североамериканская параллель к материалам о:
 
-Use this source when linking:
+- потопе,
+- священной географии,
+- и культурных героях.
+
+## Связи
+
+Связывать с:
 
 - [[summary-myths-and-legends-of-british-north-america]]
 - [[analysis-istoriya-planety-proveryaemye-i-mifologicheskie-sloi]]
 - [[analysis-building-motifs-global-map]]
-
