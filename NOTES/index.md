@@ -111,6 +111,8 @@
 | [[summary-ramayana]] | The Ramayana |
 | [[summary-mahabharat]] | The Mahabharat |
 | [[summary-eridu-paradise-adapa]] | Eridu / Adapa / paradise motif |
+| [[summary-book-of-the-dead]] | The Egyptian Book of the Dead |
+| [[summary-pyramid-builders]] | The Pyramid Builders |
 
 ### Древние корпуса
 
