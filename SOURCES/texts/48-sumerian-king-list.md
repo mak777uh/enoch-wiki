@@ -1,41 +1,24 @@
 ---
-title: "Sumerian King List"
+title: "Список шумерских царей"
 source: "World History Encyclopedia"
-author: "Ancient Mesopotamian tradition; comparative presentation"
-year: "Ancient Mesopotamian tradition; modern comparative article"
-language: "en"
+author: "Древнемесопотамская традиция; современная сравнительная подача"
+year: "Древнемесопотамская традиция; современная статья"
+language: "ru"
 text_source: "https://www.worldhistory.org/Sumerian_King_List/"
-notes: "King list tradition that combines myth and chronology, antediluvian kings, the flood break, city succession, and divine kingship."
+notes: "Традиция списков царей, сочетающая миф и хронологию, допотопных царей, потопную границу, смену городов и божественную власть."
 ---
 
-# Sumerian King List
+# Список шумерских царей
 
-## What this source gives us
+`Список шумерских царей` — один из лучших месопотамских сравнительных источников для нашей базы, потому что он соединяет царскую власть, смену городов и крупную потопную границу в одной историко-мифической системе.
 
-The Sumerian King List is one of the best Mesopotamian comparative sources for this base because it combines kingship, city succession, and a major flood break in a single historical-mythic framework.
+Текст не является нейтральной хроникой. Он организует историю как священную последовательность: царская власть нисходит с небес, один город владеет ею в определённый момент, в допотопную эпоху царствования невероятно длинны, а потоп разделяет эпохи. После потопа власть снова передаётся другим городам.
 
-## Why it matters
+Здесь важно не просто перечисление царей, а способ мыслить время: как священную смену центров, эпох и легитимностей. Потоп становится не только бедствием, но и исторической границей.
 
-- It gives us antediluvian kings with impossible reigns.
-- It shows how kingship moves from city to city.
-- It places the flood as a major chronological divide.
-- It helps compare sacred history with genealogy and political order.
-
-## Key motifs
-
-- antediluvian kings
-- impossible reign lengths
-- flood boundary
-- city succession
-- divine kingship
-
-## Graph use
-
-Use this source when linking:
-
-- [[summary-mesopotamian-flood]]
-- [[summary-eridu-genesis]]
-- [[summary-oldest-religious-text-babylonia]]
-- [[analysis-hram-dolg-gosudarstvo]]
-- [[analysis-potop]]
-
+Ключевые мотивы:
+- божественная власть царей
+- смена городов
+- допотопная эпоха
+- потопная граница
+- легитимность и порядок
