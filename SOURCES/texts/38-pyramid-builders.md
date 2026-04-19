@@ -1,41 +1,62 @@
 ---
-title: "The Pyramid Builders"
+title: "Строители пирамид"
 source: "Wikisource"
-author: "Ancient Egypt (Rawlinson)"
-year: "19th-century scholarly account of ancient pyramid tradition"
-language: "en"
+author: "Древний Египет (по Роулинсону)"
+year: "XIX век, научное изложение древнеегипетской пирамидной традиции"
+language: "ru"
 text_source: "https://en.wikisource.org/wiki/Ancient_Egypt_%28Rawlinson%29/The_Pyramid_Builders"
-notes: "Useful scholarly account of pyramid construction, access passages, chambers, monumental engineering, and the cultural meaning of pyramids."
+notes: "Научное изложение темы строительства пирамид, проходов, камер, инженерной организации и культурного смысла монументальной архитектуры."
 ---
 
-# The Pyramid Builders
+# Строители пирамид
 
-## What this source gives us
+Этот текст не является древнеегипетским оригиналом. Это позднее научное изложение, но для нашей базы он полезен именно тем, что подробно говорит о пирамидной архитектуре как о культурном и инженерном явлении.
 
-This is a later scholarly account, not an ancient Egyptian text, but it is useful for the repository because it talks about pyramid construction, access passages, chambers, and the monumental logic of the pyramids.
+## О чём здесь речь
 
-## Why it matters
+Текст позволяет увидеть пирамиду не просто как древнюю гробницу, а как предельно сложное сооружение, где сочетаются:
 
-- It strengthens the building motif.
-- It gives us a concrete way to talk about engineering, access, and the sacred monument.
-- It helps compare pyramids with towers, temples, and other world monuments.
-- It can be used as a bridge between mythic construction and material building practice.
+- ритуальная функция,
+- долговечность,
+- символика вечности,
+- организация внутренних ходов и камер,
+- и техническая способность древних строителей обращаться с огромной массой камня.
 
-## Key motifs
+Для нашей базы это особенно важно, потому что мотив больших сооружений у нас связан не только с архитектурой, но и с космосом, властью, погребением и сакральным порядком.
 
-- monumental stone building
-- hidden chambers and passages
-- north-side access
-- durable memorial architecture
-- pyramids as wonder and power
+## Почему этот источник нужен
 
-## Graph use
+Он помогает сделать разговор о пирамидах конкретным. Здесь можно опереться не только на общую идею “большого памятника”, но и на детали:
 
-Use this source when linking:
+- как обеспечивался доступ к внутренним помещениям,
+- как могли располагаться проходы,
+- каково было значение камер и скрытых ходов,
+- почему пирамида воспринималась как сооружение исключительного статуса.
+
+Эти мотивы важны для сравнений с:
+
+- храмами,
+- башнями,
+- зиккуратами,
+- священными горами,
+- и мегалитическими комплексами других регионов.
+
+## Смысл для базы
+
+Внутри нашей исследовательской линии этот текст нужен как мост от мифа к материальной строительной практике. Он показывает, что древнее монументальное строительство всегда было больше, чем инженерия: это ещё и язык власти, памяти и преодоления смерти.
+
+Пирамида здесь выступает как:
+
+- знаковый объект вечности,
+- архитектурный образ власти,
+- и материальный способ закрепить религиозное представление о переходе в иной мир.
+
+## Связи
+
+Использовать вместе с:
 
 - [[analysis-building-motifs-global-map]]
 - [[summary-pyramid-texts-index]]
 - [[summary-1-kings-6-temple]]
 - [[summary-chaldean-account-tower]]
 - [[entity-approach-egypt]]
-
