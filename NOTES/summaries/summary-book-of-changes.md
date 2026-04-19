@@ -1,5 +1,5 @@
 ---
-title: "Book of Changes: summary"
+title: "Книга Перемен: summary"
 created: 2026-04-19
 type: summary
 tags: [china, divination, cosmology, numbers, yijing]
@@ -8,51 +8,61 @@ related: [[card-kniga-peremen-nefilimy-matematika]], [[analysis-gipoteza-evoluci
 status: active
 ---
 
-# Book of Changes: summary
+# Книга Перемен: summary
 
-## What the text is
+## Что это за источник
 
-The `Book of Changes` is one of the oldest and most influential Chinese classics. In the version used here it is presented as a divinatory and cosmological system organized around 64 hexagrams built from eight trigrams. The text is traditionally associated with ancient rulers and later commentarial tradition, and in the repository it matters as a model of reality being read through structured change.
+`Книга Перемен` (`И Цзин`) — один из древнейших и наиболее влиятельных китайских классических текстов. Для нашей базы это не просто гадательная книга, а целая модель мира, где реальность понимается как система переходов, соотношений и повторяющихся конфигураций. Источник важен потому, что показывает: древняя мысль может описывать порядок не через сюжет о сотворении или падении, а через структуру изменений.
 
-## What it does
+## Как устроен текст
 
-The book does not tell a linear mythic story. Instead, it maps situations, transitions, reversals, balance, danger, and timing. It teaches that reality is not static: it is a field of states that can be classified, compared, and navigated. Because of that, it is useful not only as a divination manual, but as a cosmological language.
+Текст строится вокруг восьми триграмм и шестидесяти четырёх гексаграмм. Триграммы выступают как базовые элементы, а гексаграммы как их сложные комбинации, описывающие состояния мира, движения сил и возможные развилки событий. Важнейший принцип здесь — мир не застывший, а текучий: у каждой ситуации есть время, граница, риск, благоприятный момент и мера правильного действия.
 
-## Structure and main logic
+Особенно важны:
 
-The core structure is built on:
+- полярность `инь` и `ян`
+- повторяемость сочетаний
+- зависимость смысла от последовательности
+- связь гадания, политического порядка и космической соразмерности
 
-- yin and yang polarity
-- eight trigrams as basic building blocks
-- sixty-four hexagrams as compound states
-- interpretation through change, sequence, and context
+## Основное содержание
 
-The important thing for our base is that the text turns the world into a system of readable patterns. It is less about one cosmic catastrophe or one divine act, and more about the logic of state transitions.
+У `Книги Перемен` нет линейного мифического сюжета в привычном смысле. Она не рассказывает историю мира от начала до конца. Вместо этого она учит читать положение вещей: где есть продвижение, где остановка, где опасность, где распад, где восстановление, где переход к новому состоянию. Именно поэтому текст одновременно работает как гадательный справочник, философия перемен и язык описания реальности.
 
-## Why it matters for this base
+Для нашей базы особенно важно, что здесь древнее знание связано не с катастрофой и не с эсхатологическим судом, а с умением распознавать структуру процесса. Это сближает текст с календарными и числовыми материалами, но резко отличает от потопных и ангелологических традиций.
 
-This source helps us compare Chinese thought with the Enochic and wider ancient material in several ways:
+## Главные мотивы
 
-- it is strongly numerical and patterned, like the calendrical material in 1 Enoch
-- it treats hidden structure as readable knowledge
-- it connects divination, order, and legitimacy
-- it gives a very different route to cosmology from the flood-and-fall traditions
+- перемена как закон мира
+- гадание как чтение структуры
+- число и комбинация как носители смысла
+- порядок Неба
+- политическая легитимность
+- соразмерность момента и поступка
 
-## Key motifs for comparison
+## Почему это важно для базы
 
-- number and structure
-- change as the basic law of reality
-- divination as pattern-reading
-- heaven and order
-- political legitimacy
+`Книга Перемен` нужна нам как китайский сравнительный полюс для текстов, где знание связано с космосом, порядком, временем и числовой организацией мира. Она помогает сравнивать:
 
-## Connections
+- структурированное знание и откровение
+- космологию и ритуальную практику
+- порядок и кризис
+- древнюю мудрость и позднейшую моральную интерпретацию мира
 
-This summary should be read together with:
+Этот текст особенно полезен рядом с енохическими календарными и астрономическими материалами, а также с теми источниками, где мир мыслится как система скрытых закономерностей.
+
+## Для сопоставления
+
+- карточки о математике и строении мира
+- карточки о календаре и астрономии
+- аналитические заметки о древних моделях зла и порядка
+- китайский блок о дивинации, Небе и легитимности власти
+
+## Связи
 
 - [[card-kniga-peremen-nefilimy-matematika]]
 - [[card-strazhniki-astronomiya]]
 - [[card-strazhniki-kalendar]]
 - [[analysis-gipoteza-evolucia-zla]]
 - [[analysis-drevnost-i-model-zla]]
-
+- [[entity-approach-daosizm]]

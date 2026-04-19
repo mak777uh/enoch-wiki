@@ -1,5 +1,5 @@
 ---
-title: "Adoration of the Gods of the Qerti: summary"
+title: "Поклонение богам Керти: summary"
 created: 2026-04-19
 type: summary
 tags: [egypt, underworld, gates, guardians, osiris, ra]
@@ -8,33 +8,24 @@ related: [[summary-book-of-the-dead]], [[analysis-drevnost-i-model-zla]], [[anal
 status: active
 ---
 
-# Adoration of the Gods of the Qerti: summary
+# Поклонение богам Керти: summary
 
-## What the text is
+## Что это за источник
 
-This funerary section belongs to the Egyptian Book of the Dead tradition and describes the gods who dwell in and guard the Qerti, the underworld gateway zone. It is a short but very useful source for understanding Egyptian afterlife administration.
+Этот погребальный фрагмент принадлежит к традиции `Книги мёртвых` и описывает богов, обитающих в Керти — зоне врат и перехода в подземном мире. Это небольшой, но очень полезный текст для понимания египетской организации загробного пространства.
 
-## What it says
+## Что в нём происходит
 
-The gods in the Qerti guard the gates, recognize names, and assist in the supervised passage of the dead. The enemies of Ra are named and rejected. This is not a random afterlife landscape: it is a structured jurisdiction.
+Боги Керти охраняют врата, узнают имена, допускают или не допускают прохождение мёртвых. Враги Ра называются и отвергаются. Загробный мир здесь не хаотичен: он управляется, классифицируется и охраняется.
 
-## Main motifs
+## Основные мотивы
 
-- gate guardians
-- names and recognition
-- underworld administration
-- enemy rejection
-- supervised passage
+- стражи врат
+- имена и признание
+- управление подземным миром
+- отвержение врагов
+- контролируемый проход
 
-## Why it matters for the base
+## Почему это важно для базы
 
-This source helps us compare Egyptian afterlife order with judgment, passage, and gate motifs elsewhere. It also gives us a concise text for the recurring idea that access to the divine or blessed realm is regulated by names, guardians, and recognition.
-
-## Connections
-
-- [[summary-book-of-the-dead]]
-- [[summary-sekhet-hetep]]
-- [[analysis-drevnost-i-model-zla]]
-- [[analysis-zmea-podzemie]]
-- [[entity-approach-egypt]]
-
+Текст помогает сравнивать египетскую загробную администрацию с другими традициями, где вход в иной мир зависит от имени, знания и признания. Он также показывает, что в древних религиях доступ к божественному или блаженному пространству часто регулируется стражами и рубежами.

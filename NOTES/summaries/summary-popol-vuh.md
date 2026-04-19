@@ -1,5 +1,5 @@
 ---
-title: "The Popol Vuh: summary"
+title: "Пополь-Вух: summary"
 created: 2026-04-19
 type: summary
 tags: [maya, creation, underworld, maize, heroes, cosmogony]
@@ -8,41 +8,60 @@ related: [[analysis-istoriya-planety-proveryaemye-i-mifologicheskie-sloi]], [[an
 status: active
 ---
 
-# The Popol Vuh: summary
+# Пополь-Вух: summary
 
-## What the text is
+## Что это за источник
 
-The Popol Vuh is the major K'iche' Maya cosmological and mythological corpus used in the base as a comparative source for creation, repeated world-making, and underworld conflict. In the version we use here, it comes through later transcription and translation, but the mythic structure remains central.
+`Пополь-Вух` — главный космологический и мифологический корпус киче-майя, который в нашей базе используется как сравнительный источник по творению, повторным попыткам создания человека, подземному конфликту и героическим испытаниям. Хотя дошедший до нас текст записан поздно, сам мифический материал гораздо древнее и для сравнительной работы исключительно ценен.
 
-## What it says
+## Как устроено повествование
 
-The opening logic is silence and stillness. Then creation unfolds through divine speech. The story does not stop at one creation attempt: it goes through several failed or partial versions of humanity before the final maize-made humans appear. This repeated creation pattern is extremely useful for comparative work because it shows that humanity can be tried, corrected, and re-formed.
+Текст открывается тишиной и неподвижностью. Затем творение происходит через божественное слово. Но на этом процесс не заканчивается: человеческий род создаётся несколько раз, и первые попытки оказываются неудачными или неполными. Лишь затем появляются люди из кукурузы, то есть из особого сакрального материала. Такой ход важен для нас тем, что показывает: создание человечества может мыслиться как последовательность исправлений, проб и переработок, а не как единичный акт.
 
-## Main motifs
+## Основное содержание
 
-- pre-creation silence
-- creation by speech
-- successive attempts at humanity
-- divine and underworld conflict
-- heroic twins and trials
-- humans made from maize
+В `Пополь-Вух` сочетаются несколько крупных сюжетов:
 
-## Why it matters for the base
+- до-творческая тишина и неподвижность
+- творение через слово
+- серия неудачных вариантов человечества
+- конфликт с подземным миром
+- испытания и победы героических близнецов
+- окончательное создание людей из кукурузы
 
-This source is important because it lets us compare:
+Здесь особенно заметно, что подземный мир — не просто фон, а активный оппонент творения. Мир создаётся, проверяется, оспаривается и только потом утверждается в устойчивой форме. Для базы это один из самых важных сравнительных примеров, потому что он показывает множественное творение и активный миф о исправлении мира.
 
-- creation as a sequence, not a single act
-- humanity made from a specific sacred substance
-- the underworld as an active counterpart to creation
-- hero cycles and cosmic testing
+## Главные мотивы
 
-It is also a strong reminder that the comparative field is not limited to the Near East or Eurasia.
+- тишина до творения
+- творение через слово
+- многократные попытки создать человека
+- подземный конфликт
+- героические близнецы
+- человек из кукурузы
 
-## Connections
+## Почему это важно для базы
+
+`Пополь-Вух` позволяет сравнивать:
+
+- творение как процесс, а не мгновение
+- сакральное вещество человечества
+- подземный мир как со-участника мифа
+- героические испытания и проверку мира
+
+Этот текст также важен как напоминание о том, что наш сравнительный корпус не ограничивается Передним Востоком или Евразией. Миф о создании, испытании и исправлении человечества здесь разворачивается в иной культурной логике, но остаётся чрезвычайно близким по исследовательской функции.
+
+## Для сопоставления
+
+- мотивы творения и пересоздания человека
+- подземный мир и испытание
+- героические циклы
+- американские традиции о происхождении людей
+
+## Связи
 
 - [[analysis-istoriya-planety-proveryaemye-i-mifologicheskie-sloi]]
 - [[analysis-heroes-zmeebortsy]]
 - [[analysis-drevnost-i-model-zla]]
 - [[entity-approach-greece]]
 - [[entity-approach-egypt]]
-

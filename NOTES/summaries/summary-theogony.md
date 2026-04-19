@@ -1,5 +1,5 @@
 ---
-title: "The Theogony: summary"
+title: "Теогония: summary"
 created: 2026-04-19
 type: summary
 tags: [greece, hesiod, gods, titans, succession, cosmogony]
@@ -8,47 +8,30 @@ related: [[entity-approach-greece]], [[analysis-gipoteza-evolucia-zla]], [[analy
 status: active
 ---
 
-# The Theogony: summary
+# Теогония: summary
 
-## What the text is
+## Что это за источник
 
-The Theogony is Hesiod's major Greek poem about the origin and genealogy of the gods. It is not a simple creation myth, but a succession myth: it shows how divine rule moves from earlier powers to Zeus, and how the cosmos becomes ordered through struggle.
+`Теогония` — главный поэтический текст Гесиода о происхождении и генеалогии богов. Это не просто космогония в узком смысле, а миф о смене божественной власти: от ранних сил к Зевсу, через борьбу, конфликт и упорядочение космоса.
 
-## What it does
+## Что он делает
 
-The poem introduces:
+Поэма вводит:
 
-- the birth and succession of the gods
-- the rule of Cronus and his overthrow
-- the rise of Zeus
-- the division of powers among the gods
-- the place of monsters and older chaotic forces
+- рождение и последовательность поколений богов
+- власть Кроноса и его свержение
+- возвышение Зевса
+- распределение божественных сфер
+- место чудовищ и старых хаотических сил
 
-This makes the text highly useful for our comparative work on divine conflict, legitimacy, and order after chaos.
+Это делает текст особенно полезным для сравнения мифов о власти, порядке и конфликте с хаосом.
 
-## Main motifs
+## Почему это важно для базы
 
-- divine genealogy
-- succession struggle
-- cosmic portions and legitimacy
-- Titans and older powers
-- ordered rule after conflict
+`Теогония` помогает сравнивать греческий материал с:
 
-## Why it matters for the base
+- енохическим восстанием и космическим порядком
+- месопотамской божественной политикой
+- поздними демонологическими системами, где конфликт между порядком и мятежом сохраняется
 
-The Theogony helps us compare Greek myth with:
-
-- Enochic rebellion and cosmic order
-- Mesopotamian divine politics
-- later demonological systems that preserve conflict between order and rebellion
-
-It also helps us see that divine conflict is not always “evil versus good” in the later moral sense; sometimes it is a succession struggle that produces order.
-
-## Connections
-
-- [[entity-approach-greece]]
-- [[analysis-gipoteza-evolucia-zla]]
-- [[analysis-heroes-zmeebortsy]]
-- [[analysis-drevnost-i-model-zla]]
-- [[analysis-building-motifs-global-map]]
-
+Текст также показывает, что божественный конфликт не всегда следует понимать как простое противостояние добра и зла: часто это борьба за порядок, в ходе которой и рождается космос.

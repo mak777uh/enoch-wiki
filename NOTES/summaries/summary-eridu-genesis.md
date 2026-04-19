@@ -1,48 +1,28 @@
 ---
-title: "Eridu Genesis: summary"
+title: "Эриду: summary"
 created: 2026-04-19
 type: summary
 tags: [mesopotamia, eridu, flood, kingship, city, creation]
 source: [[47-eridu-genesis]]
-related: [[summary-mesopotamian-flood]], [[summary-eridu-paradise-adapa]], [[analysis-potop]]
+related: [[summary-mesopotamian-flood]], [[summary-oldest-religious-text-babylonia]], [[summary-eridu-paradise-adapa]]
 status: active
 ---
 
-# Eridu Genesis: summary
+# Эриду: summary
 
-## What the text is
+## Что это за источник
 
-Eridu Genesis is one of the great early Mesopotamian flood and kingship texts. It is important in this base because it unites city foundation, divine order, kingship, and the flood in one early sacred-historical frame.
+`Eridu Genesis` — один из ранних месопотамских текстов, где соединяются история города, царская власть, божественный порядок и потоп. Для нашей базы это важный текст, потому что он показывает, как сакральный центр и мировой катаклизм могут существовать в одном историко-мифическом поле.
 
-## What it says
+## Что в нём происходит
 
-The tradition centers on Eridu as a sacred city and on the idea that the world is organized through divine decision and human rulership. At some point the flood enters the story as a major reset or divinely chosen catastrophe. The text therefore gives us both the local sacred-city layer and the larger world-breaking flood layer.
+Традиция делает Эриду священным городом, связанным с божественным решением и человеческим правлением. Затем в историю входит потоп как крупный сброс порядка или избранная катастрофа. Так текст соединяет локальный городской слой и глобальный разрушительный слой.
 
-## Main motifs
+## Почему это важно для базы
 
-- sacred city
-- divine order
-- kingship
-- flood as reset
-- preservation of life
-- origin memory
+Этот источник особенно полезен для сравнения:
 
-## Why it matters for the base
-
-This source is especially useful because it helps us compare:
-
-- flood as judgment or reset
-- city as sacred center
-- kingship as divine arrangement
-- early Mesopotamian memory and later Genesis parallels
-
-It is one of the clearest bridges from the oldest Near Eastern city traditions into the broader comparative field of flood, creation, and sacred order.
-
-## Connections
-
-- [[summary-mesopotamian-flood]]
-- [[summary-oldest-religious-text-babylonia]]
-- [[summary-eridu-paradise-adapa]]
-- [[analysis-potop]]
-- [[analysis-hram-dolg-gosudarstvo]]
-
+- потопа как суда или перезапуска
+- города как сакрального центра
+- царской власти как божественного устройства
+- ранней месопотамской памяти и библейских параллелей

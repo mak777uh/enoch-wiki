@@ -1,5 +1,5 @@
 ---
-title: "Driving Back Rerek: summary"
+title: "Отвращение Ререка: summary"
 created: 2026-04-19
 type: summary
 tags: [egypt, ra, apep, gates, serpent, underworld]
@@ -8,33 +8,16 @@ related: [[summary-book-of-the-dead]], [[analysis-zmea-podzemie]], [[analysis-he
 status: active
 ---
 
-# Driving Back Rerek: summary
+# Отвращение Ререка: summary
 
-## What the text is
+## Что это за источник
 
-This funerary section belongs to the Egyptian Book of the Dead tradition and focuses on Ra's movement through the horizon gates and the defeat of the serpent/chaos force. It is a compact source, but it captures a very important Egyptian pattern: the sun must keep moving, and chaos must be pushed back.
+Этот погребальный фрагмент принадлежит к традиции `Книги мёртвых` и сосредоточен на пути Ра через горизонты и вратах подземного мира, а также на поражении змееподобной силы хаоса. Это краткий, но очень важный текст для египетской модели космического движения.
 
-## What it says
+## Что он показывает
 
-Ra passes through the eastern horizon with power, opens the gates, and overcomes the serpent enemy. The point is not just mythic drama; it is the maintenance of cosmic circulation.
+Ра движется через восточный горизонт, открывает врата и побеждает змея-противника. Смысл текста не только в мифической драме, но и в поддержании космического круга: солнце должно продолжать путь, а хаос должен быть оттеснён.
 
-## Main motifs
+## Почему это важно для базы
 
-- solar movement
-- gates of the horizon
-- serpent enemy
-- victory through sacred power
-- continuity of order
-
-## Why it matters for the base
-
-This is a very strong comparison point for serpent and underworld themes elsewhere in the repository. It shows that the serpent is not always simply “evil” in the later sense, but here it functions as a cosmic obstacle to be defeated so order can continue.
-
-## Connections
-
-- [[summary-book-of-the-dead]]
-- [[summary-sekhet-hetep]]
-- [[analysis-zmea-podzemie]]
-- [[analysis-heroes-zmeebortsy]]
-- [[entity-approach-egypt]]
-
+Текст даёт сильную сравнительную точку для змееборческих и подземных мотивов. Здесь змея ещё не обязательно выступает как абсолютное зло в позднем моральном смысле; скорее она представляет препятствие, которое должно быть побеждено, чтобы порядок продолжался.

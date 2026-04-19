@@ -1,5 +1,5 @@
 ---
-title: "The Chaldean Account of the Deluge: summary"
+title: "Халдейское предание о потопе: summary"
 created: 2026-04-19
 type: summary
 tags: [mesopotamia, flood, deluge, ark, judgment]
@@ -8,38 +8,29 @@ related: [[summary-atra-hasis]], [[summary-gilgamesh-xi]], [[analysis-potop]]
 status: active
 ---
 
-# The Chaldean Account of the Deluge: summary
+# Халдейское предание о потопе: summary
 
-## What the text is
+## Что это за источник
 
-The Chaldean Account of the Deluge is George Smith's presentation of Babylonian flood material in a form accessible to comparative readers. It is not itself an ancient tablet, but it is one of the classic comparison texts for the Mesopotamian deluge tradition.
+`The Chaldean Account of the Deluge` — это ещё одна классическая научная подача вавилонского потопного материала. Сам по себе текст не является древней табличкой, но он важен как ранняя форма сравнительного чтения месопотамского потопа для западной аудитории.
 
-## What it does
+## Что в нём происходит
 
-The source isolates the core flood sequence:
+Источник выделяет ядро потопного сюжета:
 
-- warning to the righteous or selected figure
-- construction of the boat
-- preservation of life
-- the flood as a world-breaking event
-- sacrifice and restoration afterward
+- предупреждение праведному или избранному герою
+- строительство корабля или ковчега
+- сохранение жизни
+- всемирная катастрофа как разрыв порядка
+- жертва и восстановление после бедствия
 
-Because of that, it is useful as a bridge between the more complex mythic flood traditions and the biblical narrative.
+Благодаря такой подаче сюжет становится особенно удобным для сопоставления с другими потопными версиями.
 
-## Why it matters for the base
+## Почему это важно для базы
 
-This source helps us compare the flood story in a stripped-down, highly legible form. It is especially useful if we want to understand:
+Этот источник помогает увидеть базовую форму потопного мифа без лишних деталей. Он особенно полезен для сравнения:
 
-- the function of divine warning
-- the logic of ark construction
-- the connection between disaster and ritual restoration
-- the difference between moral judgment and population-control or cosmic-reset logic
-
-## Connections
-
-- [[summary-atra-hasis]]
-- [[summary-gilgamesh-xi]]
-- [[summary-mesopotamian-flood]]
-- [[analysis-potop]]
-- [[analysis-potop-biblical]]
-
+- функции божественного предупреждения
+- логики строительства спасительного судна
+- связи бедствия и ритуального восстановления
+- различия между моральным судом и иными типами космического сброса

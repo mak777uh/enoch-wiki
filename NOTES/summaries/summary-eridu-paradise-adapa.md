@@ -1,5 +1,5 @@
 ---
-title: "Eridu, Adapa, and the Paradise Motif: summary"
+title: "Эриду, Адапа и мотив рая: summary"
 created: 2026-04-19
 type: summary
 tags: [mesopotamia, eridu, enki, adapa, immortality, wisdom]
@@ -8,41 +8,21 @@ related: [[entity-enki]], [[summary-oldest-religious-text-babylonia]], [[summary
 status: active
 ---
 
-# Eridu, Adapa, and the Paradise Motif: summary
+# Эриду, Адапа и мотив рая: summary
 
-## What the text is
+## Что это за источник
 
-This source is a scholarly presentation of the Eridu complex, the sacred city associated with Ea/Enki, and the Adapa material connected to wisdom and the limits of human immortality. It is not the same kind of text as a myth tablet, but it is still valuable because it condenses a major Mesopotamian sacred-city and paradise tradition.
+Этот материал представляет собой научное изложение эридусского комплекса, связанного с Эа/Энки, и традиции об Адапе — мудром существе, которому дарованы знание и авторитет, но отказано в бессмертии. Для базы это очень важный узел, потому что он соединяет сакральный центр, мудрость и предел человеческой жизни.
 
-## What it says
+## Что в нём говорится
 
-The central idea is that Eridu functions as a cosmic and sacred center. It is tied to divine wisdom, healing, ritual power, and the creation or shaping of the first human-like being. Adapa receives wisdom and authority but is denied everlasting life. That denial is one of the most important comparative motifs in the whole base because it echoes later stories where knowledge and mortality are linked.
+Эриду выступает как космический и священный центр. Он связан с божественной мудростью, исцелением, ритуальной силой и формированием первого человекоподобного существа. Адапа получает знание, но не вечную жизнь. Этот отказ особенно важен для сравнительной работы: он помогает понять, как в древних текстах знание и смертность часто связаны друг с другом.
 
-## Main motifs
+## Почему это важно для базы
 
-- sacred city as cosmic center
-- divine craft and wisdom
-- creation of a human-like servant/figure
-- granted wisdom without immortality
-- paradise as a place of order and divine access
+Этот источник помогает связать месопотамский материал с более широкими вопросами:
 
-## Why it matters for the base
-
-This source helps connect Mesopotamian myth to larger comparative questions:
-
-- why humans are wise but mortal
-- why sacred centers matter
-- how divine knowledge and human limitation are paired
-- how paradise is not simply “garden,” but a cosmological institution
-
-It also strengthens the bridge between Mesopotamian material and later stories about knowledge, exile, and the loss of life.
-
-## Connections
-
-- [[summary-oldest-religious-text-babylonia]]
-- [[summary-sumerian-sources]]
-- [[entity-enki]]
-- [[entity-enlil]]
-- [[analysis-potop]]
-- [[analysis-drevnost-i-model-zla]]
-
+- почему люди мудры, но смертны
+- почему сакральные центры имеют космическое значение
+- как соотносятся дар знания и ограничение жизни
+- почему рай в древней традиции — это не просто сад, а институт космического порядка

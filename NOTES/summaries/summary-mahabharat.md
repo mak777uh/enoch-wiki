@@ -1,5 +1,5 @@
 ---
-title: "The Mahabharat: summary"
+title: "Махабхарата: summary"
 created: 2026-04-19
 type: summary
 tags: [india, epic, dharma, kingship, war, serpents]
@@ -8,51 +8,62 @@ related: [[entity-approach-induizm]], [[analysis-gipoteza-evolucia-zla]], [[anal
 status: active
 ---
 
-# The Mahabharat: summary
+# Махабхарата: summary
 
-## What the text is
+## Что это за источник
 
-The Mahabharata is a vast epic corpus centered on dynastic conflict, dharma, divine intervention, and the moral instability of power. Compared with the Ramayana, it is less cleanly heroic and more layered, argumentative, and cosmically large.
+`Махабхарата` — огромный индийский эпический корпус, в центре которого династический конфликт, дхарма, божественное вмешательство и моральная нестабильность власти. По сравнению с `Рамаяной` этот текст менее линейно-героический и гораздо более многослойный, философский и спорный. Для базы он особенно ценен именно как источник, где космический порядок не просто восстанавливается, а постоянно обсуждается, оспаривается и испытывается.
 
-## Structure and overall movement
+## Как устроен текст
 
-The text brings together:
+Корпус соединяет в себе несколько больших слоёв:
 
-- lineage and succession
-- political legitimacy and its breakdown
-- disputes over dharma
-- war at a massive scale
-- divine guidance and ambiguous intervention
-- philosophical reflection on duty, time, and order
+- генеалогии и вопросы наследования
+- борьбу за престол и легитимность
+- споры о дхарме
+- войну огромного масштаба
+- вмешательство богов и полубожественных сил
+- философские рассуждения о долге, времени и порядке
 
-Because of its size and internal diversity, it is useful as a comparison source for almost every major motif in the base.
+Важная особенность `Махабхараты` состоит в том, что здесь нет одной простой морали. Один и тот же поступок может выглядеть как долг, ошибка, неизбежность или трагедия в зависимости от контекста. Именно поэтому текст так полезен для базы: он показывает, как религиозное и мифическое мышление становится рефлексивным.
 
-## Important motifs
+## Основное содержание
 
-- kingship and succession
-- war as cosmic and moral crisis
-- divine descent
-- serpent and quasi-serpent figures
-- time, fate, and dharma
-- ambiguity rather than a single simple moral line
+Сюжетный центр текста — конфликт между родственными линиями, который перерастает в войну, определяющую судьбу мира. При этом `Махабхарата` не сводится к военной истории: она постоянно включает в себя диалоги о правде, судьбе, праве на власть, природе действия и цене выбора. В ней присутствуют и дивные существа, и змеиные или полузмеиные фигуры, и мотивы небесного вмешательства, и размышления о том, как человек вообще может действовать правильно в мире, где порядок уже повреждён.
 
-## Why it matters for this base
+## Главные мотивы
 
-The Mahabharata helps us compare how different traditions handle:
+- власть и наследование
+- война как моральный и космический кризис
+- дхарма как обязанность и проблема
+- время, судьба и историческая неизбежность
+- змееподобные и гибридные существа
+- вмешательство богов и скрытое знание
+- неоднозначность вместо прямой схемы добра и зла
 
-- conflict as a world-order problem
-- the relation between human politics and divine order
-- serpent or dragon motifs
-- divine assistance and hidden knowledge
-- the gradual moralization of mythic conflict
+## Почему это важно для базы
 
-It is especially useful where we are comparing Indian material with the Enochic and wider ancient comparative field.
+`Махабхарата` помогает сравнивать, как разные традиции понимают:
 
-## Connections
+- конфликт как разрушение мира
+- долг как религиозную категорию
+- связь между человеческой политикой и космическим порядком
+- змею, дракона и гибридные мотивы
+- моральное измерение мифа
+
+Она особенно важна там, где мы сравниваем индийский материал с енохическими, месопотамскими и более широкими древними слоями. В отличие от более кратких мифов, здесь можно увидеть, как древний сюжет разворачивается в огромный этико-космологический мир.
+
+## Для сопоставления
+
+- индийские мотивы о дхарме и космическом долге
+- материалы о змеях, чудовищах и гибридных существах
+- сравнение с войной, судом и моральной нестабильностью власти
+- сравнение с текстами, где зло становится системным и философским
+
+## Связи
 
 - [[entity-indra-i-zmei]]
 - [[entity-asura]]
 - [[analysis-heroes-zmeebortsy]]
 - [[analysis-gipoteza-evolucia-zla]]
 - [[entity-approach-induizm]]
-

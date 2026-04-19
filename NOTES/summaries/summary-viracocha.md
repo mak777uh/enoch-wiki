@@ -1,5 +1,5 @@
 ---
-title: "Viracocha: summary"
+title: "Виракоча: summary"
 created: 2026-04-19
 type: summary
 tags: [andes, viracocha, creator, sacred geography, civilizing hero]
@@ -8,40 +8,58 @@ related: [[analysis-building-motifs-global-map]], [[analysis-istoriya-planety-pr
 status: active
 ---
 
-# Viracocha: summary
+# Виракоча: summary
 
-## What the text is
+## Что это за источник
 
-Viracocha in the comparative tradition is the Peruvian creator and culture hero associated with water, sacred geography, civilizing instruction, and punishment of those who refuse order. This makes the source especially useful for our comparative motif of a divine or semi-divine orderer of the world.
+`Виракоча` в сравнительной традиции — перуанский творец и культурный герой, связанный с водой, сакральной географией, обучением людей и наказанием тех, кто не принимает порядок. Для нашей базы он важен как образ божественного или полубожественного устроителя мира, который не только создаёт, но и цивилизует, объясняет и наказывает.
 
-## What it says
+## Как устроен сюжет
 
-Viracocha emerges from Lake Titicaca, moves through the land, teaches or organizes people, and destroys or punishes those who do not listen. The myth combines creation, civilizing authority, and punitive power. In that respect it is not just a “creator story” but a story about the making of a social world.
+В мифе `Виракоча` появляется из озера Титикака, затем движется по земле, обучает людей или организует их жизнь, а тех, кто отказывается слушать, уничтожает либо карает. Этот сюжет соединяет творение, наставление и принуждение в одну модель. Поэтому источник особенно полезен для сравнения с текстами, где порядок мира устанавливается не только словом, но и путешествием, маршрутом и сакральной картой местности.
 
-## Main motifs
+## Основное содержание
 
-- emergence from water
-- teaching and civilization
-- holy geography
-- destruction of the disobedient
-- return / departure motif
+Важнейшие элементы мифа:
 
-## Why it matters for the base
+- выход из воды или водной бездны
+- движение по земле как акт организации пространства
+- передача знания людям
+- борьба с неупорядоченным или непослушным населением
+- мотив ухода или возвращения
 
-Viracocha is important because he gives us a comparison point outside the Near East for:
+Здесь хорошо видно, что сакральный порядок распространяется не через абстрактную доктрину, а через географию, путь и локальные священные точки. Для базы это особенно интересно, потому что такой сюжет помогает сравнивать не только тексты о храме и космосе, но и мифы о сакральном ландшафте, в котором земля сама становится носителем религиозного смысла.
 
-- creator figures who also civilize
-- sacred waters and origin places
-- travel as world-ordering
-- punishment as part of ordering
+## Главные мотивы
 
-It strengthens the base's comparative field by showing that sacred order can be carried through geography and journey, not only through temple or text.
+- выход из воды
+- обучение и цивилизация
+- священная география
+- наказание непослушных
+- мотив ухода / возвращения
 
-## Connections
+## Почему это важно для базы
+
+`Виракоча` даёт нам сравнительную точку вне Переднего Востока, где:
+
+- творец одновременно выступает как культурный герой
+- священные воды связаны с происхождением мира
+- путь по земле становится способом упорядочить пространство
+- наказание включено в сам акт устройства мира
+
+Это расширяет наш сравнительный корпус и показывает, что порядок может передаваться не только через текст, храм или закон, но и через маршрут, горы, озёра и священные точки на карте.
+
+## Для сопоставления
+
+- тексты о священной географии
+- строительные и храмовые мотивы
+- мифы о культурных героях
+- андские традиции в сравнении с другими регионами
+
+## Связи
 
 - [[analysis-building-motifs-global-map]]
 - [[analysis-istoriya-planety-proveryaemye-i-mifologicheskie-sloi]]
 - [[entity-approach-induizm]]
 - [[entity-approach-egypt]]
 - [[entity-approach-slavs]]
-

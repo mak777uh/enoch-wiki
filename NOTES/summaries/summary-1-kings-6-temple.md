@@ -1,9 +1,9 @@
 ---
-title: "1 Kings 6 - Summary"
+title: "3 Царств 6: summary"
 type: summary
 status: active
 created: 2026-04-19
-summary: "1 Kings 6 is the main biblical temple-building chapter: Solomon begins the house of the Lord, the dimensions are measured, cedar and stone are ordered, and the temple is framed as the place of divine dwelling. For our research it is a core text for sacred architecture, covenantal building, and the materialization of religious order."
+summary: "3 Царств 6 описывает строительство соломонова храма как измеренный, упорядоченный и сакрализованный процесс: размеры, материалы, внутренняя планировка и идея Божьего жилища соединяются в образ архитектуры, которая сама становится формой завета и порядка. Для нашей базы это один из ключевых текстов о том, как строительство превращается в религиозное действие."
 sources: [22-1-kings-6-temple.md]
 tags: [solomon, temple, building, cedar, covenant, architecture]
 related:
@@ -14,17 +14,20 @@ related:
 status: active
 ---
 
-# 1 Kings 6
+# 3 Царств 6
 
-## What the text does
+## Что делает текст
 
-This chapter narrates the building of Solomon's temple with dimensions, materials, and architectural order.
+Эта глава подробно описывает строительство храма Соломона. В ней последовательно показаны размеры здания, выбор материалов, внутренняя структура и общая архитектурная упорядоченность. Текст особенно важен тем, что превращает строительное описание в богословское утверждение: храм не просто возводится, а подготавливается как место Божьего пребывания.
 
-## Main motifs
+## Основные мотивы
 
-- measured sacred space
-- divine promise tied to building
-- stone and cedar
-- temple as covenantal center
-- kingship expressed through construction
+- измеренное сакральное пространство
+- обещание Бога, связанное со строительством
+- камень, кедр и отделка
+- храм как центр завета
+- царская власть, выраженная через архитектуру
 
+## Почему это важно для базы
+
+Этот текст показывает, что в древнем мире строительство может быть не только техническим, но и религиозным действием. Здесь архитектура становится материальным выражением порядка, воли и легитимности. Для нашей сравнительной работы это один из базовых текстов о храме как о модели мира.

@@ -1,5 +1,5 @@
 ---
-title: "The Pyramid Builders: summary"
+title: "Строители пирамид: summary"
 created: 2026-04-19
 type: summary
 tags: [egypt, pyramids, construction, monuments, architecture]
@@ -8,40 +8,31 @@ related: [[summary-pyramid-texts-index]], [[analysis-building-motifs-global-map]
 status: active
 ---
 
-# The Pyramid Builders: summary
+# Строители пирамид: summary
 
-## What the text is
+## Что это за источник
 
-This source is a scholarly explanation of pyramid architecture and construction. It is not an ancient liturgical text, but it is still useful for the repository because it gives a direct look at the monumental engineering side of the pyramid tradition.
+Этот материал представляет собой научное объяснение пирамидной архитектуры и строительства. Это не древний ритуальный текст, но для базы он полезен, потому что даёт прямое представление о монументальной инженерной стороне пирамидной традиции.
 
-## What it describes
+## Что он описывает
 
-The text emphasizes:
+Текст подчёркивает:
 
-- the physical scale of the pyramids
-- the long and narrow access passages
-- chambers cut through masonry and rock
-- the careful internal layout of the monument
-- the enduring symbolic and cultural power of pyramids
+- физический масштаб пирамид
+- длинные и узкие проходы
+- камеры, вырубленные в кладке и скале
+- продуманную внутреннюю планировку монумента
+- долговечную символическую силу пирамид
 
-This lets us connect the architectural facts to our broader interest in sacred construction, cosmic order, and monumentality.
+Это помогает нам соединить архитектурные факты с более широким интересом к сакральному строительству, космическому порядку и монументальности.
 
-## Why it matters for the base
+## Почему это важно для базы
 
-Pyramids are not just “big buildings” in this context. They are:
+Пирамиды здесь — не просто большие здания. Это:
 
-- memorial structures
-- sacred architecture
-- royal power made visible in stone
-- a model of permanence and cosmic order
+- мемориальные сооружения
+- сакральная архитектура
+- царская власть, видимая в камне
+- модель постоянства и космического порядка
 
-That makes this source valuable not only for Egypt, but for comparison with temples, towers, ziggurats, and other sacred building traditions.
-
-## Connections
-
-- [[summary-pyramid-texts-index]]
-- [[analysis-building-motifs-global-map]]
-- [[summary-1-kings-6-temple]]
-- [[summary-chaldean-account-tower]]
-- [[entity-approach-egypt]]
-
+Поэтому источник важен не только для Египта, но и для сравнений с храмами, башнями, зиккуратами и другими традициями священного строительства.

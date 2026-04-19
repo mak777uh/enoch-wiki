@@ -1,9 +1,9 @@
 ---
-title: "1 Kings 7 - Summary"
+title: "3 Царств 7: summary"
 type: summary
 status: active
 created: 2026-04-19
-summary: "1 Kings 7 expands Solomon's building project into palace, porch, throne-room, bronze casting, and monumental pillars. It is important for seeing temple architecture as a whole civic-religious complex, where skilled labor, metalwork, and judgment space sit beside the sanctuary."
+summary: "3 Царств 7 расширяет храмовый проект Соломона до дворцово-храмового комплекса, где появляются медные столбы, литейные работы, тронный зал и пространство суда. Для базы это важный текст о монументальности, ремесле и соединении религиозной, политической и судебной архитектуры."
 sources: [23-1-kings-7-temple-furnishings.md]
 tags: [solomon, pillars, bronze, temple, palace, judgment]
 related:
@@ -13,12 +13,19 @@ related:
 status: active
 ---
 
-# 1 Kings 7
+# 3 Царств 7
 
-## Main motifs
+## Что делает текст
 
-- palace and temple as a combined complex
-- pillars as monumental markers
-- bronze casting as sacred labor
-- judgment hall as political-sacred architecture
+Эта глава продолжает рассказ о храмовом строительстве и показывает, что проект Соломона не ограничивается собственно святилищем. К храму примыкают дворец, тронный зал, медные изделия и монументальные столбы. В результате возникает целый сакрально-политический комплекс.
 
+## Основные мотивы
+
+- дворец и храм как единое пространство власти
+- столбы как монументальные знаки
+- литьё меди как священный труд
+- тронный или судебный зал как часть архитектуры порядка
+
+## Почему это важно для базы
+
+Глава помогает нам увидеть, что большое сооружение в древности часто включает не только храм как таковой, но и целую систему помещений, символов и ремесленных процессов. Здесь архитектура одновременно выражает царскую власть, ритуальную функцию и публичный суд.

@@ -1,5 +1,5 @@
 ---
-title: "Avesta: summary"
+title: "Авеста: summary"
 created: 2026-04-19
 type: summary
 tags: [iran, zoroastrianism, dualism, purity, law, eschatology]
@@ -8,48 +8,57 @@ related: [[summary-gathas-selected-passage]], [[analysis-drevnost-i-model-zla]],
 status: active
 ---
 
-# Avesta: summary
+# Авеста: summary
 
-## What the text is
+## Что это за источник
 
-The Avesta is the central Zoroastrian corpus. It is not a single book but a textual tradition containing liturgical, legal, and mythic material. In the repository it matters because it gives us one of the strongest ancient models of cosmic dualism and religious law.
+`Авеста` — центральный зороастрийский корпус. Это не одна книга, а целая текстовая традиция, включающая литургические, правовые и мифологические материалы. Для нашей базы источник особенно важен тем, что даёт один из наиболее сильных древних образцов дуалистической картины мира, где космический конфликт, чистота, закон и конец времён связаны в единую систему.
 
-## What it does
+## Как устроен корпус
 
-The corpus organizes the world in terms of:
+`Авеста` не читается как единый линейный нарратив. Это корпус, в котором сосуществуют гимны, предписания, ритуальные формулы, представления о чистоте и нечистоте, а также образы будущего обновления мира. Поэтому при чтении важно видеть не только сюжет, но и нормативную сторону текста: он не просто описывает реальность, а задаёт способ правильного существования в ней.
 
-- creation by the good principle
-- opposition by destructive forces
-- purity and pollution
-- treatment of the dead
-- sacred law and ritual order
-- future renewal and final victory
+## Основное содержание
 
-This makes it a very important comparison source for questions of evil, purity, and end-time restoration.
+В центре корпуса стоит мир, созданный добрым началом, которому противостоит разрушительное начало. Отсюда разворачиваются главные темы:
 
-## Main motifs
+- космическое противостояние добра и разрушения
+- ритуальная и телесная чистота
+- обращение с мёртвыми и проблема посмертного порядка
+- священный закон как способ поддержания мира
+- будущее обновление и окончательная победа благого начала
 
-- good vs destructive principle
-- law and purity
-- burial / exposure / funerary concern
-- cosmic and ritual order
-- future renewal
+Это делает `Авесту` особенно полезной для нашей базы, потому что здесь зло понимается не только как нравственная ошибка, а как реальный принцип разрушения, с которым нужно бороться ритуально, законодательно и космологически одновременно.
 
-## Why it matters for the base
+## Главные мотивы
 
-The Avesta helps us compare Iranian religion with:
+- дуализм
+- закон и чистота
+- умершие и погребальный вопрос
+- космический и ритуальный порядок
+- будущее обновление мира
 
-- Enochic demonology
-- later moralized evil
-- purity law and ritual systems
-- end-time judgment and renewal
+## Почему это важно для базы
 
-It is a major source for understanding how evil can become a cosmic principle rather than just a human fault.
+`Авеста` помогает сравнивать иранскую религию с:
 
-## Connections
+- енохической демонологией
+- поздней моральной интерпретацией зла
+- системами ритуальной чистоты
+- эсхатологией, судом и обновлением мира
+
+Она особенно ценна там, где мы хотим понять, как зло может становиться не просто поступком, а структурой космоса. В этом смысле зороастрийская линия стоит рядом с самыми важными для нас сюжетами о падении, суде и финальном разделении.
+
+## Для сопоставления
+
+- `Гаты`
+- заметки о модели древнего зла
+- сравнения с демонологией и эсхатологией
+- иранский блок как целое
+
+## Связи
 
 - [[summary-gathas-selected-passage]]
 - [[analysis-drevnost-i-model-zla]]
 - [[analysis-gipoteza-evolucia-zla]]
 - [[entity-approach-zoroastrizm]]
-

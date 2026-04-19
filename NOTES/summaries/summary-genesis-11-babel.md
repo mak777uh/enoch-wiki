@@ -1,9 +1,9 @@
 ---
-title: "Genesis 11 - Summary"
+title: "Бытие 11: Вавилонская башня: summary"
 type: summary
 status: active
 created: 2026-04-19
-summary: "Genesis 11 gives the archetypal Babel story: one language, a planned city and tower, brick and bitumen as building technology, and divine intervention through language confusion and scattering. For our base it matters as a foundational myth of large construction, social unity, pride, and the limits placed on human vertical ambition."
+summary: "Бытие 11 даёт архетипический сюжет о Вавилонской башне: один язык, общая стройка города и башни, кирпич и битум как технология, а затем вмешательство Бога через смешение языков и рассеяние людей. Для нашей базы это один из главных текстов о строительстве, коллективной амбиции, единстве и пределе человеческого вертикального стремления."
 sources: [21-genesis-11-babel.md]
 tags: [babel, tower, language, bricks, bitumen, genesis]
 related:
@@ -14,24 +14,23 @@ related:
 status: active
 ---
 
-# Genesis 11
+# Бытие 11
 
-## What the text does
+## Что делает текст
 
-Genesis 11 is the classic tower narrative. Humans share one language, gather on the plain of Shinar, and decide to build a city and a tower that reaches upward. The building material matters: brick replaces stone, and bitumen becomes the binding substance.
+Эта глава даёт классический сюжет о башне. Люди говорят на одном языке, собираются на равнине Сеннаар и решают построить город и башню, которая достигнет неба. Особенно важны материалы: вместо камня используются кирпичи, а вместо известкового раствора — битум.
 
-## Main motifs
+## Основные мотивы
 
-- collective building
-- vertical aspiration
-- technological standardization
-- divine descent
-- language fragmentation
-- scattering of peoples
+- коллективная стройка
+- вертикальное стремление
+- технологическая стандартизация
+- божественное вмешательство
+- смешение языков
+- рассеяние народов
 
-## Why it matters for the base
+## Почему это важно для базы
 
-- It is one of the clearest ancient texts where construction becomes a problem of order and power.
-- It gives a durable model for later tower stories.
-- It helps compare architecture with pride, unity, and divine restraint.
-
+- это один из самых ясных древних текстов, где строительство становится проблемой порядка и власти
+- он даёт устойчивую модель для позднейших башенных сюжетов
+- он помогает сравнивать архитектуру с гордостью, единством и божественным ограничением

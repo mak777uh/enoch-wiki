@@ -1,5 +1,5 @@
 ---
-title: "The Egyptian Book of the Dead: summary"
+title: "Египетская Книга мёртвых: summary"
 created: 2026-04-19
 type: summary
 tags: [egypt, afterlife, osiris, ra, judgment, funerary]
@@ -8,56 +8,29 @@ related: [[summary-sekhet-hetep]], [[summary-opening-the-tomb]], [[summary-litur
 status: active
 ---
 
-# The Egyptian Book of the Dead: summary
+# Египетская Книга мёртвых: summary
 
-## What the text is
+## Что это за источник
 
-The Egyptian Book of the Dead is a funerary corpus rather than a single book. It gathers hymns, spells, invocations, transformations, and protections that help the dead pass through the underworld and reach a blessed state. In the repository it is essential because it gives a full, structured view of the Egyptian afterlife system.
+`Книга мёртвых` — не единая книга, а погребальный корпус, объединяющий гимны, заклинания, молитвы и защитные формулы. Это один из самых важных египетских источников для понимания того, как древние представляли себе смерть не как конец, а как управляемый переход через опасный и структурированный мир.
 
-## What it does
+## Как устроен корпус
 
-The text does not simply describe death. It organizes death:
+Корпус не просто описывает загробную реальность, а снабжает умершего средствами передвижения по ней:
 
-- the dead are equipped with words and ritual formulas
-- the heart is preserved
-- the mouth is opened
-- enemies are repelled
-- gates are passed
-- the dead are transformed into a righteous, effective being
+- слова и формулы защиты
+- сохранение сердца
+- открытие рта
+- изгнание врагов
+- прохождение врат
+- преобразование умершего в действующее благословенное существо
 
-This makes the corpus one of the clearest ancient examples of death being converted into a managed journey.
+По сути, это целая технология посмертного существования.
 
-## Main structure and themes
+## Основное содержание
 
-The corpus contains many chapters and thematic units, including:
+`Книга мёртвых` объединяет множество глав и тематических блоков: гимны Ра и Осирису, победу над врагами, сохранение сердца, открытие рта, защитные заклинания и навигацию по подземному миру. Логика текста заключается в том, чтобы не просто пережить смерть, а заново организовать личность умершего так, чтобы она могла действовать в скрытом мире.
 
-- hymns to Ra and Osiris
-- victory over enemies
-- opening the mouth
-- preserving the heart
-- protective formulas
-- navigation through the underworld
-- transformation into a khu
+## Почему это важно для базы
 
-The practical logic is ritual survival after death, but the theological logic is larger: the dead person is re-formed into a being capable of passing through the hidden world.
-
-## Why it matters for this base
-
-This source is important for comparing Egypt with the Enochic and broader comparative material because it shows:
-
-- a full afterlife administration
-- protection through sacred speech
-- judgment-like structures without the same moral-apocalyptic form as Enoch
-- the relation between ritual, memory, and survival
-
-It also helps with our recurring motif of the underworld as a structured place, not just a vague abyss.
-
-## Connections
-
-- [[summary-sekhet-hetep]]
-- [[summary-opening-the-tomb]]
-- [[summary-liturgy-of-funerary-offerings]]
-- [[analysis-drevnost-i-model-zla]]
-- [[analysis-potop]]
-- [[entity-approach-egypt]]
-
+Для нашей базы этот корпус особенно ценен тем, что показывает полноценную древнюю систему посмертного порядка. В нём смерть становится не хаосом, а ритуально управляемым переходом. Это помогает сравнивать египетскую традицию с енохическими, месопотамскими и другими текстами о суде, загробном мире и судьбе души.

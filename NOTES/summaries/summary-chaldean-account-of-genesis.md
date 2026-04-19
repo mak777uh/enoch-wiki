@@ -1,5 +1,5 @@
 ---
-title: "The Chaldean Account of Genesis: summary"
+title: "Халдейское предание о Бытии: summary"
 created: 2026-04-19
 type: summary
 tags: [mesopotamia, babylon, genesis, flood, babel, nimrod]
@@ -8,56 +8,31 @@ related: [[summary-genesis-11-babel]], [[summary-mesopotamian-flood]], [[summary
 status: active
 ---
 
-# The Chaldean Account of Genesis: summary
+# Халдейское предание о Бытии: summary
 
-## What the text is
+## Что это за источник
 
-George Smith's `The Chaldean Account of Genesis` is a 19th-century scholarly book that collects and interprets Babylonian and Assyrian materials in relation to the biblical book of Genesis. It is not a primary ancient source, but it is extremely useful as a comparative bridge because it organizes creation, flood, tower, and early kingship traditions in one frame.
+`The Chaldean Account of Genesis` Джорджа Смита — это не древний текст, а научная книга XIX века, в которой собраны и интерпретированы вавилонские и ассирийские материалы в сопоставлении с библейской `Книгой Бытия`. Для нашей базы источник важен как сравнительный мост: он собирает в одном поле творение, потоп, башню и раннюю царскую историю.
 
-## What the book does
+## Что делает книга
 
-The book aims to show that Babylonian traditions contain strong parallels to the biblical opening chapters:
+Книга стремится показать, что вавилонская традиция содержит сильные параллели к начальным главам Библии:
 
-- creation stories
-- the first human order
-- the flood
-- the tower of Babel
-- early kings and Nimrod traditions
+- сюжеты о творении
+- первый человеческий порядок
+- потоп
+- Вавилонская башня
+- ранние цари и мотив Нимрода
 
-This makes it especially useful for our base because it bundles together several major thematic clusters that we already track separately.
+Эта рамка делает книгу полезной не только как исторический источник сравнительного богословия, но и как пример того, как сам сравнительный язык складывался в XIX веке.
 
-## Why it matters for the base
+## Почему это важно для базы
 
-The value of this source is not only in the ancient fragments it discusses, but also in the way it frames comparison. It gives us:
+Книга важна потому, что соединяет несколько ключевых кластеров, которые мы уже держим отдельно:
 
-- a clear Mesopotamian-biblical comparison
-- a historical example of how these parallels were read in the 19th century
-- a bridge from deluge narratives to tower narratives
-- a bridge from mythic chronology to early kingship traditions
+- потопные традиции
+- башенные и строительные сюжеты
+- раннее царство и сакральную историю
+- месопотамский и библейский сравнительный узел
 
-## Main motifs
-
-- creation and early cosmic order
-- flood as a world-breaking event
-- tower as a marker of human collective ambition
-- Nimrod and post-flood kingship
-- Babylon as the center of the comparative field
-
-## Why it matters for this base
-
-This source helps us compare:
-
-- Genesis and Mesopotamian literature
-- flood traditions and tower traditions
-- sacred history and scholarly reconstruction
-
-It also gives us a compact entry point for the user who wants to understand how the Babylonian material has been historically organized around Genesis parallels.
-
-## Connections
-
-- [[summary-genesis-11-babel]]
-- [[summary-mesopotamian-flood]]
-- [[summary-chaldean-account-tower]]
-- [[analysis-potop]]
-- [[analysis-building-motifs-global-map]]
-
+Она помогает понять, как разные традиции начали читаться как взаимосвязанные уже в эпоху научного ориентализма.

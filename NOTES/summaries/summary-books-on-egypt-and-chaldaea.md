@@ -1,5 +1,5 @@
 ---
-title: "Books on Egypt and Chaldaea: summary"
+title: "Книги об Египте и Халдее: summary"
 created: 2026-04-19
 type: summary
 tags: [egypt, chaldaea, collection, underworld, pyramids, funerary]
@@ -8,35 +8,21 @@ related: [[summary-book-of-the-dead]], [[summary-pyramid-builders]], [[entity-ap
 status: active
 ---
 
-# Books on Egypt and Chaldaea: summary
+# Книги об Египте и Халдее: summary
 
-## What the text is
+## Что это за источник
 
-This page is not a single ancient text but a collection index for a series of important scholarly volumes on Egypt and Chaldaea. For our purposes it is useful as an access node to a broader Egyptian comparative corpus.
+Это не единый древний текст, а указатель на собрание научных трудов по Египту и Халдее. Для нашей базы он полезен как входная точка в более широкий египетский сравнительный корпус.
 
-## What it does
+## Что он даёт
 
-The collection groups together funerary, royal, underworld, and monumental literature. That makes it a practical gateway for finding texts like:
+Собрание помогает быстро выйти на литературу и тексты, связанные с:
 
-- the Book of the Dead
-- Book of Gates material
-- Am-Tuat material
-- pyramid-related volumes
+- `Книгой мёртвых`
+- материалами о `Вратах` и `Амдуате`
+- пирамидной традицией
+- царской и загробной архитектурой
 
-## Why it matters for the base
+## Почему это важно для базы
 
-The repository benefits from this source because it gives us a clear path into Egyptian material that is directly relevant to:
-
-- death and passage
-- underworld gates
-- royal monumentality
-- cosmic order in stone and ritual
-
-## Connections
-
-- [[summary-book-of-the-dead]]
-- [[summary-pyramid-builders]]
-- [[summary-sekhet-hetep]]
-- [[analysis-building-motifs-global-map]]
-- [[entity-approach-egypt]]
-
+Этот источник удобен как навигационный узел: он ведёт к корпусам о смерти, переходе, загробных вратах и монументальности. Для сравнительного исследования он полезен как карта дальнейшего добора материалов, а не как самостоятельный мифологический текст.

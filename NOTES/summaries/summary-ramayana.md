@@ -1,5 +1,5 @@
 ---
-title: "The Ramayana: summary"
+title: "Рамаяна: summary"
 created: 2026-04-19
 type: summary
 tags: [india, epic, rama, bridge, kingship, demons]
@@ -8,51 +8,62 @@ related: [[analysis-heroes-zmeebortsy]], [[analysis-building-motifs-global-map]]
 status: active
 ---
 
-# The Ramayana: summary
+# Рамаяна: summary
 
-## What the text is
+## Что это за источник
 
-The Ramayana is a foundational Indian epic centered on Rama, Sita, exile, alliance, war with Ravana, and the restoration of order. In the repository it matters both as a religious-literary classic and as a source for the building motif, because the bridge to Lanka is one of the clearest large-construction episodes in the comparative material.
+`Рамаяна` — один из главных индийских эпосов, посвящённый Раме, Сите, изгнанию, союзу союзников, войне с Раваной и восстановлению порядка. Для базы этот текст важен сразу на нескольких уровнях: как классический литературно-религиозный корпус, как источник по идеалу царской власти и как текст, где строительство выступает частью космически значимого действия.
 
-## Structure and storyline
+## Как устроен сюжет
 
-The story is built around a royal crisis:
+Сюжет строится вокруг кризиса престолонаследия и его расширения до космического конфликта. Рама оказывается вынужденным покинуть царский центр, изгнание превращается в испытание, затем в поиск союзников, а затем в войну с силой, нарушающей порядок. Кульминацией становится строительство моста к Ланке, после которого происходит переход к победе, восстановлению справедливости и возвращению легитимного порядка.
 
-- Rama is prepared for succession
-- court intrigue forces exile
-- the exile widens into a larger cosmic conflict
-- allies are gathered
-- a bridge is built to reach Lanka
-- Ravana is defeated
-- order and legitimacy are restored
+Таким образом, текст разворачивает несколько связанных уровней:
 
-This makes the poem useful as a comparison point for texts where order is lost and then rebuilt through divine or heroic action.
+- семейный и династический кризис
+- политическую и царскую легитимность
+- войну с демоническим противником
+- восстановление нарушенного порядка
+- сакральное строительство как средство перехода
 
-## Important motifs
+## Основное содержание
 
-- ideal kingship
-- exile as a test
-- divine-human alignment
-- enemy stronghold and crossing
-- bridge-building as a sacred / strategic act
-- restoration of social and cosmic order
+`Рамаяна` соединяет идеального царя, верную жену, союзников, испытание в изгнании и победу над Раваной в единый образ мира, где правильное правление должно быть не только законным, но и морально оправданным. Важнейший эпизод для нашей базы — мост через море. Это не просто инженерный сюжет, а момент, в котором совместное усилие, сакральная цель и стратегическая необходимость сливаются в одно действие.
 
-## Why it matters for the base
+Строительство здесь работает не как фон, а как форма восстановления мира. Сам акт возведения моста показывает, что граница между мирами может быть преодолена только коллективным усилием, правильной целью и поддержкой высших сил. Это делает текст особенно ценным для сравнений с храмовой, башенной и мегалитической темой.
 
-For our purposes the Ramayana is not only a heroic epic. It also helps us compare:
+## Главные мотивы
 
-- construction as a meaningful act
-- the relation between sacred order and political rule
-- demon figures and their defeat
-- the role of allied beings in large-scale sacred work
+- идеальное царство и законная власть
+- изгнание как испытание
+- союз людей и сверхъестественных помощников
+- вражеская крепость и переход к ней
+- мостостроение как сакральный и стратегический акт
+- победа над демоническим противником
+- восстановление космического и социального порядка
 
-It can be read alongside the temple and tower material because it shows that building is often not just engineering, but an act of world-ordering.
+## Почему это важно для базы
 
-## Connections
+`Рамаяна` помогает сравнивать:
+
+- строительство как священное действие
+- царскую власть и порядок
+- демонические фигуры и их поражение
+- коллективное действие как способ преодоления границы
+
+В сравнительной перспективе этот эпос особенно полезен рядом с храмовыми и башенными сюжетами, потому что показывает: большое сооружение может быть не просто архитектурой, а способом вернуть мир к правильному состоянию.
+
+## Для сопоставления
+
+- храмовые и башенные тексты
+- материалы о змееборчестве и демонических противниках
+- сравнительные заметки о строительных мотивах
+- индийский блок о власти, жертве и космосе
+
+## Связи
 
 - [[analysis-heroes-zmeebortsy]]
 - [[analysis-building-motifs-global-map]]
 - [[entity-indra-i-zmei]]
 - [[entity-asura]]
 - [[entity-approach-induizm]]
-
