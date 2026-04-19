@@ -114,6 +114,8 @@
 | [[summary-book-of-the-dead]] | The Egyptian Book of the Dead |
 | [[summary-pyramid-builders]] | The Pyramid Builders |
 | [[summary-chaldean-account-of-genesis]] | The Chaldean Account of Genesis |
+| [[summary-popol-vuh]] | The Popol Vuh |
+| [[summary-viracocha]] | Viracocha |
 
 ### Древние корпуса
 
