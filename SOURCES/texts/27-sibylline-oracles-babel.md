@@ -1,1 +1,30 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'NNTT0vaHFAvkpXDjSCpadrOaJ26fpDA7YMKnjO1fqRU-1776606965-1.2.1.1-4DL3VilaaW0ngC8IRA09buOFjVqlSLf4mC0X4B487ukg2nRJB5U_zUazyfr_JmYb',cITimeS: '1776606965',cRay: '9eec691c4fd68645',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/cla/sib/sib05.htm?__cf_chl_tk=6F1aBdZdEGa2Cv3G8u23aoUkHMoWHaB4j2I5lfN1p5U-1776606965-1.0.1.1-jRKcOro81qjLG8UTU5Y0.V.L_O1rQlOJHYGDKUoITso",cvId: '3',cZone: 'sacred-texts.com',fa:"/cla/sib/sib05.htm?__cf_chl_f_tk=6F1aBdZdEGa2Cv3G8u23aoUkHMoWHaB4j2I5lfN1p5U-1776606965-1.0.1.1-jRKcOro81qjLG8UTU5Y0.V.L_O1rQlOJHYGDKUoITso",md: '4NhJ57QUBdVgm1AwlRqmEVUrwxNB2cZwfKi25bx8_ss-1776606965-1.2.1.1-G5.w0I95gf0k8XF4IXElnh7hkUHGlFLpu9KL3e2yvXEWlQRpMldZOZBQuZU9e3Xg8yyQbbpmU17LBfEbZr.96RUSO1OggbdVRHVLM96ajahYk1AC3c5SdanfDip3Tx.Rn19PiSb7K4t1dqBWF9f4cQMeQIZYghMyncRJvaNP1YzPyNIbFqU6gisk7U8gv_oB4ccJJqBfG0pbl5hSGE0035BL4AsuE_l6XbncvDZMC.d5PBJ7m3ZLmM_yIMGH9QDGdKMmnr2LZuHd3Rtci5w0rwp3iXVbvVImsVPlL7x01KjhLuxrLykYlN5KZyMCIGYqBRBFVK8DD7Ikd_S8JwkKnvGUlbBKwRRDFeoiXY6xX491AW2pZ5sjdAiyE9tvpKcOzW2wziiJuAsIjV3pTIVlh9BlIGcqrI5nahwYBw8nK7MGYgW4HfhkAS4g5L86f0_nDb5e8ZJFlyJU.jwPnsjT3TeJWcUkWVKywHAUZvqUFpIlhkxRCaSgyhVcK3XRDczvPaHLW4O6yh3tw8iAqFiPG9fpAZlWCf3i5.uZGxnQtW_wsFNc9W47ySWSU1sfiyMredDlKgdsxRzV3YZ6RAiGuUn5LtFl2FP7ug5Xq64kL5UERMccpiBXh1NJmKdr8GqA6c3jgh9OejNx1kSGK23zKbJuRCMOpkXvI9DVEGXL4YLMSuIf4PqCu8yUxxjSGIDegla0BXp7s8m_cGmZHNV.CodL7oaOJt.tuBipybPckq_hDGPfre65s9jVXgXH8.xjykKI3.grXZY_E5rfgO27aFZg1DN.MUASy8Mv2yJ53BxS797k6cMlle2R.BqnWypHhBHSEb6RQXARotgmcJhhCpU77EpkZbWwv0lCbYeLcqVwWCgB2cKjhr56MalPlZut1fcpfJjBfnGOsr9bxgzKVKVFUk6h1vOFEng.aVcriYs',mdrd: '4YpStAqpXVkA247WnyX3hOhMcNne6PEgv5jxjnoyRIQ-1776606965-1.2.1.1-d03.zMieP3FTDFjbuqGP9U3roPssJfGSB_MgxZ35A_hzEkxvO0pYSeVcIx2PPQKoVNIAJ0W8dQQY2Ta.1N59bevtFg9rbNmaeuWBGETdFw.gv8ecKbjvb7HERkY.xzxmqtjr4ugRICG2tjSUC3150sn0qxHcKe4wB35y6YfcobjogublT1Mix5WTVm7HqH62GZB1DeveADsLR5jFQjw22UIe9XsvAKCyHEZ_OZX2rFIkwPK5lpogHrYCkYKSzC8m.1WJ3IO7qz5P9s7awgA9yA',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9eec691c4fd68645';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/cla/sib/sib05.htm?__cf_chl_rt_tk=6F1aBdZdEGa2Cv3G8u23aoUkHMoWHaB4j2I5lfN1p5U-1776606965-1.0.1.1-jRKcOro81qjLG8UTU5Y0.V.L_O1rQlOJHYGDKUoITso"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+---
+title: "Сивиллины оракулы о Вавилоне"
+source: "Wikisource"
+author: "греко-римская пророческая традиция"
+year: "поздняя античность"
+language: "ru"
+text_source: "https://en.wikisource.org/wiki/Sibylline_Oracles"
+notes: "Поздний апокалиптический материал о Вавилоне, башне и судьбе народов."
+---
+
+# Сивиллины оракулы о Вавилоне
+
+Этот источник нужен как поздняя апокалиптическая переработка темы Вавилона, башни и исторической судьбы народов. Он показывает, как древний сюжет живёт в более поздней пророческой традиции.
+
+## Что здесь важно
+
+Вавилон и башня здесь уже становятся символами не только строительства, но и мировой истории, суда и падения человеческой гордыни.
+
+## Почему это важно
+
+Для нашей базы это полезный мост от ранних месопотамских и библейских башенных сюжетов к поздней апокалиптической мысли.
+
+## Связи
+
+Связывать с:
+
+- [[summary-sibylline-oracles-babel]]
+- [[summary-genesis-11-babel]]
+- [[summary-chaldean-account-tower]]
+- [[analysis-building-motifs-global-map]]
