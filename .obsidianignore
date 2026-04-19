@@ -1,0 +1,15 @@
+# Obsidian ignores these files/folders
+# They won't appear in Graph View or search
+
+# Source texts — raw data, not knowledge
+SOURCES/
+
+# Backups
+_archive/
+
+# Inbox — raw/unprocessed notes
+_inbox/
+
+# OS junk
+.DS_Store
+Thumbs.db

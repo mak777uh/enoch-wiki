@@ -1,0 +1,48 @@
+A {
+	text-decoration : none;
+	color:blue;
+}
+A:VISITED {
+	text-decoration : none;
+	color:blue;
+}
+body, p, span{
+	font-family : sans-serif;
+	font-size : 12px;
+	text-align: justify;
+	margin-left: 25px;
+	margin-right: 10px;
+}
+h3,h4{
+	text-align : center;
+}
+h3{
+	font-size : 14px;
+}
+h4{
+	font-size : 13px;
+}
+.kniga {margin-left:50px;}
+
+.NormalLin {
+	font-weight: bolder;
+	font-size : 14px;
+	text-align : center;
+}
+li{
+	text-align: left;
+}
+.NormalLis {
+	font-style: italic;
+	padding-right: 25px;
+}
+.NormalMai {
+	text-indent: -20px;
+}
+.NormalMe {
+	text-indent: -20px;
+	font-weight: bolder;
+}
+.search {
+	text-indent: 20px;
+}
