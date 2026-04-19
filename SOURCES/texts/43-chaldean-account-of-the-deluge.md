@@ -1,41 +1,63 @@
 ---
-title: "The Chaldean Account of the Deluge"
+title: "Халдейское предание о потопе"
 source: "Wikisource"
-author: "George Smith"
+author: "Джордж Смит"
 year: "1872"
-language: "en"
+language: "ru"
 text_source: "https://en.wikisource.org/wiki/The_Chaldean_Account_of_the_Deluge"
-notes: "Scholarly presentation of Babylonian flood material. Useful deluge bridge for comparison with Atrahasis, Gilgamesh, and Genesis."
+notes: "Русский рабочий текст ранней публикации потопного материала Джорджа Смита и связанного с ним беросовского пересказа."
 ---
 
-# The Chaldean Account of the Deluge
+# Халдейское предание о потопе
 
-## What this source gives us
+## Вступление к тексту
 
-This source is a scholarly presentation of the Babylonian flood tradition. It is extremely valuable for the base because it isolates the deluge story in a form that can be compared directly with Genesis, Atrahasis, and Gilgamesh XI.
+Джордж Смит сообщает, что обнаружил среди ассирийских табличек в Британском музее рассказ о потопе, который стал одной из важнейших находок его времени. Для удобства работы он заранее разделил корпус табличек по темам, и именно в мифологическом разделе нашёл фрагменты, позволившие восстановить почти весь текст легенды о потопе.
 
-## Why it matters
+Он подчёркивает, что легенда об Ицдубаре и история потопа принадлежат чрезвычайно раннему периоду, а ссылки на этот сюжет встречаются уже в двуязычных списках, составленных в Вавилонии в раннехалдейскую эпоху. Ассирийцы, по его словам, часто копировали более древние вавилонские тексты, и именно поэтому этот материал оказался в библиотеке Ниневии.
 
-- It strengthens the flood cluster.
-- It gives us a focused Mesopotamian flood bridge text.
-- It helps compare divine warning, boat construction, and survival logic.
-- It is one of the classical comparison texts for Genesis and Babylon.
+## Что он нашёл
 
-## Key motifs
+Смит пишет, что в найденной табличке он опознал рассказ о том, как корабль остановился на горах Низира, как была выпущена птица и как она вернулась, не найдя места для отдыха. Это сразу показало, что найден фрагмент халдейского потопного рассказа.
 
-- flood as judgment
-- warning of the chosen man
-- boat / ark construction
-- survival of life
-- sacrifice after the flood
+Позднее он нашёл другие фрагменты той же истории, а затем и части других легенд того же цикла. В результате стало ясно, что речь идёт о большом корпусе повествований, связанных с Ицдубаром, героем, который жил уже после потопа и искал секрет бессмертия.
 
-## Graph use
+## Потоп в вавилонской версии
 
-Use this source when linking:
+Смит сопоставляет найденный текст с библейским рассказом о Ноевом потопе и с изложением Бероса. В его передаче звучит важная для нашей базы схема:
 
-- [[summary-atra-hasis]]
-- [[summary-gilgamesh-xi]]
+- божество предупреждает избранного человека;
+- тот строит корабль;
+- берёт с собой семью, друзей и животных;
+- наступает великий потоп;
+- корабль останавливается на горе;
+- выпускаются птицы;
+- затем следует жертва и восстановление порядка.
+
+Он отмечает, что беросовское предание и ассирийская табличка сходятся в главных чертах, хотя детали различаются.
+
+## Для чего этот текст нужен нашей базе
+
+Этот source-узел нужен как историческое свидетельство того, как потопный сюжет Месопотамии вошёл в сравнительную науку XIX века. Он помогает удержать одновременно:
+
+- древний сюжет,
+- археологическое открытие,
+- библейскую параллель,
+- и переход от мифа к научному обсуждению.
+
+Внутри `Enoch-Wiki` он особенно важен для тем:
+
+- потопа как суда,
+- корабля как средства спасения,
+- жертвы после бедствия,
+- и восстановления связи между миром людей и богов.
+
+## Связи
+
+Связывать с:
+
 - [[summary-mesopotamian-flood]]
 - [[analysis-potop]]
-- [[analysis-potop-biblical]]
-
+- [[analysis-drevnost-i-model-zla]]
+- [[entity-enki]]
+- [[entity-enlil]]
