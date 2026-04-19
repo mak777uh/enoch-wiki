@@ -1,1 +1,34 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'ZJU5CyrU4nVPmgpb2E9IK0bwFfJp2q7EwSIya8SXMOk-1776607393-1.2.1.1-aTbLkHVzm2Yqr00os5JZZ1tgNlkX7T1IsqgLuHqiU0Rb7AR8dLtvw2dU2Ti4Y2HS',cITimeS: '1776607393',cRay: '9eec7391c8506e50',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/hin/mbs/mbs05067.htm?__cf_chl_tk=FVB7y4wtQ1HoN4TLQlkNKdIRby_Nrs_NY0UETqoQWOQ-1776607393-1.0.1.1-N0M2EQCew8M5tpaHgfKrnxuzEcycm0vhLzjpJufaWGs",cvId: '3',cZone: 'sacred-texts.com',fa:"/hin/mbs/mbs05067.htm?__cf_chl_f_tk=FVB7y4wtQ1HoN4TLQlkNKdIRby_Nrs_NY0UETqoQWOQ-1776607393-1.0.1.1-N0M2EQCew8M5tpaHgfKrnxuzEcycm0vhLzjpJufaWGs",md: 'TKAwR_377j2M65vRtfL3R5TqWkdvAqkaIPRasqlEXqg-1776607393-1.2.1.1-0V.IShM02KQFapNMw1JWBya55NWFG2P6TEo4TzksIOrODO.Nt.oMLCmffeGijQvkLhGJCbI_ntwua6AdQgauFLJgm4c1AYuVe3GvTush33ILcG4yKOiF36P2FzGakEanQEGiUcURC43xVILPjWUY1SkoXNdPojxcoht_wNJK7UTHuSgi7.kPffnlYIL6d0lfFxs19xPyYbnA5QKyNPg8TTIg2z5_rO9kXXg9To7gEjTGt00EZ78_5YBqMsjoVaJ1ft_YPf6ic0Kcj3abqHDV49fWoN004e2Fzo57IkWu5VLvHL_PTcCep8wWm1Aqwkgxw7QdMV0t9ZjzYX6nl1jdkGBda2B4neEcbldeu9XewBXIb0oLO5tXz6fC82QeH80fr6u8cPlRqZOjYIR5c71IviENVgfi6g7AjnK5O12rstm7vWacSmdro_U1wwBl.psY37HsLl4t_YFnhwFFNX0F1h9.D.A35kXGylvS2fP_7HrYNQxUSxrR8udKn7hhSRRC5jr0ycHwrSsWkvelgzVEvyJYoDqfqtw0kE8kZ3oeJPBoqPBeuRWXln10Q.2QZ8K_xsy6PN54hewI63H5MTv8WRCEwHMVbN32.pYuWUCjqWiZ4I0yzZoHz8MSjVy6CSvTdwNDNu1IHUV31dIepAqT1TXLBw4.UH0Lvcz2lI00sZJA9GRfTnQpEGVNQnIL9cSov7_Ov2bEXgFyQQVAmyN13or1cnAUPPZzQf4IGoKkitF3gazEbdjqbfUlS_ZPsWPCW_2SiRQ8nPSJlxaz2DZjzdn9PgV5_55KtkEMPcUCy.OQ8nO6rhTH1Tz3yW3kN0.a5l8GnWk2YYsymJbLPtvyVtOGwxRQNaBxjtc9yirz7FUxxH0MKPKKrg6C7x__AItSfJ.SZ70HcWxAPB8hSzdqzWblnrNYMxr_3iAGe8em4V4',mdrd: 'fC_R9TFdnbIEpUzsHhcNEc.VRVP1oDSKvVLNuqPnciw-1776607393-1.2.1.1-IECvCTuZEpADCN2hnR3PErbzo5Ja7.K6Tf3OnBtqIvved_UIeguEJwzzeOqpL.RcY8WOB7xwjyE8mrxLDSmQsQjtJfzqyiD7GsbJDszkngAC174WDGApILdfKxLxwt_BDtKrL5nhbZZON7Nl3xwbaR1b.5RSd2y8Q5VtyMBePWyZTrFGDz8VU81mKwIiPJ3RP1GhEy9z_Q6URYOsk6Lhi23FV88XMmPmMKVWMsV6vyvgZ.PJVmEq8fDDYFGmnU_aDXTR1sxG79NbmhcIjhz8IQ',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9eec7391c8506e50';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/hin/mbs/mbs05067.htm?__cf_chl_rt_tk=FVB7y4wtQ1HoN4TLQlkNKdIRby_Nrs_NY0UETqoQWOQ-1776607393-1.0.1.1-N0M2EQCew8M5tpaHgfKrnxuzEcycm0vhLzjpJufaWGs"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+---
+title: "Махабхарата, книга 5, глава 67"
+source: "Sacred Texts Archive"
+author: "традиционно приписывается Вьясе"
+year: "древнеиндийский эпос"
+language: "ru"
+text_source: "https://www.sacred-texts.com/hin/mbs/mbs05067.htm"
+notes: "Отдельная глава Махабхараты, полезная для мотивов дхармы, власти, конфликта и эпической космологии."
+---
+
+# Махабхарата, книга 5, глава 67
+
+Этот source-узел нужен как точечный вход в большой индийский эпический корпус. Отдельная глава полезна потому, что позволяет привязать конкретный сюжет к темам дхармы, власти, конфликта и космического масштаба эпоса.
+
+## Содержание
+
+Глава входит в широкий тканевый мир `Махабхараты`, где политический конфликт, моральный выбор и сакральный порядок постоянно пересекаются.
+
+## Почему это важно
+
+Для нашей базы это источник для сравнения с:
+
+- царской легитимностью,
+- войной как космическим событием,
+- и индийскими представлениями о порядке мира.
+
+## Связи
+
+Связывать с:
+
+- [[summary-mahabharat]]
+- [[summary-mahabharata]]
+- [[analysis-gipoteza-evolucia-zla]]
+- [[analysis-building-motifs-global-map]]
