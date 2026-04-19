@@ -1,43 +1,42 @@
 ---
-title: "Atra-Hasis"
+title: "Атрахасис"
 source: "GEHA / UFSC PDF"
-author: "Anonymous Mesopotamian tradition"
-year: "Old Babylonian tradition; modern translation in Myths from Mesopotamia"
-language: "en"
+author: "месопотамская анонимная традиция"
+year: "древневавилонская традиция; современный перевод в Myths from Mesopotamia"
+language: "ru"
 text_source: "https://geha.paginas.ufsc.br/files/2017/04/Atrahasis.pdf"
 local_pdf: "../pdfs/19-atra-hasis.pdf"
-notes: "Downloaded PDF used for the creation, noise, plague, famine, and flood sequence in Tablets I-III."
+notes: "Главный месопотамский рассказ о создании людей, шуме, наводнении и восстановлении порядка."
 ---
 
-# Atra-Hasis
+# Атрахасис
 
-## What this source gives us
+Этот источник нужен как один из главных месопотамских текстов о потопе и о том, как боги реагируют на человеческое размножение. Он важен потому, что показывает: проблема людей в древнем тексте связана не только с моралью, но и с количеством, шумом и трудностью управления миром.
 
-This PDF is the key Akkadian flood narrative for the older Mesopotamian layer behind the later Gilgamesh version. It is especially useful because it shows the whole logic of the story in stages: humans are created to take over divine labor, their numbers and noise become a problem, and the gods then escalate from plague to famine and finally to flood.
+## Основной сюжет
 
-## Why it matters
+Людей создают для труда, который раньше ложился на богов. Но их становится слишком много, шум усиливается, и боги начинают искать способ вернуть порядок. Сначала применяют мор, затем голод, затем решают наводнить землю. Эа/Энки предупреждает Атрахасиса и помогает ему построить корабль. После потопа жертва вновь соединяет людей и богов.
 
-- It makes the human problem explicit: people are not just sinful, they are noisy, numerous, and politically hard to manage.
-- It shows the conflict between Ellil and Enki as a theological pattern, not just a story detail.
-- It gives us a flood story where the boat is a crisis-management device, not a moral reward.
-- It is one of the cleanest bridges from Mesopotamian myth to the later biblical flood complex.
+## Почему это важно
 
-## Key sequence
+Текст помогает понять, что древний потоп — это прежде всего космическая и социальная мера, а не только наказание за нравственный грех. Именно поэтому `Атрахасис` — один из лучших мостов к библейскому потопу и к `Гильгамешу XI`.
 
-- Humans are created to bear the labor of the gods.
-- The gods hear the noise of mankind and become restless.
-- Disease, then hunger, then the threat of flood are used as population control.
-- Enki quietly warns Atrahasis and gives instructions for the boat.
-- The boat is built with multiple decks and sealed for the flood.
-- After the disaster, sacrifice restores the divine-human relationship.
+## Для базы
 
-## Graph use
+Полезен для тем:
 
-Use this source when linking:
+- происхождение людей,
+- шум как проблема,
+- наводнение как ответ на перенаселение,
+- Эа/Энки как спаситель,
+- и жертва как восстановление мира.
+
+## Связи
+
+Связывать с:
 
 - [[summary-mesopotamian-flood]]
 - [[analysis-potop]]
 - [[analysis-drevnost-i-model-zla]]
 - [[entity-enki]]
 - [[entity-enlil]]
-
