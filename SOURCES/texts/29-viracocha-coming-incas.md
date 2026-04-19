@@ -1,1 +1,35 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '1qQ56xaPtH6Eh0LslCvYgIHwyCROU3jPtvpMdxhQ1lA-1776607393-1.2.1.1-i.v4UzalsOVLaJ5T1woGfYpEqxvTLQo0HRtfPgbof6Sh64aG78DhuSj4y_U4fykZ',cITimeS: '1776607393',cRay: '9eec738f3d8766f1',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/nam/inca/inca01.htm?__cf_chl_tk=WTcJYxLrbJG.1Un5EnaetvtAYip44evfkuCwqaHjPC0-1776607393-1.0.1.1-PeFNoe3pfNBoJYKZ5MnXi8q55A.FAPZ84HK_7qSD9Pc",cvId: '3',cZone: 'sacred-texts.com',fa:"/nam/inca/inca01.htm?__cf_chl_f_tk=WTcJYxLrbJG.1Un5EnaetvtAYip44evfkuCwqaHjPC0-1776607393-1.0.1.1-PeFNoe3pfNBoJYKZ5MnXi8q55A.FAPZ84HK_7qSD9Pc",md: '_NFbh84St0ehQP_3TnCyuF8HzlvyH9nzYFfHbMNIhrc-1776607393-1.2.1.1-gmJomimHZZOhvRRIB6vgc.VZvixwLHVIFnB9Pqflwgrip5fmLwXKe6j.QGBvMkXm0WhET4i8ZcuUxoygsTbXdloQfSDxtuj5oLqD.tjPGNOAVVPwMYRz9t39eLWDyVfic8L47sanPVrB9uAMt_GFD1FQOGgcJ15_CZ1T6unvYgUxWshPG1ePsNGcyTJ3pRvcY8vntzRY0D29mIsHEqatytjnGUSirLCG8lSUwzLDKaLjEFukSeBumh9HkSQnqMvLwT8MwBNeZqocXAgyZDLp3VLNquCFww6hS.tBlOC16X8GXBrmE8ptbs01qkUJ5GxAKlDeE6sCnf6n_MEU3uJYKMBk6hoNZv7uJmAxtIGPKjUiNqkUiY4um.qDOew4dbhjN.3qJ.nnrSlDumBm3b44LJZFgluIVSwl.s6whrHnne3eJojN8JA.SxoQQPk25SjWwMLwATwKddkYHQMOaPUf7HqEVPTXpK1.XP5AViCWcL1DzXtebIQ_fT2V6b.5rQciRt22LsEQ2tD7zosl6ZL1IGZG1KfX7a0f5RW9P4BZ02k..zmYAjHE1.DjqwwT1XaawwnkRcue9yNltEiZGlKYXZ70gmT7bwrLtuuITXk0SsoDcg10zquFvqqovg_t8lX2nt8SESophnTH2ljN8WyrEjPP9kE82xhYsYX5s8VZhR9uxzXDX_JTPb5yqxa9HJ5AAieBcXYjLWhiuQ2vj9IJxyS1XnJOT3ESkmpj6crDbRqZF.HlygUQ.VsWx9.qQNDGZxsR58IrOoRlRLInu4agJg9hIb7nqVOLTYuctarjbHbbTgQeG.YVHTuMu8zqtrY9rU979D76POwi2m_byUhGw_HeL7RqCrKo5qyiPEikwqhiSJjKr7Hb.OpUWNzmQb.XAmkqkH1DIaca33SNnwa8VY.IrZ5JGLGyDgPXayKj_i8',mdrd: 'Fpkadx6VhIR6IU4uTBOK123BWjIyRPlgMjxf9yHwAK0-1776607393-1.2.1.1-fXfNssCMQA1s_DuO9AjVwZXpK.7nRuW2JmXJ5cALnYAPO1KyTzT8o9i9v3xSTNdKPFHlFvPv8YfkNMGQSF4vW0omgN.uav6UYYmMHeyBFeOG4Mbrk0AKV7_W5uofEel2yRxNoJ1sH6k3_IDT5JdU0RpuIBy9GWb2epRGRaT1sRTwaK1VCWB5HAk2mn8fkZYBzTjApgW5u9JrS9iXI6INi6KGG_svECFq7FgnAiFsNN.ZKiNT7gGGdw3UoYNp9fkzEwmzPZtFIrWWeVR7VxEmbg',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9eec738f3d8766f1';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/nam/inca/inca01.htm?__cf_chl_rt_tk=WTcJYxLrbJG.1Un5EnaetvtAYip44evfkuCwqaHjPC0-1776607393-1.0.1.1-PeFNoe3pfNBoJYKZ5MnXi8q55A.FAPZ84HK_7qSD9Pc"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+---
+title: "Виракоча и приход инков"
+source: "Wikisource"
+author: "андская традиция"
+year: "колониальная запись"
+language: "ru"
+text_source: "https://sacred-texts.com/nam/inca/inca01.htm"
+notes: "Материал о Виракоче как творце и культурном герое, связанном с приходом инков."
+---
+
+# Виракоча и приход инков
+
+Этот source-узел нужен как андский текст о творце, культурном герое и происхождении власти. Он особенно важен для нашей базы, потому что показывает, как в Андском мире миф о создателе связывается с историей народа и сакральной географией.
+
+## Содержание
+
+В тексте Виракоча выступает как первосоздатель и установитель порядка, а приход инков связывается с сакральной историей происхождения власти.
+
+## Почему это важно
+
+Для базы это полезно как параллель к сюжетам о:
+
+- культурном герое,
+- начале народа,
+- священной горе и камне,
+- и восстановлении порядка после первотворения.
+
+## Связи
+
+Связывать с:
+
+- [[summary-viracocha]]
+- [[summary-popol-vuh]]
+- [[analysis-building-motifs-global-map]]
+- [[entity-approach-ands]]
