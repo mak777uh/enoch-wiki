@@ -124,6 +124,9 @@
 | [[summary-eridu-genesis]] | Eridu Genesis |
 | [[summary-sumerian-king-list]] | Sumerian King List |
 | [[summary-books-on-egypt-and-chaldaea]] | Books on Egypt and Chaldaea |
+| [[summary-myths-and-legends-of-british-north-america]] | Myths and Legends of British North America |
+| [[summary-pima-indians-creation-myths]] | The Pima Indians: abstracts of myths |
+| [[summary-eleusinian-and-bacchic-mysteries]] | A Dissertation on the Eleusinian and Bacchic Mysteries |
 
 ### Древние корпуса
 
