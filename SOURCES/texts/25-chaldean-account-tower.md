@@ -1,1 +1,30 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '8T_mUawPV7W7IPC.zopRWZ0NPsGgJOYM1pPVTNPBf5Y-1776606965-1.2.1.1-3PPRZ9Hxah39RuzKxdjDluknCYe2pvbgIoHHg0QCy7DcXF2NU0GkHt3yRvbTtyGS',cITimeS: '1776606965',cRay: '9eec691c4ebe511b',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/ane/caog/caog13.htm?__cf_chl_tk=5rxG_0tAX7c7x9WwTtTgRPfD3YM3sdYJh7Qyu.ODQqU-1776606965-1.0.1.1-IW1Za379.RInFf.zgPAcCbZEXIEfX5tyUDNrnAI7U9M",cvId: '3',cZone: 'sacred-texts.com',fa:"/ane/caog/caog13.htm?__cf_chl_f_tk=5rxG_0tAX7c7x9WwTtTgRPfD3YM3sdYJh7Qyu.ODQqU-1776606965-1.0.1.1-IW1Za379.RInFf.zgPAcCbZEXIEfX5tyUDNrnAI7U9M",md: 'dWw74mOMbU6Iu2NG8rAv5V19hcQQbemabNL5rpCHzTQ-1776606965-1.2.1.1-wslpHchujlLUCS8o.XcmpfPA4Bbbsim4FpKhf8vwtx6k4yYGb_sAxtJyxOIRUmb_ReB1w6bc3R.zBgLpha_Tk5KJ0qXO22spFw13Sty1cwdWWw_X9GJa4pGr5K.GZ.4qvqzaMljY2yyBKuePHpHoH4vgyLYnK0VJsf_rV00QYGdESWSkaVdN57gblA6S0hHeXgZRguXGu376v8EWpEjWxJvpo_OiRU_BgZ6Eoh7cJGPPhK1qibxg9wLu64bwbqM7L.XZbMPKUTPsBlFvPraf4QqAm7FN5ZSmD6tGvBLr3F4lCIH5Q73WRIfVSFgVKresZgnhtHwQKaKRVTPDkDQRs8QAJOfhK.Yikv_.a8wUZFcnEmhyM_TG5aek2C9Reo1hZ2JDPg3xwnEgXFw0nf3JR2FU9zScOUPjJN5307lKT9.yy37CHRodmkctapQ6GrpXaqBChmut87HsczIZRcc1MdYKg.zd1TXtFIbItDs_OEguEIcaYMHQX1LxW7U8EP9CZ3SrOSasgR.l_iv8QVzJI6MfwUkxEk4.ezxcy6WqKz7f4UTKQFFXDPh4YTx6_H_.omPHDAf7bO2FCMkgax7OtXwVDj5z1aK3p.tCRfVLQIpQgMH43W.G2WHAHy9.QtdHUP85KkRgMR3VudxEm.ilqU.hyLDqBIzQSGAfHcPH8WT386rIrPESAaUM1CEV74b7kWlYxzl9PTWMvzPkrGyDlhqVmXIrwGeTtpRF1gms6qsgPNE9iRyPw1EqZUAjawFWD7AQGx7NcIcYeWoEzFfrqSHjUn_CFUC9.cmqNZmUYXoqh_jStkjIhz2WL913aU.EZIBaq_FEuVgh5abIfYrgZ_XJdfQQnSKOmQEgrVKZXblov_wTjz8sIBUYfizaT1xYGfYFbg8x9.EnnlymKU.7.CYpgYmLArFDYhexYjlDIlw',mdrd: 'V8jEZumeWAphKhR8CoExeJnfPj.H18TrtJhiM56MCvs-1776606965-1.2.1.1-4M6dC7ka0i8fjQ9Payum5YDo490bubU2LSWK3KfqVfJl7HM2DEJwAfXP.GcJm0F.HXZMFr7EcIkPy72BugZAZKP4FABIDeg7eeSbLGw2NjXX5U72DZGstiwG0DcOmp812sOmYVkEIu2CrIIDYZ5pdaak4gEnS4kRnA0q4.1LfyjLFcUtZKRCyIlP1lr2H_Jhe2ey8kxgI.s8efaeRdL18wd0USI_X8r5SWGaLfpiWXhsgmQYTVAPSjOw4S2SXr3P.AOiGydq25ioTC_EkYS.sQ',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9eec691c4ebe511b';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/ane/caog/caog13.htm?__cf_chl_rt_tk=5rxG_0tAX7c7x9WwTtTgRPfD3YM3sdYJh7Qyu.ODQqU-1776606965-1.0.1.1-IW1Za379.RInFf.zgPAcCbZEXIEfX5tyUDNrnAI7U9M"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+---
+title: "Халдейское предание о башне"
+source: "Wikisource"
+author: "поздняя месопотамская / научная традиция"
+year: "XIX век, научная публикация о вавилонской башне"
+language: "ru"
+text_source: "https://wikisource.org/wiki/Chaldean_Account_of_Genesis"
+notes: "Текст о вавилонской башне и смешении речи в халдейской научной традиции."
+---
+
+# Халдейское предание о башне
+
+Этот source-узел нужен как месопотамский сравнительный текст к библейской Вавилонской башне. Он важен тем, что связывает башню, город, язык и строительную мощь в одном сюжете.
+
+## Содержание
+
+Текст передаёт предание о большой башне, коллективном строительстве и нарушении человеческого единства. Для нашей базы он особенно ценен как мост между мифом о башне и историей материальных зиккуратов.
+
+## Почему это важно
+
+Здесь видно, что тема башни — не только библейская. Она живёт и в месопотамской научной памяти, где башня становится знаком величия, опасности и нарушения порядка.
+
+## Связи
+
+Связывать с:
+
+- [[summary-chaldean-account-tower]]
+- [[summary-genesis-11-babel]]
+- [[analysis-building-motifs-global-map]]
+- [[entity-approach-babel]]
