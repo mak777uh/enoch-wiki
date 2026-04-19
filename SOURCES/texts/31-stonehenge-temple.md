@@ -1,1 +1,35 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'ShFKC1UahochQyzO9G8CWX3HK5evo6NDoehKaINLgLQ-1776607393-1.2.1.1-gQCnUDfMl9hfUX7uQdN7pfFA_8CHc6.6KLUiemug1If0b4E_2uTAcDliJhxqfV5_',cITimeS: '1776607393',cRay: '9eec738f29add7a1',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/neu/eng/str/str02.htm?__cf_chl_tk=8Y56lKdSy_HHrNagiFAti1.vXsEHqbApFPF639ou9To-1776607393-1.0.1.1-Y3DkUG7WihV9JX4yPRhpxsIh637cvj.n.PX7qeNZTU0",cvId: '3',cZone: 'sacred-texts.com',fa:"/neu/eng/str/str02.htm?__cf_chl_f_tk=8Y56lKdSy_HHrNagiFAti1.vXsEHqbApFPF639ou9To-1776607393-1.0.1.1-Y3DkUG7WihV9JX4yPRhpxsIh637cvj.n.PX7qeNZTU0",md: 'I9hXwtlVvQH28WUMLRe8Ilr.LZH7GWDoVWLDBiVLK3A-1776607393-1.2.1.1-ord94IpmRweNYWjaMvLDwMey3WoMSyCNYownEZC9w2fexoROFlid1cecq0JJggm9mhYjr32gnv6tXhHqfntQojGsgwC75aYb1YC7apkknhRKdlRh9_3WRKQKc_t9VW1AoHmiSdKijjtIBaF7eyZ1mXq1moWOQXVP0tHXaGStBWs_4H5IxZe6Ex9ipZvRc6KFlDct2tcC2.dQxA3_ejx0rPNR5duONIL.fzz2aIUsLFbtlkXITHf5wItofeedvaRMek10N4FOKBywd46nIPuqGENKKPwhO2Lcrkq0b2Nmoyrb.kBRxVgltT1aybe2UzoxXZZ6w6oh7jDjAYW0EujzpqXcPBXSMrPIoMi8wReUW0JRdwex63TPIPkx7.y0_xMLGNG7AcSPWJ5PdonP8U0vOfaDoOIsLhTPGCdJzIBBARU9Gd9ubONz5.gJt6nJhY0aP.9xotRkjU0s7ZEfRUhzCyWCgO5wVX6JCUNLTqZ9UXVKfvbuA9Ans7h9Ym8DJ330oYekK_FoIuSJPqznfirdWFpGhq.wuob9LAfn9DYAJVjcdplvfpZ_HD78hLQ3Sth.SmfSzv45hxyfJUn2IIJnl7rkMX9NSBIp3Y9Ntu15BakM1T5ZCNoyD67SM.WngNn2jcdMM0jdPhfjmwNym3HS8AG631JwgCqHE2E9D8vwNu4yQX7GSX4frYT5GBAo6Xg6uXx_YG28ac4PFRXfOqCzj.Hj1k95laG9kRGfPO1Ti3EexMkLLhIWj7dS2mP7lQNbxuAMQogUf49yZocch0mf5erQZDOwlOFC6hKrfM0dBN.asSeHtKD5pOdCxW4LQ2vNmQOl_pRAXOEUQrwZLkFOrJtGleUPLXINXwHd3VnwGs1FV_niQW4T7tO0Uu8_85HtUEJDCm4uYLyQNOdlTRH3iOOW5ioKREKhNKKSWhMj_QE',mdrd: 'ZYeablCcI.5gxJ6kpXimgNp9_kCYoFoVw3377PoJtgU-1776607393-1.2.1.1-2VIrIrZjkqEMjU6u1tQMADxcDUGTPnoGB8WkKtLAi7NJ3rrzX5V.p9sKwg8gInZ3ie8BGsQZmzkMNgE9FC2oGNRAKDrOamDnfSK6hi8E1LDakTPrrS.jUhPyYXOtYMegH.RQNgBdundYKtJisotMotGzyJWH2bTQjOKXHgIDhI7E0ccqRV.DefFxGx.DXa3HpMjUKgflXkrlAW.rpFcjMt1yPxycIX8UB0D.jseivEZ6MmZKyLRez8acsVDfGzPhMsNm.cNuE6JSyeZnEHV8oA',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9eec738f29add7a1';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/neu/eng/str/str02.htm?__cf_chl_rt_tk=8Y56lKdSy_HHrNagiFAti1.vXsEHqbApFPF639ou9To-1776607393-1.0.1.1-Y3DkUG7WihV9JX4yPRhpxsIh637cvj.n.PX7qeNZTU0"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+---
+title: "Стоунхендж как храм"
+source: "Sacred Texts / antiquarian tradition"
+author: "антикварная традиция"
+year: "ранний модерн"
+language: "ru"
+text_source: "https://sacred-texts.com/neu/eng/str/str02.htm"
+notes: "Антикварный текст о Стоунхендже как храме и сакральном монументе."
+---
+
+# Стоунхендж как храм
+
+Этот source-узел нужен как ранняя антикварная попытка осмыслить Стоунхендж не просто как каменный круг, а как сакральный комплекс. Для нашей базы он полезен как материал о монументе, памяти и священном ландшафте.
+
+## Содержание
+
+Текст связывает Стоунхендж с религиозной и ритуальной функцией, а не только с архитектурой. Это важно для сравнений с мегалитами, храмами и древними центрами силы.
+
+## Почему это важно
+
+Позволяет сопоставлять:
+
+- каменные круги,
+- священную географию,
+- ритуальный ландшафт,
+- и формы древнего памятника как модели порядка.
+
+## Связи
+
+Связывать с:
+
+- [[analysis-building-motifs-global-map]]
+- [[summary-stonehenge-temple]]
+- [[entity-approach-megaliths]]
+- [[entity-approach-europe]]
