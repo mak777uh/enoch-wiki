@@ -113,6 +113,7 @@
 | [[summary-eridu-paradise-adapa]] | Eridu / Adapa / paradise motif |
 | [[summary-book-of-the-dead]] | The Egyptian Book of the Dead |
 | [[summary-pyramid-builders]] | The Pyramid Builders |
+| [[summary-chaldean-account-of-genesis]] | The Chaldean Account of Genesis |
 
 ### Древние корпуса
 
