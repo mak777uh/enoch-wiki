@@ -1,25 +1,73 @@
 ---
-title: "The Liturgy of Funerary Offerings Described"
+title: "Обряд погребальных приношений"
 source: "Wikisource"
 work: "Books on Egypt and Chaldaea / Collection 7 / Volume 25"
-translator: "E. A. Wallis Budge"
+translator: "Э. А. Уоллис Бадж"
 year: 1909
-language: "en"
-text_source: "https://en.wikisource.org/wiki/Books_on_Egypt_and_Chaldaea/Collection_7/Volume_25/The_Liturgy_of_Funerary_Offerings_Described"
-notes: "Description of the Egyptian funerary liturgy and its relation to the Opening of the Mouth ritual."
+language: "ru"
+text_source: "https://archive.sacred-texts.com/egy/lfo/lfo005.htm"
+notes: "Рабочий полный русский текст ключевой главы о погребальных приношениях и их связи с ритуалом Открытия уст."
 ---
 
-# The Liturgy of Funerary Offerings Described
+# Обряд погребальных приношений
 
-CHAPTER II.
+## Глава II. Обряд погребальных приношений
 
-The religious literature of all periods of Egyptian history proves that the Egyptians believed in a resurrection and in immortality, and that from the earliest to the latest times they performed ceremonies at, or in, the tomb, and recited formulae, which were part incantations and part prayers, with the view of assisting the dead to renew their life, to enjoy their existence in the Other World, and to escape from “dying a second time.”
+Религиозные тексты Египта всех периодов ясно показывают, что египтяне верили в воскресение мёртвых и в бессмертие. Они были убеждены, что души благословенных продолжают существовать в ином мире при таких условиях, которые дают им счастье и избавляют от «второй смерти». Поэтому от древнейших времён до поздней эпохи в гробницах и при гробницах совершались обряды, читались формулы и приносились дары, которые должны были помочь умершим возобновить жизнь в другом мире.
 
-We have already seen that so far back as the beginning of the IVth Dynasty, about B.C. 3800, it was customary to offer series of gifts of food, and drink, and raiment to the dead, and there is every reason to think that the presentation of such gifts was made by priests, who recited over them forms of words which were believed to sanctify the things offered, and to make them to become suitable for the needs of the dead.
+По всей видимости, ещё в доисторический и раннединастический периоды в гробницы клали пищу, питьё, украшения, орудия, оружие и одежду, полагая, что эти вещи каким-то образом будут полезны умершему. Позднее этот обычай не исчез, а стал оформляться всё более сложной религиозной системой. Приношения начали сопровождаться чтением особых текстов, которые освящали предметы и делали их пригодными для нужд покойного.
 
-Among the oldest of the ceremonies which were performed for the benefit of the dead is that called the “Opening of the Mouth,” and its object is explained by its name. The Egyptians realized at a very early period that it was useless to load the tables for offerings in the tombs with bread, beer, meat, fruit, and vegetables unless the dead could in some way partake of them, and the priests invented a series of ceremonies and composed formulae which were intended to bring about this desirable result.
+Самые древние обряды и формулы, известные нам, были связаны именно с приношениями умершим. Египтяне считали, что мёртвому нужно не только положить еду в гробницу, но и обеспечить духовную действенность этой еды. Поэтому приношения понимались как продолжение жизни в иной форме, а не просто как символический дар.
 
-The XXIst and XXIInd Chapters were written with the view of “giving a mouth to a man in Neter Khert,” or the Other World, and in the Vignette the priest is seen standing and holding the Ur-ḥekau instrument in his right hand, and a vase in his left. He holds out the instrument towards the face of the deceased, and is, as we know from other sources, about to touch his mouth.
+Если судить по ранним текстам, покойному должны были регулярно приносить хлеб, пиво, мясо, фрукты, масло, льняную одежду и другие вещи. Эти дары считались не только полезными, но и необходимыми, потому что без них умерший мог бы страдать от голода и жажды, бродить по пустыне и даже приносить вред живым.
 
-In the text of the XXIIIrd Chapter the deceased says, “Ptah hath opened for me my mouth with his instrument of iron wherewith he opened the mouth of the gods.”
----
+В этом и состоит одна из центральных идей египетской погребальной религии: забота о покойном была не частным жестом, а обязанностью религиозного человека. Приношения умершим приносили пользу и мёртвым, и живым, поскольку защищали живущих от злых последствий голода духов.
+
+## Система приношений в древнем царстве
+
+В пирамидах Унаса, Тети и Пепи тексты прямо указывают, что умершему царю должны быть даны хлеб, пиво, ячмень, пшеница и всяческие блага. В более ранних мастабах и гробницах встречаются длинные списки даров: вина, сладкого пива, фруктов, масел, благовоний, тканей, птиц, быков, цветов и одежды.
+
+На стенах некоторых гробниц эти списки были выписаны в табличной форме, а рядом стоял знак множества, указывавший, что покойный желал получать все эти дары в огромном количестве и бесконечно повторяемом порядке. Это показывает, что приношения мыслились не как единичный акт, а как постоянная поддержка посмертной жизни.
+
+В гробницах времён Древнего царства видны и жертвоприношения животных. К умершим приводили коз, газелей, телят, овец; быков закалывали, отделяя от них переднюю ногу как часть жертвы. Всё это подтверждает, что погребальные приношения были сложной системой, соединявшей пищу, жертву, чтение текста и ритуальную чистоту.
+
+## Праздничный календарь и регулярность дара
+
+Списки приношений тесно связаны с календарём праздников. На саркофаге Хуфу-анха перечислены праздники Нового года, Тота, начала года, Уака, Большого праздника, Праздника жара, появления Мену, огненного алтаря, начала месяца, начала полумесяца и другие. В более поздних текстах список праздников ещё длиннее.
+
+Из этого Бадж делает вывод, что подношения умершим осуществлялись не случайно, а в ритме священного календаря. Для состоятельных людей это было, вероятно, еженедельной практикой, а в особые сезоны — чаще. В наиболее благоприятные эпохи эти подношения в гробницах царей и знатных людей обновлялись ежедневно.
+
+Таким образом, забота о мёртвых была частью общей религиозной экономики Египта. Человек, заботящийся о своих мёртвых, был одновременно заботящимся и о живых, потому что голодный дух мог стать источником бедствий.
+
+## Связь с «Открытием уст»
+
+Особое значение здесь имеет обряд Открытия уст. Египтяне рано поняли, что недостаточно просто положить еду в гробницу. Нужно было ещё восстановить способность умершего воспринимать и использовать эти дары. Поэтому вместе с приношениями совершался ритуал, который возвращал телу и образу умершего действенность: ему как бы снова открывали рот, глаза и органы восприятия.
+
+Именно по этой причине ритуал приношений тесно связан с ритуалом Открытия уст и с погребальной магией вообще. В египетской системе текст, жест, жертва и образ действуют вместе: еда не просто лежит рядом с умершим, а становится частью механизма его возобновлённой жизни.
+
+## Для чего этот текст нужен нашей базе
+
+Этот source-узел нужен как один из ключевых египетских текстов по теме:
+
+- приношений мёртвым,
+- посмертного питания,
+- ритуальной действенности текста,
+- связи жертвы и оживления,
+- и техники продолжения жизни после смерти.
+
+В сравнительной перспективе он особенно полезен для сравнения с:
+
+- обрядом Открытия уст,
+- пирамидными текстами,
+- Книгой мёртвых,
+- и общими вопросами о том, как древние культуры представляли себе продолжение существования после смерти.
+
+## Связи
+
+Связывать с:
+
+- [[summary-sekhet-hetep]]
+- [[summary-opening-the-tomb]]
+- [[analysis-egypt-afterlife]]
+- [[entity-approach-egypt]]
+- [[summary-book-of-the-dead]]
