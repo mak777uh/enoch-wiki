@@ -1,1 +1,87 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'JeFxu3vlJ572H15O1sD1S1G8pN9uGlszfuL3m89YnkU-1776606959-1.2.1.1-xZjogy1x1CDV7XFw44KbkraASnGMRhPJsHqc8xYSwYL6r54fmCq6pHoIeOT6Xj6H',cITimeS: '1776606959',cRay: '9eec68f62fb2b8f4',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/bib/poly/kg1006.htm?__cf_chl_tk=eaOh9bJW4Bc6OInprmsOa8WgCfw3fcjtTxiKrVA8a1M-1776606959-1.0.1.1-Knc7LIbN9jq0x.PxyLtolQ2yT7nGiypfX.mmpSfy4XU",cvId: '3',cZone: 'sacred-texts.com',fa:"/bib/poly/kg1006.htm?__cf_chl_f_tk=eaOh9bJW4Bc6OInprmsOa8WgCfw3fcjtTxiKrVA8a1M-1776606959-1.0.1.1-Knc7LIbN9jq0x.PxyLtolQ2yT7nGiypfX.mmpSfy4XU",md: 'ICEflav6wZn6bx2_0LJosMFc2kzrsCEXSlU8j5FM2pU-1776606959-1.2.1.1-qMEqHXSjG0R.MfnwUtb7A2jLt9FcrOvaB8aQopeuNNMfi5MAyy61l0ch_eexduvk72r1HS7O.b.Uvfa6dIP8qPBotr67wTuDVBmKgOksh9X1zpelQ7ohQj582O5x51J4tiPQ7hV.sGn.Wx8P4E_Io2KfknLS3aD6InmvXsy8w5QWswmbN7otPDDAeWYfoPRze3vEyGcEbirPGKV69cKJ690krIgqfQTQujpTgMKGKm6tm7a9otC_NI95s2_Ym3fhJGeKKfqfQ.u0Vw09xZwDdxu8yeGamVAWbzR8mcBR6XfcGZvbfEyfvRTozLHhSkjzYEGBS4kHn4gjb1AWw8Mvwo95P7mt.ZA4CSzTNf5lwOa53QP3gDrs4fgE5XCzHsIELbExY45droTG67b7Zz8FcsqLcp8w8zBpxO_FOdyjGPybhH_TnqAd7vJ6bYAoPnAh1ZtZg_FPPdM0rz1wJeWf7ybjAnwu9rr2LdHoXNkJbl7br3dqncljvCi8H._DAC1xUGNTzGuPE2SrG8vav_3HsSdCpo3xKOorZAVqWjPRyjMyPTJBy5njnRJNSr62C2VTsAhM2BPPShTCXlycRylnFoQFLKU7irUBJTyzLfAGN7s5L2GEU7VylLArYTJiyV4JSIq_h5XPmTlXegyku21xVD_KDs0oXl84VEt1UGje153vVmIyQQkz1aAgLZHTW0sX_R4MqZS6StI8c82OSpeEsX0R99HvM9WlslYNmIro0kIInfwPlvI0n7PlUfWE98HD_FIVqy.GxQ9hKaCizgPpET.aSYJESdjkV1ZhHZaENTEphuZesCSiDaOj6e3Nx7m.zVTU7ZXmy2JWvs1zOQg25QqZjrTbmYidUx3eU_ZmFJ6t42Tvu2GvToXLXmjyGUdLn5VWb1GGf4_u79ZCgb4.l.QHDDv7t9ckYj55MYwCkJI',mdrd: 'VxQh6wwQY.6UStu3MsQh6l7zE00jlG2XMzC17sFQyoA-1776606959-1.2.1.1-qcao6WXetMghtzS2mnxrOI89B6Kh.Kuv0DGRcLaXaZpzxEw6PU3RT9FkR3y0r1t0Vo8_aD4c6xeyBgIUbvXHva0.0tYghsPPO0.7iXRGEM0q23G3V6qd45D6UIPY.voZR.KTcw_YpufLqoDmciSx7OWyBvV..cD_Q6UF4KTCRN3mLKNjKvDdtzuLWf.QUIrraVqM5NyeiP__7jIjP91urDiB8E3WltGvLXkcUtTa9fwlNw1IkZhOiNqBBs7xZxSSBle7q4JDSi.5YzQXCMd5Aw',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9eec68f62fb2b8f4';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/bib/poly/kg1006.htm?__cf_chl_rt_tk=eaOh9bJW4Bc6OInprmsOa8WgCfw3fcjtTxiKrVA8a1M-1776606959-1.0.1.1-Knc7LIbN9jq0x.PxyLtolQ2yT7nGiypfX.mmpSfy4XU"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+---
+title: "3 Царств 6"
+source: "Русская синодальная традиция"
+author: "Библия"
+year: "канонический библейский текст"
+language: "ru"
+text_source: "https://www.spiritlessons.com/documents/bible/all_html/synodal_translation_of_the_holy_bible_in_russian/1KI06.htm"
+notes: "Полный русский текст главы о строительстве храма Соломона."
+---
+
+# 3 Царств 6
+
+1 И было в четыреста восьмидесятом году после выхода сынов Израилевых из земли Египетской, в четвертый год царствования Соломонова над Израилем, в месяц Зив, то есть второй месяц, он начал строить храм Господу.
+
+2 Храм, который царь Соломон строил Господу, был длиною в шестьдесят локтей, шириною в двадцать локтей и вышиною в тридцать локтей.
+
+3 И притвор перед храмом дома был длиною в двадцать локтей, соответственно ширине дома, и вышиною в десять локтей, и сделал он его в передней части дома.
+
+4 И сделал в доме окна решетчатые, глухие.
+
+5 И пристроил к стене дома боковые комнаты вокруг стен дома, вокруг храма и святаго; и сделал кругом боковые комнаты.
+
+6 Нижний этаж боковых комнат шириною был в пять локтей, средний — в шесть локтей, а третий — в семь локтей; ибо он сделал уступы вокруг дома снаружи, чтобы опираться на стены дома, так чтобы балки не входили в стены дома.
+
+7 Когда строился дом, строили его из камней, добытых в каменоломне; ни молотка, ни тесла, ни всякого железного орудия не было слышно в доме при строении его.
+
+8 Вход в средний этаж был с правой стороны дома; и лестница винтовая вела в средний этаж, а из среднего в третий.
+
+9 И построил он дом, и отделал его кедровыми досками и обшил его деревом.
+
+10 И боковые комнаты устроил он вокруг всего дома, высотою в пять локтей, и они были соединены с домом кедровыми балками.
+
+11 И было слово Господне к Соломону:
+
+12 о храме сем, который ты строишь. Если ты будешь ходить по уставам Моим, и исполнять законы Мои, и соблюдать все заповеди Мои, то Я исполню на тебе слово Мое, которое Я сказал Давиду, отцу твоему;
+
+13 и буду жить среди сынов Израилевых, и не оставлю народа Моего Израиля.
+
+14 И построил Соломон храм и окончил его.
+
+15 И обшил стены дома внутри кедровыми досками; от пола дома до потолка обложил его деревом внутри, а пол дома обложил кипарисовыми досками.
+
+16 И построил двадцать локтей от задней стороны дома, от земли до стен, и сделал это для внутреннего святилища, для Святого Святых.
+
+17 И дом, то есть храм впереди святилища, был сорок локтей.
+
+18 И кедровая обшивка внутри дома была украшена резными изображениями тыкв и раскрытых цветов; всё было кедровое, камня не было видно.
+
+19 Внутреннее святилище он приготовил в доме для помещения там ковчега завета Господня.
+
+20 Внутреннее святилище было длиною в двадцать локтей, шириною в двадцать локтей и вышиною в двадцать локтей; и покрыл его чистым золотом; также и жертвенник покрыл он кедром.
+
+21 И обложил Соломон дом внутри чистым золотом; и протянул золотые цепи перед внутренним святилищем, и покрыл его золотом.
+
+22 И весь дом обложил золотом, весь дом до конца, и весь жертвенник, который был пред внутренним святилищем, покрыл золотом.
+
+23 И сделал во внутреннем святилище двух херувимов из масличного дерева, вышиною в десять локтей каждый.
+
+24 Одно крыло херувима было в пять локтей, и другое крыло херувима в пять локтей; от конца одного крыла до конца другого крыла было десять локтей.
+
+25 И второй херувим был в десять локтей; оба херувима были одной меры и одной формы.
+
+26 Высота одного херувима — десять локтей, и такая же высота второго херувима.
+
+27 И поставил он херувимов во внутреннем доме; и они распростирали крылья свои, так что крыло одного касалось одной стены, а крыло другого херувима касалось другой стены; а в середине дома их крылья соприкасались.
+
+28 И обложил он херувимов золотом.
+
+29 И все стены дома кругом вырезал резными изображениями херувимов, пальмовых дерев и раскрытых цветов, и внутри и снаружи.
+
+30 И пол дома обложил золотом, внутри и снаружи.
+
+31 И для входа во внутреннее святилище сделал двери из масличного дерева; косяки и притолоки составляли пятую часть стены.
+
+32 И на двух дверях из масличного дерева вырезал херувимов, пальмы и раскрытые цветы, и обложил их золотом; и покрыл херувимов и пальмы золотом.
+
+33 Так же сделал он и для входа в храм двери из масличного дерева, четвертую часть стены.
+
+34 И две двери были из кипарисового дерева; обе створки одной двери были поворотные, и обе створки другой двери были поворотные.
+
+35 И вырезал на них херувимов, пальмы и раскрытые цветы, и покрыл их золотом, ровно наложив золото на резьбу.
+
+36 И построил внутренний двор из трех рядов тесаных камней и один ряд кедровых брусьев.
+
+37 В четвертый год, в месяц Зив, положено основание дому Господню;
+
+38 а в одиннадцатый год, в месяц Бул, то есть восьмой месяц, он окончил дом со всеми принадлежностями его, и строил его семь лет.
