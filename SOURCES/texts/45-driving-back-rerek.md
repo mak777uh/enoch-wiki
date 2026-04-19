@@ -1,39 +1,35 @@
 ---
-title: "Driving Back Rerek"
-source: "Wikisource"
-author: "Egyptian Literature / Book of the Dead section"
-year: "Ancient Egyptian funerary tradition"
-language: "en"
-text_source: "https://en.wikisource.org/wiki/Egyptian_Literature/The_Book_of_the_Dead/Driving_Back_Rerek"
-notes: "Funerary passage about Ra, gates of the horizon, and the defeat of Apep/Rerek; useful for solar underworld struggle and gate motif."
+title: "Отгоняя назад Ререка"
+source: "Sacred Texts Archive"
+author: "древнеегипетская традиция"
+year: "египетский религиозный корпус"
+language: "ru"
+text_source: "https://www.sacred-texts.com/egy/boe/boe37.htm"
+notes: "Египетский ритуальный текст, связанный с защитой, изгнанием зла и поддержанием порядка."
 ---
 
-# Driving Back Rerek
+# Отгоняя назад Ререка
 
-## What this source gives us
+Этот source-узел нужен как египетский ритуальный текст о изгнании опасной силы и поддержании порядка. Он полезен для темы борьбы с хаосом, защиты и магико-религиозной власти.
 
-This section of the Egyptian funerary tradition is useful because it shows the solar god passing gates and defeating the serpent/chaos force on the way through the sky and underworld logic.
+## Содержание
 
-## Why it matters
+В тексте присутствует мотив отталкивания или отражения враждебной силы, а также ритуального утверждения правильного порядка.
 
-- It strengthens the gate motif.
-- It gives us a solar-serpent conflict.
-- It is useful for comparing Egyptian underworld order with wider zmeeborcheskie and chaos motifs.
+## Почему это важно
 
-## Key motifs
+Для базы он полезен как:
 
-- Ra opening the gates of the horizon
-- serpent enemy
-- underworld / sky passage
-- victory over chaos
+- текст о защите,
+- ритуальном изгнании,
+- египетской магии порядка,
+- и связи обряда с космической безопасностью.
 
-## Graph use
+## Связи
 
-Use this source when linking:
+Связывать с:
 
-- [[summary-book-of-the-dead]]
-- [[summary-sekhet-hetep]]
-- [[analysis-zmea-podzemie]]
-- [[analysis-heroes-zmeebortsy]]
+- [[summary-driving-back-rerek]]
+- [[analysis-egypt-afterlife]]
+- [[analysis-drevnost-i-model-zla]]
 - [[entity-approach-egypt]]
-
