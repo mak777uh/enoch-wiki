@@ -1,42 +1,25 @@
 ---
-title: "The Egyptian Book of the Dead"
+title: "Египетская Книга мёртвых"
 source: "Wikisource"
-author: "Traditional Egyptian funerary corpus; Budge translation"
-year: "Ancient Egyptian tradition"
-language: "en"
+author: "Традиционный египетский погребальный корпус; перевод Баджа"
+year: "Древнеегипетская традиция"
+language: "ru"
 text_source: "https://en.wikisource.org/wiki/Egyptian_Literature/The_Book_of_the_Dead"
-notes: "Funerary corpus for afterlife, judgment, gates, protections, hymns, mouth-opening, and transformation after death."
+notes: "Погребальный корпус о загробной жизни, суде, вратах, защите, гимнах, открытии рта и преображении после смерти."
 ---
 
-# The Egyptian Book of the Dead
+# Египетская Книга мёртвых
 
-## What this source gives us
+`Книга мёртвых` — не единая книга, а погребальный корпус, объединяющий гимны, заклинания, молитвы и защитные формулы. Это один из самых важных египетских источников для понимания того, как древние представляли себе смерть не как конец, а как управляемый переход через опасный и структурированный мир.
 
-This corpus is central for the base because it shows the Egyptian way of imagining death, judgment, passage, protection, and rebirth. It is less a single book than a funerary tradition organized into chapters and formulas.
+Корпус не просто описывает загробную реальность, а снабжает умершего средствами передвижения по ней: словами и формулами защиты, сохранением сердца, открытием рта, изгнанием врагов, прохождением врат и преобразованием умершего в благословенное действенное существо. По сути, это целая технология посмертного существования.
 
-## Why it matters
+`Книга мёртвых` объединяет множество глав и тематических блоков: гимны Ра и Осирису, победу над врагами, сохранение сердца, открытие рта, защитные заклинания и навигацию по подземному миру. Логика текста состоит в том, чтобы не просто пережить смерть, а заново организовать личность умершего так, чтобы она могла действовать в скрытом мире.
 
-- It gives us one of the oldest and richest afterlife systems in the world.
-- It helps compare Egyptian postmortem order with Enochic judgment and punishment.
-- It gives us gate, protection, transformation, mouth-opening, and divine navigation motifs.
-- It helps with the wider question of how death is turned into a structured journey.
-
-## Key motifs to watch
-
-- Hymns to Ra and Osiris
-- opening the mouth
-- protection of the heart
-- gates of the underworld
-- transformation into a khu
-- passage through the underworld
-
-## Graph use
-
-Use this source when linking:
-
-- [[summary-sekhet-hetep]]
-- [[summary-opening-the-tomb]]
-- [[summary-liturgy-of-funerary-offerings]]
-- [[analysis-drevnost-i-model-zla]]
-- [[entity-approach-egypt]]
-
+Ключевые мотивы:
+- гимны Ра и Осирису
+- открытие рта
+- сохранение сердца
+- врата подземного мира
+- преобразование в khu
+- прохождение подземного мира
