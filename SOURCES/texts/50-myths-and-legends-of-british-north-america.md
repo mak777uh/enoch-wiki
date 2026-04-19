@@ -1,40 +1,53 @@
 ---
-title: "Myths and Legends of British North America"
+title: "Мифы и легенды Британской Северной Америки"
 source: "Wikisource"
-author: "Anonymous / comparative collection"
-year: "Early 20th-century collection"
-language: "en"
+author: "анонимный / сравнительный сборник"
+year: "начало XX века"
+language: "ru"
 text_source: "https://en.wikisource.org/wiki/Myths_and_Legends_of_British_North_America"
-notes: "North American myth collection with creation, flood, culture hero, spirit-world, and sacred landscape motifs."
+notes: "Североамериканский мифологический сборник с мотивами творения, потопа, культурных героев, мира духов и сакрального ландшафта."
 ---
 
-# Myths and Legends of British North America
+# Мифы и легенды Британской Северной Америки
 
-## What this source gives us
+Это не один единый древний текст, а сравнительный сборник мифов, который показывает североамериканский материал в его разнообразии. Для нашей базы он полезен потому, что выводит исследование за пределы Передней Азии и Средиземноморья и позволяет сравнивать сюжеты о сотворении мира, потопе, культурных героях и священном ландшафте в другом культурном поле.
 
-This collection is useful because it gives a broad North American comparative field: creation, flood, culture heroes, spirit-world ideas, and localized sacred geography.
+## Что здесь есть
 
-## Why it matters
+В сборнике встречаются сюжеты о:
 
-- It expands the base beyond Eurasia and the Near East.
-- It gives us North American flood and hero material.
-- It is useful for comparison with world-creation, deluge, and sacred-landscape motifs.
+- происхождении мира и людей,
+- потопе и разрушении прежнего порядка,
+- героях, которые устанавливают или восстанавливают культуру,
+- связях с миром духов,
+- священных местах, горах, камнях и локальной географии.
 
-## Key motifs
+## Почему это важно
 
-- creation myths
-- flood legends
-- culture hero figures
-- spirit-world and afterlife ideas
-- sacred places and mountains
+Для нашей базы этот корпус интересен не только как “дальняя параллель”, но и как самостоятельный сравнительный материал. Он помогает проверить, какие мотивы действительно повторяются в разных регионах:
 
-## Graph use
+- катастрофа и обновление мира,
+- посредник между людьми и высшими силами,
+- священное место как ось мира,
+- память о первособытии,
+- и представление о том, что мир уже переживал несколько состояний.
 
-Use this source when linking:
+## Как его читать
+
+Этот сборник полезно использовать не как источник одной идеи, а как корпус мотивов. Он даёт материал для заметок о:
+
+- создании людей,
+- мировом потопе,
+- культурном герое,
+- духах и посмертном мире,
+- сакральной топографии.
+
+## Связи
+
+Ставить рядом с:
 
 - [[summary-popol-vuh]]
 - [[analysis-istoriya-planety-proveryaemye-i-mifologicheskie-sloi]]
 - [[analysis-building-motifs-global-map]]
 - [[entity-approach-egypt]]
 - [[entity-approach-greece]]
-
