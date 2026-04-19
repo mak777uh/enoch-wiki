@@ -1,42 +1,25 @@
 ---
-title: "Eridu Genesis"
+title: "Эриду: Бытие"
 source: "Wikisource"
-author: "Sumerian / scholarly translation tradition"
-year: "Ancient Mesopotamian tradition; later scholarly presentation"
-language: "en"
+author: "Шумеро-аккадская / научная традиция"
+year: "Древнемесопотамская традиция; позднейшая научная подача"
+language: "ru"
 text_source: "https://en.wikisource.org/wiki/Eridu_Genesis"
-notes: "Sumerian flood and kingship tradition with creation, city foundation, divine decision, and preservation of human life."
+notes: "Шумерская традиция о потопе и царской власти, где сочетаются творение, основание города, божественное решение и сохранение человеческой жизни."
 ---
 
-# Eridu Genesis
+# Эриду: Бытие
 
-## What this source gives us
+`Eridu Genesis` — один из важнейших месопотамских текстов для нашей базы. Он соединяет творение, основание города, царскую власть, божественное решение и потоп в одном раннем священно-историческом поле.
 
-Eridu Genesis is one of the most important Mesopotamian texts for this base. It combines creation, city foundation, kingship, divine decision, and flood logic into a compact early tradition.
+Традиция делает Эриду священным городом, связанным с решением богов и человеческим правлением. Затем в повествование входит потоп как крупный сброс или как божественно выбранная катастрофа. В результате текст соединяет локальный городской уровень и мировой разрушительный уровень.
 
-## Why it matters
+В центре здесь стоит мысль о том, что мир упорядочивается через города, царей и божественные решения. Потоп не уничтожает смысл, а прерывает и затем переорганизует его.
 
-- It gives us a very early flood and kingship framework.
-- It strengthens the Eridu / sacred city motif.
-- It helps compare Mesopotamian creation with biblical and Enochic flood material.
-- It sits close to the earliest city-memory traditions of the ancient Near East.
-
-## Key motifs
-
-- city foundation
-- divine ordering
-- kingship
-- flood decision
-- human preservation
-- sacred center in Eridu
-
-## Graph use
-
-Use this source when linking:
-
-- [[summary-mesopotamian-flood]]
-- [[summary-oldest-religious-text-babylonia]]
-- [[summary-eridu-paradise-adapa]]
-- [[analysis-potop]]
-- [[analysis-hram-dolg-gosudarstvo]]
-
+Ключевые мотивы:
+- священный город
+- божественный порядок
+- царская власть
+- потоп как сброс
+- сохранение жизни
+- память об истоке
