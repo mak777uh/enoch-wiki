@@ -1,42 +1,25 @@
 ---
-title: "The Ramayana"
+title: "Рамаяна"
 source: "Wikisource"
-author: "Valmiki, traditional attribution"
-year: "Ancient Indian epic; later recensions"
-language: "en"
+author: "Валмики, традиционная атрибуция"
+year: "Древнеиндийский эпос; позднейшие редакции"
+language: "ru"
 text_source: "https://en.wikisource.org/wiki/The_Ramayana"
-notes: "Seven-book epic of Rama, exile, alliance, bridge-building, Ravana's defeat, and restoration; useful for kingship, bridge/large construction, exile, divine incarnation, and heroic order."
+notes: "Индийский эпос о Раме, изгнании, союзе, строительстве моста, победе над Раваной и восстановлении порядка."
 ---
 
-# The Ramayana
+# Рамаяна
 
-## What this source gives us
+`Рамаяна` — один из центральных индийских эпосов. В нашей базе он важен сразу по нескольким причинам: как текст о царской добродетели и изгнании, как история о демоническом противнике и как миф о большом строительстве, где мост к Ланке становится актом восстановления мира.
 
-The Ramayana is one of the central Indian epics. For this base it is especially useful because it combines kingship, exile, divine incarnation, demon conflict, and a monumental construction motif: the bridge to Lanka.
+Сюжет строится вокруг кризиса престолонаследия и его выхода за рамки семейной истории. Рама оказывается в изгнании, собирает союзников, сталкивается с Раваной и в итоге участвует в строительстве моста, который делает возможным переход к Ланке и восстановление справедливого порядка. Здесь строительство не декоративный эпизод, а акт космически и политически важного перехода.
 
-## Why it matters
+`Рамаяна` показывает, что правильная власть должна быть не только законной, но и морально оправданной. Это делает эпос особенно ценным для нашей темы больших сооружений и священного труда. Он полезен для сравнения с храмовыми, башенными и мегалитическими сюжетами, а также с традициями, где победа над противником связана с архитектурным или пространственным действием.
 
-- It is a major source for heroic order and moral kingship.
-- It gives us a large-building / crossing motif that can be compared with temple, tower, and sacred construction traditions.
-- It links divine figures, demons, and cosmic conflict in a more ethical and royal frame.
-- It is important for comparison with zmeeborcheskie and apocalyptic structures in other traditions.
-
-## Key motifs to watch
-
-- Rama as ideal king
-- exile and return
-- alliance with monkeys
-- bridge construction to Lanka
-- Ravana as adversarial power
-- restoration of order
-
-## Graph use
-
-Use this source when linking:
-
-- [[analysis-heroes-zmeebortsy]]
-- [[analysis-building-motifs-global-map]]
-- [[entity-indra-i-zmei]]
-- [[entity-asura]]
-- [[entity-approach-induizm]]
-
+Ключевые мотивы:
+- идеальный царь
+- изгнание и возвращение
+- союз и коллективное действие
+- мост как сакральное сооружение
+- победа над демоническим противником
+- восстановление порядка
