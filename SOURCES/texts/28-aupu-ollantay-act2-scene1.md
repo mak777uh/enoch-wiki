@@ -1,1 +1,158 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'ECrjKEcG3vs6BlOyylaxijQB_P8nJik8Ticzf2wk5Uk-1776607393-1.2.1.1-11m8u7qYm8julPltEUbi4m41DUnkD9ShpBz30nllx3ToHD6d0mALrtrd.I.aaAFJ',cITimeS: '1776607393',cRay: '9eec738f2cbead10',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/nam/inca/oll/oll09.htm?__cf_chl_tk=Y.duHv8kKHkHFInM3oKKJ67eNnkJxMf4TKDrzFfhYDU-1776607393-1.0.1.1-AK8TQ7xy3toBEIKs2rRZHPk6glJQDZYLyNOK3z466Uo",cvId: '3',cZone: 'sacred-texts.com',fa:"/nam/inca/oll/oll09.htm?__cf_chl_f_tk=Y.duHv8kKHkHFInM3oKKJ67eNnkJxMf4TKDrzFfhYDU-1776607393-1.0.1.1-AK8TQ7xy3toBEIKs2rRZHPk6glJQDZYLyNOK3z466Uo",md: 'p08rL.5tqM4o7eTQnVlRD7TWqbFnblsZI_4gwzqKLSw-1776607393-1.2.1.1-GP1Dk15aLS9SmL5L3dAVafNGFXBqnG4.BLdTR0tY1X1fDt1uSsl6a1aYmzYSh2b90wCSQiGw7itB7ddGZOuqEZw0vx.StZUNJ3DS7w0mzez1RDXFZZcKtX6xNjpviujIo7Auq9sEkFKOs2T.5r_n3jojPaliG_EeADxakFW6ubmnyLv3AoGkxsnhmKGs0GBHO6LU5P7ZBVjaputgtn_3lb7eY35i2vZC4_fQq3OCDD40HXDvbe.Pfmn_8Ny3Xr3Vdtb6iQmRP3wBNRwkeVJ34a9Yk8AeJ7IX8afJTfSWbpQEUgidK0SQc4zMkDn5cqBwdsafYsW8GVH7GAhrVcGh9Vq8GSfKUV4NvEcWRoCe06i.QWl31UqkEhsvYv3gz8tSMMeNBdDc1YkTwIek8hm.esnhnNeHKNKP3cK1LH3aHS0O.7rWlrAFA6F6jkxxE30xB9n7Nr5jh4iYxbxpP0bsaIAy.nJX_iuSz0DXptUwl95qdpy5RSCpriKu3IGnedUSUn3vyKDz9AyfwLo3MVj6BEvJhiwZUe7T0PEExoITPrmQ.6leGwitAQM4H2hKyYzwTdo6AtEqpMHB6HgNKPZj8Wl4HRzxMm61.izXShHjgn56k90ABmG96WvM7iUKxTlGYo_cUcx9x0KIW4YE.Td1mTL9P5t4PWnmwKQjEaWm41W8mHwwI5lAXitTsr22l6bkfgEkIUxP1OJyDlqBLMrUiDd_0mmnD.vyNOfdmGAcEiF_ffDplBTCfBcnXGZXo63BKSXXyPmLRqlBhZw8e5tUNKHYA9U12zfTWGEn00KYqOPuKfn2rfuWQXrYsGdx4gTd12wgvKW6801I.ZddDRNf26Wm1idvcN4IGoZBC59sEWkEeIDj60YhJyO4_61n_XKJurkffsJrwXkvm3wNi6BELpeTacn6l6k8mlDuVpuuXtL108LlVKqb_ifEpm0yp2.K',mdrd: 'FRvZUvlYDhQv9osw3xGZkpk_uasgQH3HOzvuHYLGXLs-1776607393-1.2.1.1-phbbYnug5bEFeTSRDmR9hZvSYO3ADHREoEAGL6u.Vu79jA7QuSqsLgeJtb0iuNbkpLE0T3bp7blNx0SmXxCLe1b0OAVcu.h5LhuKFAYc5tKANz65CdcQIO3cZKvj0zH0v8yXRF3HvcZnpM2YCN3cPz1DWa8Cd2nA1fxFpMowVctlg4qI_cR95XlNDjtdncSwm_gFUAsoDweeBgHyqbGkVXtEKOdkohVmFcuQHWJ1woKNtxh5_ubpvezIH_Sj2GsK',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9eec738f2cbead10';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/nam/inca/oll/oll09.htm?__cf_chl_rt_tk=Y.duHv8kKHkHFInM3oKKJ67eNnkJxMf4TKDrzFfhYDU-1776607393-1.0.1.1-AK8TQ7xy3toBEIKs2rRZHPk6glJQDZYLyNOK3z466Uo"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+---
+title: "Апу Ольянтай, акт II, сцена 1"
+source: "Internet Sacred Text Archive"
+author: "Clements Markham / Inca dramatic tradition"
+year: 1910
+language: "ru"
+text_source: "https://sacred-texts.com/nam/inca/oll/oll09.htm"
+notes: "Полный русский рабочий перевод сцены о власти, военном порядке и сакральном центре Ollantay-tampu."
+---
+
+# Апу Ольянтай, акт II, сцена 1
+
+Оллантай-тампу. Зал крепости-дворца. На заднем плане семь огромных каменных плит, на них лежит монолит поперёк. Сверху кладка. По бокам кладка с нишами; справа в центре большая дверь. Золотой тьяна возле центральной плиты.
+
+(Входят ОЛЛАНТАЙ и УРКО УАРАНКА, оба полностью вооружены.)
+
+— Урко Уаранка. Оллантай, ты провозглашён всеми Анти их повелителем.
+Женщины плачут, как ты увидишь, —
+Они теряют мужей и сыновей,
+Посланных на войну в Чаянту.
+Когда же придёт конец
+Далёким войнам? Год за годом
+Нас посылают в дальние земли,
+Где кровь льётся, как дождь.
+Сам царь снабжён
+И кокой, и всякой пищей.
+Что ему до того, что народ голодает?
+Через пустоши наши ламы гибнут,
+Наши ноги ранены шипами,
+И если мы не хотим умереть от жажды,
+Мы несём воду на спинах.
+
+— Оллантай. Храбрые друзья! Вы слышите эти слова,
+Вы слушаете вождя гор.
+Наполненный состраданием к моим людям,
+Я так, с тяжёлым и скорбным сердцем,
+Сказал жестокому царю:
+“Анти-сую должен иметь отдых;
+Все её лучшие люди не должны умирать за тебя
+В битве, огне и болезни —
+Они гибнут ужасным числом.
+Сколько людей никогда не возвращалось,
+Сколько вождей встретили смерть
+В далёких предприятиях?”
+Из-за этого я покинул двор Инки,
+Сказав, что нам нужен покой;
+Пусть никто из нас не покидает своих очагов,
+А если Инка всё ещё упорствует,
+Объявим ему смертельную вражду.
+
+(Входят ХАНКО УАЙЛЛЮ, несколько вождей и большая толпа солдат и народа.)
+
+— Народ. Да здравствует наш царь Оллантай!
+Поднимите знамя и бахрому,
+Украсьте его багряной бахромой,
+В Тампу теперь царствует Инка,
+Он восходит, как звезда дня.
+
+(Вожди, солдаты и народ становятся вокруг. Оллантай садится на тьяна рядом с Ханко Уайльлю, старым Ауки, или принцем.)
+
+— Ханко Уайльлю. Прими от меня царскую бахрому,
+Она даётся волей народа.
+
+Уилкагнота — далёкая страна,
+Но даже теперь её народ приходит
+Стать под твой закон.
+
+(Оллантая украшают бахромой. Он встаёт.)
+
+— Оллантай. Урко Уаранка, тебя я назначаю
+Вождём и повелителем Анти-сую;
+Прими стрелы и перо,
+
+(Передаёт их.)
+
+Отныне ты наш военачальник.
+
+— Народ. Да здравствует горный вождь.
+
+— Оллантай. Ханко Уайльлю, из всех моих вельмож
+Ты самый почтенный и мудрый,
+Будучи родственником досточтимого верховного жреца,
+Я желаю, чтобы ты дал
+Кольцо горному вождю.
+
+(Урко Уаранка опускается на колено, и Ханко Уайльлю обращается к нему.)
+
+— Ханко Уайльлю. Это кольцо надевается на твой палец,
+Чтобы ты чувствовал и никогда не забывал,
+Что когда ты вступаешь в бой,
+Милосердие подобает вождю-герою.
+
+— Урко Уаранка. Тысячу раз, славный царь,
+Благодарю тебя за доверие.
+
+— Ханко Уайльлю. Вот доблестный горный вождь,
+Теперь полностью вооружённый с головы до ног,
+И ощетинившийся, как квисквахуан,
+Снаряжённый, как и подобает рыцарю.
+
+(Обращаясь к Урко Уаранке.)
+
+Никогда не дай врагам застать тебя сзади,
+Человек Пуны, пусть никогда не скажут,
+Что ты бежал или дрожал, как тростник.
+
+— Урко Уаранка. Слушайте меня, воины Анд!
+У нас уже есть доблестный царь,
+Возможно, на него нападут;
+Говорят, старый Инка посылает войско,
+Люди Куско уже выступают.
+У нас нет ни одного дня в запасе;
+Созовите с высот людей Пуны,
+Немедленно приготовьте их оружие,
+Укрепите Тампу стенами бастионов,
+Не оставляйте ни одного выхода без стражи;
+На склонах холмов собирайте ядовитые травы
+Для стрел, несущих смерть.
+
+— Оллантай (Урко Уаранке). Выбирай вождей!
+Расставь все посты для разных племён;
+Наши враги идут без отдыха —
+Придумай, как застать их врасплох.
+Хитрость компи может обратить их в бегство.
+
+— Урко Уаранка. Тридцать тысяч храбрых Анти здесь,
+Среди них нет слабаков;
+Апу Марути, могучий в войне,
+Придёт с высокого Уилкапампы,
+На крутом Тинквикеру он встанет
+И двинется по сигналу;
+На другой стороне потока
+Принц Чара собрал свои силы;
+В ущелье Чарамуни я ставлю
+Десять тысяч вооружённых Анти на страже;
+Ещё столько же ждёт
+Слева, в долине Пачар.
+Мы готовы встретить врагов,
+Мы ждём их с твёрдым спокойствием;
+Они пойдут в своей самоуверенной гордыне,
+Пока их отступление не будет отсечено,
+Тогда загремит труба войны,
+С гор посыплются камни,
+Сверху будут лететь огромные глыбы.
+Уанки будут сокрушены или рассеяны,
+Тогда нож завершит своё дело,
+Все погибнут от наших ударов,
+Наши стрелы последуют за их бегством.
+
+— Народ и солдаты. Хорошо! Очень хорошо!
+
+(Крики и военная музыка.)
+
+[Уходят.]
+
+## Примечания
+
+Этот эпизод показывает сакрально-политическую сцену власти, где крепость-дворец, монолит, тьяна, бахрома, закон и военная организация соединяются в единую модель порядка.
