@@ -123,6 +123,7 @@
 | [[summary-adoration-of-the-gods-of-the-qerti]] | Adoration of the Gods of the Qerti |
 | [[summary-eridu-genesis]] | Eridu Genesis |
 | [[summary-sumerian-king-list]] | Sumerian King List |
+| [[summary-books-on-egypt-and-chaldaea]] | Books on Egypt and Chaldaea |
 
 ### Древние корпуса
 
