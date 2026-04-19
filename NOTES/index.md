@@ -119,6 +119,8 @@
 | [[summary-theogony]] | The Theogony |
 | [[summary-chaldean-account-of-the-deluge]] | The Chaldean Account of the Deluge |
 | [[summary-avesta]] | Avesta |
+| [[summary-driving-back-rerek]] | Driving Back Rerek |
+| [[summary-adoration-of-the-gods-of-the-qerti]] | Adoration of the Gods of the Qerti |
 
 ### Древние корпуса
 
