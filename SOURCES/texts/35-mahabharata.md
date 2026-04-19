@@ -1,42 +1,36 @@
 ---
-title: "The Mahabharat"
-source: "Wikisource"
-author: "Krishna-Dwaipayana Vyasa, traditional attribution"
-year: "Ancient Indian epic; later recensions"
-language: "en"
-text_source: "https://en.wikisource.org/wiki/The_Mahabharat"
-notes: "Major Indian epic corpus useful for kingship, war, dharma, cosmic conflict, divine descent, serpent motifs, and large-scale mythic structure."
+title: "Махабхарата"
+source: "Wikisource / Sacred Texts"
+author: "традиционно приписывается Вьясе"
+year: "древнеиндийский эпос"
+language: "ru"
+text_source: "https://sacred-texts.com/hin/maha/index.htm"
+notes: "Главный индийский эпос о дхарме, войне, царской власти, богах и космическом конфликте."
 ---
 
-# The Mahabharat
+# Махабхарата
 
-## What this source gives us
+`Махабхарата` — один из крупнейших эпосов мира и один из центральных индийских текстов для нашей базы. Она важна как огромный корпус о дхарме, конфликте, царской власти, божественном вмешательстве и сложной моральной ткани мира.
 
-The Mahabharata is one of the largest and most important epic corpora of South Asia. For this base it is especially valuable because it contains cosmic conflict, kingship, dharma debates, divine interventions, serpent motifs, and a huge comparative field for later religious development.
+## Содержание
 
-## Why it matters
+Эпос охватывает dynastic conflict, войну, переговоры, моральные выборы, богов и героев, а также множество мифологических и ритуальных сюжетов, которые распадаются на отдельные тематические узлы.
 
-- It is a major reservoir of mythic figures and motifs.
-- It contains many layers that can be compared with the Enochic, zoroastrian, and broader Indo-European material.
-- It helps track the relation between order, legitimacy, war, and cosmic structure.
-- It gives us serpent, divine descent, and world-order material that often resonates with the other thematic clusters in the base.
+## Почему это важно
 
-## Key themes to watch
+Этот корпус особенно полезен для тем:
 
-- dharma and legitimacy
-- dynastic conflict
-- divine descent and intervention
-- serpent and dragon-like figures
-- cosmic scale of warfare
-- moral ambiguity and layered causation
+- порядка и закона,
+- войны как космического события,
+- границ царской власти,
+- божественного вмешательства,
+- и индийской модели морального мира.
 
-## Graph use
+## Связи
 
-Use this source when linking:
+Связывать с:
 
-- [[entity-indra-i-zmei]]
-- [[entity-asura]]
-- [[analysis-heroes-zmeebortsy]]
+- [[summary-mahabharat]]
+- [[summary-rigveda-book-10]]
 - [[analysis-gipoteza-evolucia-zla]]
-- [[entity-approach-induizm]]
-
+- [[analysis-building-motifs-global-map]]
