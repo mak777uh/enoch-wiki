@@ -1,1 +1,75 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'ZFDA9U7NaeYGY9BNPV2d.2Z.UJvsFxA4_YZloaYTtxQ-1776606959-1.2.1.1-RlmalJHS6Rr3MYeUuaJEotxcPQncUNImps5Rx5ATdprgxYqxGIjc5yK5rDPEq_C5',cITimeS: '1776606959',cRay: '9eec68f619660b38',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/bib/kjv/gen011.htm?__cf_chl_tk=gPrwq5keNSnSoAY4j_8Eb6Dw1ntAMJioh0lA1voVLgI-1776606959-1.0.1.1-um0I.F.wV6VqCDduOuxjNjuXvcQ541YMMMcasEnjaZU",cvId: '3',cZone: 'sacred-texts.com',fa:"/bib/kjv/gen011.htm?__cf_chl_f_tk=gPrwq5keNSnSoAY4j_8Eb6Dw1ntAMJioh0lA1voVLgI-1776606959-1.0.1.1-um0I.F.wV6VqCDduOuxjNjuXvcQ541YMMMcasEnjaZU",md: 'g602PefJ4U9ZfJQbNAyiGRBphNXYx2qHXq4TaRdLnw8-1776606959-1.2.1.1-Tx7_zoXKKIcJIBxqqeQbvUUe0AgUAxCtiQU1CnnyNsLN56jgiPz9lvN4E7BMwtWNic8gKbPJSbhs6_1pOUH3hgqqjRTDwTOJnIzGwEAAq2mkvXX324.BJMbrA0QHyS9NTNW8h_YcjDQtmjThj8pviEEhfM76GJXjlTTsDfmrfu02p3XSxvj_9KQgQJNRuAQ..g7nBYmPEi8nVH_4O9PR1OMoYA2G7WkpJp6i0_D7_cyoJApHnxFfCCWvbDiUkbwUrbzua7FhlZ2ZsswxADlzCNsvtGUiwTrbwtQCXLoEV82yEKdv_qORphky0pOlZK7IVHSeIw36aDVXDHZA.4PuY_9HmSfLnppSHRf5nD2ePgjGQiPOVQwGhckl2VeJc4qi9x8UONdBfjKq64eaxMa.qPvbYNWNXJR3ZbPOKJ0Axfm1sHPrw9pCSmRwZn_p_nfs.EMdnsBZXCLx1YSnwheN0D69j4ktzBrNosso0daSEeBxhj2AwLpAhn6GcroRRQNL.lgcUq7QAdRkxVe5DVx0TBpaWRM82POs6RGFf1x97.7Y9Jf8n62H2w3oYNmbgquCIdL88rfEH8zU8Qbt5NeqBVg1QC9qasEGDbCWXdm77B2Gc6Dcx5oY61lzSSfZFExdydUR3n7h84iuOLqUAvFXCouQFaeVEXR17VG6daVUswKjzA5hMHbxKUxJRW..nmRWTHXjXnwMazdZZzcJtyBq_AXWcQdhUKlmBi0oXUPnaUGtTkZrd0x6HwQwOff3jzVMG5gII7aHPqJ12Cm.BRbZn8LtW2FjOZyyvXa_tD.cZ.bpdW38KUCPk5ZJBwbHo9blatuwrvhyT6h12v_R8HaNizYXU4Hna6DkjgmeGjp.UdAuPIE8EBBbSZ3tymxfDLFHiCYlJhJJO8zda1Aq64wvHlGvR5y6wJyVDvIJCUf5cvE',mdrd: 'HR6.lMSqjTXuwMu8XHssa1wB6qet6nikGNfLuW8ZxTU-1776606959-1.2.1.1-WEKfwdt42hbnsvpUtA8fZrdGbzXTkmV9dGkOc3Cf7EmbPYkHkUDNnejzTKaBvm2KZwPBUkytqr.F7Xz1UcPXYGcOkeHD2pRQw_VtVakIHBXyRqpRpGKR9fCuxEZQMASKLhX99MLo4h1UmCwMIfO4MhOGJy.eWn2TxJPsPulqEDJXWIMful65DCNYXvsUioLs5yRJFCInqeb3lm6TYKlD9h4C4WCmlnt45_j2jWVYqTIYpz7MzV3ooUk7G7v.IGAd',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9eec68f619660b38';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/bib/kjv/gen011.htm?__cf_chl_rt_tk=gPrwq5keNSnSoAY4j_8Eb6Dw1ntAMJioh0lA1voVLgI-1776606959-1.0.1.1-um0I.F.wV6VqCDduOuxjNjuXvcQ541YMMMcasEnjaZU"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+---
+title: "Бытие 11"
+source: "Русская синодальная традиция"
+author: "Библия"
+year: "канонический библейский текст"
+language: "ru"
+text_source: "https://bible.net.ua/en/translation/kjv/1/11/syn/"
+notes: "Полный русский текст главы Бытие 11."
+---
+
+# Бытие 11
+
+1 На всей земле был один язык и одно наречие.
+
+2 Двинувшись с востока, они нашли в земле Сеннаар равнину и поселились там.
+
+3 И сказали друг другу: наделаем кирпичей и обожжём огнём. И стали у них кирпичи вместо камней, а земляная смола вместо извести.
+
+4 И сказали они: построим себе город и башню, высотою до небес, и сделаем себе имя, прежде нежели рассеемся по лицу всей земли.
+
+5 И сошёл Господь посмотреть город и башню, которые строили сыны человеческие.
+
+6 И сказал Господь: вот, один народ, и один у всех язык; и вот что начали они делать, и не отстанут они от того, что задумали делать;
+
+7 сойдём же и смешаем там язык их, так чтобы один не понимал речи другого.
+
+8 И рассеял их Господь оттуда по всей земле; и они перестали строить город.
+
+9 Посему дано ему имя: Вавилон, ибо там смешал Господь язык всей земли, и оттуда рассеял их Господь по всей земле.
+
+10 Вот родословие Сима: Сим был ста лет и родил Арфаксада, через два года после потопа;
+
+11 после рождения Арфаксада Сим жил пятьсот лет и родил сынов и дочерей.
+
+12 Арфаксад жил тридцать пять лет и родил Салу;
+
+13 после рождения Салы Арфаксад жил четыреста три года и родил сынов и дочерей.
+
+14 Сала жил тридцать лет и родил Евера;
+
+15 после рождения Евера Сала жил четыреста три года и родил сынов и дочерей.
+
+16 Евер жил тридцать четыре года и родил Фалека;
+
+17 после рождения Фалека Евер жил четыреста тридцать лет и родил сынов и дочерей.
+
+18 Фалек жил тридцать лет и родил Рагава;
+
+19 после рождения Рагава Фалек жил двести девять лет и родил сынов и дочерей.
+
+20 Рагав жил тридцать два года и родил Серуха;
+
+21 после рождения Серуха Рагав жил двести семь лет и родил сынов и дочерей.
+
+22 Серух жил тридцать лет и родил Нахора;
+
+23 после рождения Нахора Серух жил двести лет и родил сынов и дочерей.
+
+24 Нахор жил двадцать девять лет и родил Фарру;
+
+25 после рождения Фарры Нахор жил сто девятнадцать лет и родил сынов и дочерей.
+
+26 Фарра жил семьдесят лет и родил Аврама, Нахора и Арана.
+
+27 Вот родословие Фарры: Фарра родил Аврама, Нахора и Арана; и Аран родил Лота.
+
+28 И умер Аран при Фарре, отце своем, в земле рождения своего, в Уре Халдейском.
+
+29 Аврам и Нахор взяли себе жен; имя жены Аврамовой: Сара; имя жены Нахоровой: Милка, дочь Арана, отца Милки и отца Иски.
+
+30 Сара была неплодна и бездетна.
+
+31 И взял Фарра Аврама, сына своего, и Лота, сына Аранова, внука своего, и Сару, невестку свою, жену Аврама, сына своего, и вышел с ними из Ура Халдейского, чтобы идти в землю Ханаанскую; но, дойдя до Харрана, они остановились там.
+
+32 И было дней жизни Фарры двести пять лет, и умер Фарра в Харране.
