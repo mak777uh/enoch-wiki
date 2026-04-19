@@ -1,42 +1,25 @@
 ---
-title: "The Theogony"
+title: "Теогония"
 source: "Wikisource"
-author: "Hesiod"
-year: "Ancient Greek epic tradition"
-language: "en"
+author: "Гесиод"
+year: "Древнегреческая эпическая традиция"
+language: "ru"
 text_source: "https://en.wikisource.org/wiki/Theogony"
-notes: "Greek theogonic corpus: origin of gods, succession myth, Cronus, Zeus, Titans, cosmic order, and divine genealogy."
+notes: "Греческий теогонический корпус о происхождении богов, преемственности власти, Кроносе, Зевсе, титанах, космическом порядке и божественной генеалогии."
 ---
 
-# The Theogony
+# Теогония
 
-## What this source gives us
+`Теогония` Гесиода — один из главных греческих текстов о происхождении и порядке богов. Это не только космогония, но и миф о преемственности власти: как мир богов приходит к устойчивому порядку через конфликт и смену поколений.
 
-Hesiod's Theogony is one of the most important Greek texts for the base because it tells how the gods come into order, how succession works, and how Zeus establishes cosmic rule after earlier divine conflict.
+Поэма рассказывает о рождении богов, о власти Кроноса, о его падении, о возвышении Зевса и о распределении власти между божественными силами. Важное место занимают титаны, древние силы и чудовищные или хаотические элементы, которые должны быть вписаны в новый порядок.
 
-## Why it matters
+Для нашей базы `Теогония` полезна тем, что показывает: космос устанавливается не сам собой, а через борьбу за легитимность и власть. Это особенно важно для сравнения с енохическими сюжетами, месопотамскими мифами о власти и более поздними демонологическими схемами.
 
-- It gives us a classic succession myth.
-- It helps compare divine rebellion and cosmic replacement.
-- It contains Titan, monster, and order-building material.
-- It is one of the clearest Greek texts for cosmic genealogy and divine power.
-
-## Key motifs
-
-- origin of gods
-- Cronus and Zeus
-- succession conflict
-- Titans
-- cosmic order and portions
-- monster-generating chaos
-
-## Graph use
-
-Use this source when linking:
-
-- [[analysis-gipoteza-evolucia-zla]]
-- [[analysis-heroes-zmeebortsy]]
-- [[entity-approach-greece]]
-- [[analysis-drevnost-i-model-zla]]
-- [[analysis-building-motifs-global-map]]
-
+Ключевые мотивы:
+- происхождение богов
+- Кронос и Зевс
+- преемственность власти
+- титаны
+- космический порядок
+- чудовищный хаос
