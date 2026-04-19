@@ -1,42 +1,40 @@
 ---
-title: "The Chaldean Account of Genesis"
+title: "Халдейское предание о Бытии"
 source: "Wikisource"
-author: "George Smith"
+author: "Джордж Смит"
 year: "1876"
-language: "en"
-text_source: "https://en.wikisource.org/wiki/The_Chaldean_Account_of_Genesis"
-notes: "Popular scholarly synthesis of Babylonian creation, flood, tower of Babel, patriarchal ages, and Nimrod traditions. Useful as a bridge text for Mesopotamian parallels."
+language: "ru"
+text_source: "https://en.wikisource.org/wiki/The_Chaldean_Account_of_Genesis/Chapter_1"
+notes: "Русский рабочий текст первой главы книги Джорджа Смита о месопотамских легендах Бытия и их открытии."
 ---
 
-# The Chaldean Account of Genesis
+# Халдейское предание о Бытии
 
-## What this source gives us
+## Глава I. Открытие легенд Бытия
 
-This book is not an ancient tablet in itself, but it is a very important scholarly bridge for the base because it presents Babylonian creation, deluge, tower, and patriarchal traditions together in one comparative frame.
+Фрагменты халдейского историка Бероса, сохранившиеся у позднейших авторов, показали, что вавилоняне были знакомы с преданиями о творении, допотопном времени, потопе и других сюжетах, составляющих части Книги Бытия. Берос, однако, жил уже после покорения Иудеи Вавилоном, и поэтому сам по себе не доказывал, что эти традиции существовали в Месопотамии до еврейского плена.
 
-## Why it matters
+После расшифровки клинописи исследователи надеялись найти более ранние подлинные тексты, которые подтвердили бы древность этих преданий. Раскопки в Куюнджике открыли огромную ассирийскую царскую библиотеку, и среди десятков тысяч фрагментов стало возможно искать мифологические тексты.
 
-- It connects Babylonian mythic fragments to Genesis-style themes.
-- It makes the flood, tower, and creation material easier to compare in one place.
-- It strengthens the Mesopotamian side of the base around Babel, Eridu, and the deluge.
-- It helps us see how 19th-century scholarship itself organized the comparison between Babylonia and Genesis.
+Смит объясняет, что сначала внимание было сосредоточено на исторических надписях ассирийских царей, но затем стало ясно, что ассирийцы во многом копировали более древнюю вавилонскую литературу. Это заставило искать именно там, среди мифологических табличек, следы древних рассказов о творении, потопе, Эдеме и башне.
 
-## Key motifs
+В ходе поисков Смит наткнулся на половину необычной таблички, содержащей шестиколонный текст. Из третьей колонки он узнал рассказ о корабле, остановившемся на горах Низира, о послании голубя и о возвращении птицы, не найдя места для покоя. Так он понял, что нашёл фрагмент халдейского рассказа о потопе.
 
-- creation stories
-- the fall / first human order
-- the flood
-- the tower of Babel
-- patriarchal chronology
-- Nimrod and early kingship
+Дальнейшие поиски среди тысяч осколков привели к восстановлению всё большего числа фрагментов той же легенды и других родственных текстов. Смит подчёркивает, что подобная работа по восстановлению была чрезвычайно тяжёлой, поскольку таблички были разбиты, обожжены при разрушении Ниневии и позднее ещё более рассыпались от времени и влаги.
 
-## Graph use
+Постепенно он нашёл и другие фрагменты цикла легенд об Ицдубаре, включая упоминания потопа, сотворения животных, творения и падения человека, а также войны богов и злых духов. Всё это позволило ему сделать вывод, что вавилонские мифологические тексты образуют обширный древний корпус, тесно связанный с началом библейской истории.
 
-Use this source when linking:
+Особенно важно для него было то, что среди этих легенд вскоре обнаружились и упоминания о башне Вавилона, а также о ранней истории людей и городов. Он подытоживает, что тексты указывают на чрезвычайную древность вавилонской литературы и на её связь с происхождением цивилизации в Халдее.
 
-- [[summary-genesis-11-babel]]
-- [[summary-mesopotamian-flood]]
-- [[summary-chaldean-account-tower]]
-- [[analysis-potop]]
+Для нашей базы этот source-узел важен не как древняя табличка, а как классический старт сравнительного чтения между Месопотамией и Библией: творение, падение, потоп, башня, древние города и история первого мира.
+
+## Связи
+
+Связывать с:
+
+- [[summary-oldest-religious-text-babylonia]]
+- [[summary-enuma-elish]]
+- [[summary-atra-hasis]]
+- [[summary-gilgamesh-xi]]
+- [[analysis-mesopotamia]]
 - [[analysis-building-motifs-global-map]]
-
