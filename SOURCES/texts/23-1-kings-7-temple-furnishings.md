@@ -1,1 +1,105 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'vigXvQKhWNLonoipym7IvSot3u_qv1txy3XraLegHOI-1776606959-1.2.1.1-TXMDXy4dwh_eyspvK59np_tSsoYsVTGSRmXKNSG0kET7ZmnfWG.1jWsNMsnLf48k',cITimeS: '1776606959',cRay: '9eec68f6196f0b38',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/bib/poly/kg1007.htm?__cf_chl_tk=vticXrcYI.Og4o96TQ9_bt9G5vp5YgxXgQxCovPQE6w-1776606959-1.0.1.1-HIu78g8his9rJoctOlaN3tblFKDfPLQxXiTBDSFOibQ",cvId: '3',cZone: 'sacred-texts.com',fa:"/bib/poly/kg1007.htm?__cf_chl_f_tk=vticXrcYI.Og4o96TQ9_bt9G5vp5YgxXgQxCovPQE6w-1776606959-1.0.1.1-HIu78g8his9rJoctOlaN3tblFKDfPLQxXiTBDSFOibQ",md: '8ZSmyoa7vHWS1vlqkMCS2dK2KYKGZJlOIEAkIXCbjf0-1776606959-1.2.1.1-lV70EnqX0cTDC9TaDFveVrsHP8fXwovM.0DQm584alFsNEbtjW_jxIT_KP0d8gMmBYvHX2zQouzgTO_bIVh.xSIqyYMxIurvlINAMb9zhrVSwH377ClEsiV4_KDNevpj1yPJnlf625yV9gYfykZJCr9sNtguvYL3HnwQJT5Ri2wMaOFRBszUg2k0Xl9iJsWXBV9teRiFFhIassZvcR31ozwq86Xtk4LbWDbehfwxIm8VD9hM3COZAgxZjiNfUOqjGCGCp9JCVBuJDkcubnjzojG0fzoQBpgnL5t8a2dtoPrnGspKwdOmJ61dbFOCImqTcm8Pmo.R9jyup2rX1yuAKpjJX.sonfg4CpmWKussRVimGTlNBh_qQqA4hJzB4AIl1q.d0eCpg82Ju6axkDrasuNG3wO3hLq2SS.tJDEiLbZ3FBdkluCfPPBbelQuPMiybhERKdwHCed9XmtO01aavuzJlOxvn3a8pw_Zpk5RapPkgPi8aRXU6AOANhI7cpQJJG31vpPOM.kPVk0WH6henudgN9Qnv9ZD82INC75O_9Hx8Zj2gxhaBmBQ9M9nh_gVx3J3yIbIs02_ULBCHNxVwDTY2oV.4bxhFeizYR3pR3LAbYLqjRXh8gihUUmDuWaz1HPxbCVzX0kfcjBtFwii4yp.8fU4QUJAmf_L0FYGEpmifgR9kOghaNNf9_ABMsELtV2_iITA6nOTbBokkEM_ggX.jnQLK6s5C27waXBYJsbDyHVBAnJ101SvVIj_YWfPq5GiJc.89CRnfnXF3M3aT9dAliiw4hxtl5ShkESxpaFro0GhXMggXudhUHlZ1EDVSWBoy9hEHE_LAfvx1W1pf3RpfYjxW2hbxQ9VZrLcxeUbYqZ7uU3UzC.0k1GFWl.bf6ZL__S1mes.ccMBb1N8Y_B4_s5pjANBvOxGLVJqJR0',mdrd: 'pldJI7c2hLLoFCsfL8hbQ7ZWzx6dSSVlM0Sk_bydGiw-1776606959-1.2.1.1-P3moonyuxg.K80pxuLL6cwz_fBiBQXE7f42hxZUl3z2GwoWILS3rLhY7zAvQhPEzOK0XbAYz3tDI01VIPmDRzeJAEsHHHsg7Ahk1itGNtfDKPgybTW5n7y7X5Ox1O0F3HuYw1EqMSHLbTQM.m703ObYBHiOUsOur3czZCF3m4OoIgLu1ugf6ybmmSSCvTdFXeC27uL6DgFJnXmz588.1ld8LehJROI_ZFohUkyHmha69cTtOw60JyPEVEUAIWdwMQrspbMfIK9Pi3QXJPn.F4g',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9eec68f6196f0b38';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/bib/poly/kg1007.htm?__cf_chl_rt_tk=vticXrcYI.Og4o96TQ9_bt9G5vp5YgxXgQxCovPQE6w-1776606959-1.0.1.1-HIu78g8his9rJoctOlaN3tblFKDfPLQxXiTBDSFOibQ"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+---
+title: "3 Царств 7"
+source: "Русская синодальная традиция"
+author: "Библия"
+year: "канонический библейский текст"
+language: "ru"
+text_source: "https://www.spiritlessons.com/documents/bible/all_html/synodal_translation_of_the_holy_bible_in_russian/1KI07.htm"
+notes: "Полный русский текст главы об утвари и колоннах храма Соломона."
+---
+
+# 3 Царств 7
+
+1 А дом свой Соломон строил тринадцать лет и окончил весь дом свой.
+
+2 И построил он дом из Ливанского дерева; длиною он был в сто локтей, шириною в пятьдесят локтей, и вышиною в тридцать локтей, на четырех рядах кедровых столбов, и кедровые балки лежали на столбах.
+
+3 И покрыл кедровым деревом все помещение, находившееся над балками, и на столбах, сорок пять столбов, по пятнадцати в ряду.
+
+4 И было тройное расположение окон, три ряда окон одно против другого.
+
+5 Все двери и косяки были четвероугольные; и окна были тройные, одно против другого в три ряда.
+
+6 И сделал притвор из столбов, длиною в пятьдесят локтей и шириною в тридцать локтей; и притвор пред ними с колоннами и с навесом был перед ними.
+
+7 И сделал притвор для престола, где он судил, притвор суда, и обложил его кедром от пола до потолка.
+
+8 И дом, в котором он жил, во дворе позади этого притвора, был устроен такого же вида; и дом для дочери фараоновой, которую взял Соломон, был похож на этот притвор.
+
+9 Все это было из дорогих камней, по размерам тесаных, распиленных пилою, внутри и снаружи, от основания до карниза, и снаружи до большого двора.
+
+10 И основание было из дорогих камней, из больших камней, камней в десять локтей и камней в восемь локтей.
+
+11 Сверху же были дорогие камни по размерам, и кедровое дерево.
+
+12 А великий двор был огражден тремя рядами тесаных камней и одним рядом кедровых брусьев, как и внутренний двор дома Господня и притвор дома.
+
+13 И послал царь Соломон и взял Хирама из Тира.
+
+14 Он был сын вдовы из колена Неффалимова, а отец его был тирянин, медник; он был исполнен мудрости, разума и знания, чтобы делать всякую работу из меди. Он пришел к царю Соломону и делал всю его работу.
+
+15 И вылил он два медных столба, каждый в восемнадцать локтей вышиною, и шнур в двенадцать локтей обхватывал каждый столб.
+
+16 И сделал два венца, вылитых из меди, чтобы положить их на верх столбов; высота одного венца пять локтей, и высота второго венца пять локтей.
+
+17 Сетчатые плетения, с обвившимися шнурами, для венцов на верхах столбов, семь для одного венца и семь для другого.
+
+18 И сделал два ряда гранатовых яблок вокруг одного сетчатого плетения, чтобы покрыть венец, который был на верху столба; и так же сделал для второго венца.
+
+19 А венцы на столбах в притворе были сделаны наподобие лилии, в высоту четыре локтя.
+
+20 И венцы на двух столбах имели гранатовые яблоки, которые были по два ряда вокруг сетчатого плетения, и по двести гранатовых яблок вокруг другого венца.
+
+21 И поставил столбы в притворе храма; и поставил правый столб и дал ему имя Иахин; и поставил левый столб и дал ему имя Воаз.
+
+22 И на верху столбов было устроено подобие лилии. И совершилось дело столбов.
+
+23 И сделал море литое, из края в край десять локтей, кругом; высота его пять локтей; шнур в тридцать локтей обхватывал его кругом.
+
+24 Под краем его кругом были изображения огурцов, по десяти на локоть, окружающих море кругом; эти изображения были в два ряда, отлиты вместе с ним.
+
+25 Оно стояло на двенадцати волах: три смотрели к северу, три к западу, три к югу и три к востоку; и море было поверх их, а задние части их были внутрь.
+
+26 Толщина его была в ладонь, и края его как края чаши, подобные распустившейся лилии; оно вмещало две тысячи батов.
+
+27 И сделал десять медных подстав; длиною каждая подставка была в четыре локтя, шириною в четыре локтя, и вышиною в три локтя.
+
+28 Вот устройство подставок: у них были стенки, а стенки между рамками.
+
+29 На стенках, которые между рамками, были львы, волы и херувимы; и на рамах так же, а над и под львами и волами были венки.
+
+30 И у каждой подставки было четыре медные колеса и медные оси; и четыре угла были с подставами; под чашей были литые выступы по одну и по другую сторону.
+
+31 Устье внутри венца было на один локоть вверх; устье его было круглое, сделанное наподобие основания подставки, полтора локтя в поперечнике; на устье его были также резные изображения, а стенки были четырехугольные, не круглые.
+
+32 И четыре колеса были под стенками, и оси колес были на подставках; высота одного колеса была в полтора локтя.
+
+33 И устройство колес было такое же, как у колес колесницы; оси их, ободья их, спицы их и ступицы их — все было литое.
+
+34 И на четырех углах каждой подставки были литые выступы; выступы эти были из одной с подставкой.
+
+35 И наверху подставки было полукруглое место на пол-локтя вышиною; и наверху подставки были рукоятки и стенки ее из одной с нею литой формы.
+
+36 И на плоскостях ее рукояток, и на стенках ее вырезал херувимов, львов и пальмы, по пространству, какое было на каждой, и вокруг — венки.
+
+37 Так он сделал десять подстав, и все их вылили одинаково, одной меры, одной формы.
+
+38 И сделал десять медных умывальниц: каждая вмещала сорок батов, каждая была в четыре локтя; на каждой из десяти подстав была одна умывальница.
+
+39 И поставил пять подстав с правой стороны дома, а пять с левой стороны дома; а море поставил с правой стороны дома на восток, с южной стороны.
+
+40 И сделал Хирам умывальницы, лопатки и чаши. И окончено было все дело, которое он делал для царя Соломона в доме Господнем:
+
+41 два столба и два венца на верх столбов, и два сетчатых плетения для покрытия двух венцов на верх столбов;
+
+42 и четыреста гранатовых яблок на двух сетчатых плетениях, по два ряда гранатовых яблок на каждом плетении, для покрытия двух венцов на столбах;
+
+43 и десять подстав, и десять умывальниц на подставах;
+
+44 и одно море, и двенадцать волов под морем;
+
+45 и тазы, и лопатки, и чаши; и все эти вещи, которые Хирам сделал царю Соломону для дома Господня, были из полированной меди.
+
+46 В окрестности Иордана царь вылил их в глиняной земле между Сокхофом и Цартаном.
+
+47 И оставил Соломон все сосуды невзвешенными, потому что их было очень много; медь не считалась по весу.
