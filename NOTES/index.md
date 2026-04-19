@@ -122,6 +122,7 @@
 | [[summary-driving-back-rerek]] | Driving Back Rerek |
 | [[summary-adoration-of-the-gods-of-the-qerti]] | Adoration of the Gods of the Qerti |
 | [[summary-eridu-genesis]] | Eridu Genesis |
+| [[summary-sumerian-king-list]] | Sumerian King List |
 
 ### Древние корпуса
 
