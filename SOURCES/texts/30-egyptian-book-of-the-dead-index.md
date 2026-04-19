@@ -1,1 +1,42 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'ye0thkX840v1HoBju55meWYa_ZuRCnM3VXSoJjAW79c-1776607393-1.2.1.1-0uKtwgOjtSnpBTklleVNNhtFuG0M7XZNB5Mn.0_IKiLNvo4OxCw4FNS0Nza1MhZ7',cITimeS: '1776607393',cRay: '9eec738f2835feb8',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/egy/ebod/index.htm?__cf_chl_tk=dOnrFsElXNbRzzlyQYjlgOEhU5HvDuJjNaX0v3yr8fw-1776607393-1.0.1.1-6X9NxpBaya7z5OfTjt.RPp_BR2lUcsyyilxQxk_wxT0",cvId: '3',cZone: 'archive.sacred-texts.com',fa:"/egy/ebod/index.htm?__cf_chl_f_tk=dOnrFsElXNbRzzlyQYjlgOEhU5HvDuJjNaX0v3yr8fw-1776607393-1.0.1.1-6X9NxpBaya7z5OfTjt.RPp_BR2lUcsyyilxQxk_wxT0",md: 'I2cSoCAe7SVATFiAjIyiCzht9iiyo1uFXVKpUw_IwHk-1776607393-1.2.1.1-I8ePW_BIgKzNoCoJKMTihFsr0lX1iB9VpY01IR0nfnYjrK18El8Ublq4RsXNsMHod.23YpZr0xLoxCJD9ikpFE58ZrVW5CGuvKjhxuNh2ek19PpmE0mXdMFL48yZe21UhOJ.f2fX_4bW7ZvwGL2KMIfMGJ3ehUDUiWcoFu7LkqD.AkkL8VsfcDfcxO7FL_eows1y1YY5KH6Ssz5yW9LQPUYCwYFtAuwRjkSRhhVHwGs_3LKoOrkGQfKeS8bhAqGJ.oMqKB2E4CINl0Ux7Y8UvennAPgNSU4gx8WajQvhmTDH8lg.mG9wNNnIdod41rV0Sturbaogq6jCp9Z0QTlokRQ0PAi9OqyzrVbrOdBs5ogZLEjbI0UWMJkageB8NOCjX_nq8c7zYPrFngvZU_f54376eJXOvJ7OLG41OqExNTvufTFw9qS6HbGkVanqQVhIIe1Gz4V8bjSoSvFoEsvhiYEE9qpV9Jy9DDVJSNlgpgK_4JN6iSXGA4edhYR_pYw7oAhtPbL2CKmIz8NmpDwbjjRd2aKf2q3wdaETQ1kI05SWsV3QIIW11UdxpRT6vqrfSMUZt2LFdIJZfP_Ed8y2jqNmPlA6h1EdiYSdTb0MqLjR9OhZcuvVa884nAa3Y6_qHbmzZS_rNeE_SbErbe4k6xqk2_VZlasmF.QSct6JQayWEnDmaBcl1dSfaF4hEYruljQXgaXMK3t02Qc5GSfSezSbxBGZ1LKFHBlk67sas_P8Jx.S8gu.2v.mEn5DisyQGxUqK67Mq2f7lTaHfUdCt2AbrZf0UH_94TxNHFcQF8sZrWoKE_g0rWkWg6cetpcUCMx9Fa3dJAXoEMW11TlXjtAqKru_5la3w6mXn.G3p4T6QFP6DVFRKi7misFX8cBD6lvQe3055kqRqDVcm4Ojt2U75gQf0yqyxy6Rxw._XOUipJUGNyPENzsZ5XPwP8K0',mdrd: 'sdW4UY8cnlwvRv7zfEUY3i7Tn1HGcWht_1QMQ_DgMAs-1776607393-1.2.1.1-OZTtcZ2AOfUWHpoUQcMO_wHZ5eylxbkLw6l5Pl0sOwR51Uq0jwjYgSqEAu7i7PX0lH_.3kG6EXCtsm3_a3.iB9C4BHCQa7LbOXcXQkBuB4THbm0.sivrxaRbkp.0AfOGIVCpY9ChvKSC3S5Dpal5c9NzYwgsdXD3CqZ7oHQU7d29oOD8FNM70dyC6dfIa_JsL8b9F6JDvQc3djSGe.3yWuhKAo2KAu1IqqJDj2UWM0Y3xtz.eOrUVfJ2P_sfZqi3WEcUvLcwWSR.dtpLW9WwQw',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9eec738f2835feb8';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/egy/ebod/index.htm?__cf_chl_rt_tk=dOnrFsElXNbRzzlyQYjlgOEhU5HvDuJjNaX0v3yr8fw-1776607393-1.0.1.1-6X9NxpBaya7z5OfTjt.RPp_BR2lUcsyyilxQxk_wxT0"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+---
+title: "Индекс египетской Книги мёртвых"
+source: "Sacred Texts Archive"
+author: "древнеегипетская традиция / сводный индекс"
+year: "древнеегипетский корпус"
+language: "ru"
+text_source: "https://archive.sacred-texts.com/egy/ebod/index.htm"
+notes: "Сводный вход к египетской Книге мёртвых, её главам и посмертной картографии."
+---
+
+# Индекс египетской Книги мёртвых
+
+Этот файл нужен как вход к одному из главных египетских погребальных корпусов. Книга мёртвых важна для нашей базы, потому что показывает посмертный путь, защитные формулы, суд, переход и ритуальную помощь умершему.
+
+## Что здесь главное
+
+Книга мёртвых соединяет в себе:
+
+- заклинания защиты,
+- переход души,
+- прохождение через опасности,
+- встречу с божественным судом,
+- и идею сохранения личности после смерти.
+
+## Почему это важно
+
+Это ключевой текст для сравнения с:
+
+- енохическими видениями,
+- моделями суда и наказания,
+- египетским благим полем,
+- и ритуалами, открывающими путь умершему.
+
+## Связи
+
+Связывать с:
+
+- [[summary-book-of-the-dead]]
+- [[summary-sekhet-hetep]]
+- [[summary-opening-the-tomb]]
+- [[summary-liturgy-of-funerary-offerings]]
+- [[analysis-egypt-afterlife]]
