@@ -116,6 +116,8 @@
 | [[summary-chaldean-account-of-genesis]] | The Chaldean Account of Genesis |
 | [[summary-popol-vuh]] | The Popol Vuh |
 | [[summary-viracocha]] | Viracocha |
+| [[summary-theogony]] | The Theogony |
+| [[summary-chaldean-account-of-the-deluge]] | The Chaldean Account of the Deluge |
 
 ### Древние корпуса
 
