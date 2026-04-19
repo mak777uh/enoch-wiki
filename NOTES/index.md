@@ -118,6 +118,7 @@
 | [[summary-viracocha]] | Viracocha |
 | [[summary-theogony]] | The Theogony |
 | [[summary-chaldean-account-of-the-deluge]] | The Chaldean Account of the Deluge |
+| [[summary-avesta]] | Avesta |
 
 ### Древние корпуса
 
