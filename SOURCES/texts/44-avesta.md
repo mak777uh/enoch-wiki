@@ -1,40 +1,24 @@
 ---
-title: "Avesta"
+title: "Авеста"
 source: "Wikisource"
-author: "Zoroastrian tradition"
-year: "Ancient Iranian corpus; later redactions"
-language: "en"
+author: "Зороастрийская традиция"
+year: "Древнеиранский корпус; позднейшие редакции"
+language: "ru"
 text_source: "https://en.wikisource.org/wiki/Avesta"
-notes: "Zoroastrian corpus: creation, dualism, law, purification, death, cosmic struggle, and end-time themes."
+notes: "Зороастрийский корпус о творении, дуализме, законе, очищении, смерти, космической борьбе и будущем обновлении мира."
 ---
 
-# Avesta
+# Авеста
 
-## What this source gives us
+`Авеста` — фундаментальный корпус зороастрийской традиции. Для нашей базы он особенно важен тем, что даёт один из самых сильных древних образцов дуалистического мышления, где мир строится вокруг противопоставления благого и разрушительного начал.
 
-The Avesta is the foundational Zoroastrian corpus. For this base it is essential because it provides a powerful model of cosmic dualism, law, purification, death, and end-time order.
+Внутри корпуса сосуществуют гимны, ритуальные формулы, предписания по чистоте, представления о смерти и будущем обновлении мира. Это не просто собрание религиозных текстов, а нормативная система: текст задаёт, как жить в мире, где добро и разрушение находятся в постоянном конфликте.
 
-## Why it matters
+Для сравнительной работы `Авеста` особенно полезна потому, что помогает сопоставлять иранскую религиозную картину с енохической демонологией, поздней моральной моделью зла и апокалиптическими схемами. Здесь зло мыслится не только как поступок, но и как космическая структура, требующая ритуального, нравственного и эсхатологического ответа.
 
-- It gives us a strong ancient dualist tradition.
-- It helps compare truth vs lie with good vs evil and later moralized cosmologies.
-- It includes creation, purity, funerary, and eschatological material.
-- It connects religious law to cosmic order in a very direct way.
-
-## Key motifs
-
-- creation by the good principle
-- opposing destructive power
-- law and purity
-- treatment of the dead
-- final victory and renewal
-
-## Graph use
-
-Use this source when linking:
-
-- [[summary-gathas-selected-passage]]
-- [[analysis-drevnost-i-model-zla]]
-- [[analysis-gipoteza-evolucia-zla]]
-- [[entity-approach-zoroastrizm]]
-
+Ключевые мотивы:
+- дуализм
+- закон и чистота
+- смерть и посмертный порядок
+- ритуальная норма
+- будущее обновление мира
