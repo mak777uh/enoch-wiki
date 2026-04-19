@@ -1,42 +1,25 @@
 ---
-title: "The Popol Vuh"
+title: "Пополь-Вух"
 source: "Wikisource"
-author: "K'iche' Maya tradition; English abridgment on Wikisource"
-year: "Traditional K'iche' corpus; later transcription and translation"
-language: "en"
+author: "Традиция киче-майя; поздняя транскрипция и перевод"
+year: "Традиционный корпус киче-майя"
+language: "ru"
 text_source: "https://en.wikisource.org/wiki/Myths_and_Legends_Beyond_Our_Borders/The_Popul_Vuh"
-notes: "Mayan cosmogony, multiple creations of humanity, underworld conflict, divine speech, maize creation, and sacred historical memory."
+notes: "Майянская космогония, несколько попыток создания человечества, конфликт с подземным миром, героические близнецы и люди из кукурузы."
 ---
 
-# The Popol Vuh
+# Пополь-Вух
 
-## What this source gives us
+`Пополь-Вух` — один из важнейших мифологических текстов Америки. Он содержит творение мира, повторные попытки создания людей, подземный конфликт и окончательное формирование человечества из кукурузы.
 
-The Popol Vuh is one of the most important American mythological texts for the base. It contains creation, destruction, underworld struggle, divine speech, and the final formation of humanity from maize.
+Текст начинается с тишины и неподвижности, затем творение разворачивается через божественное слово. Но человечество создаётся не один раз: первые попытки оказываются неудачными, и только затем появляются люди из кукурузы. Это очень важный мотив для сравнительного исследования, потому что он показывает творение как последовательность исправлений.
 
-## Why it matters
+`Пополь-Вух` соединяет космогонию, подземный конфликт и героическое испытание. Он показывает, что мир не просто создан, а многократно проверен и доработан, прежде чем стать устойчивым.
 
-- It shows multiple creation attempts, which is useful for comparison with other cosmogonies.
-- It gives us a strong underworld and hero-twin structure.
-- It helps with the theme of humanity being made from a specific substance.
-- It is a major non-European comparative source for origin, conflict, and sacred memory.
-
-## Key motifs
-
-- silence before creation
-- creation by divine speech
-- failed human prototypes
-- underworld conflict
-- hero twins
-- humans made from maize
-
-## Graph use
-
-Use this source when linking:
-
-- [[analysis-istoriya-planety-proveryaemye-i-mifologicheskie-sloi]]
-- [[analysis-drevnost-i-model-zla]]
-- [[analysis-heroes-zmeebortsy]]
-- [[entity-approach-greece]]
-- [[entity-approach-egypt]]
-
+Ключевые мотивы:
+- тишина до творения
+- творение через слово
+- неудачные ранние человечества
+- героические близнецы
+- подземный конфликт
+- человек из кукурузы
