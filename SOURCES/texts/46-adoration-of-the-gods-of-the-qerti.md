@@ -1,40 +1,35 @@
 ---
-title: "Adoration of the Gods of the Qerti"
-source: "Wikisource"
-author: "Egyptian Literature / Book of the Dead section"
-year: "Ancient Egyptian funerary tradition"
-language: "en"
-text_source: "https://en.wikisource.org/wiki/Egyptian_Literature/The_Book_of_the_Dead/Adoration_of_the_Gods_of_the_Qerti"
-notes: "Funerary passage about gods in the Qerti, underworld gates, guardians, names, and the destruction of enemies of Ra."
+title: "Поклонение богам кэрти"
+source: "Sacred Texts Archive"
+author: "древнеегипетская традиция"
+year: "египетский религиозный корпус"
+language: "ru"
+text_source: "https://www.sacred-texts.com/egy/boe/boe38.htm"
+notes: "Египетский текст о почитании богов и сакральной топографии."
 ---
 
-# Adoration of the Gods of the Qerti
+# Поклонение богам кэрти
 
-## What this source gives us
+Этот source-узел нужен как ещё один египетский ритуальный текст о почитании божеств и поддержании сакрального порядка.
 
-This section gives us a very clear image of the gods who guard the gates of the underworld and help determine who may pass. It is useful for gatekeeping, names, and underworld administration.
+## Содержание
 
-## Why it matters
+Текст показывает форму почитания богов и связь между ритуалом, местом и правильным религиозным поведением.
 
-- It strengthens the gate and guardian motif.
-- It shows the underworld as structured and supervised.
-- It gives us a clear comparison point with judgment and passage scenes in other traditions.
+## Почему это важно
 
-## Key motifs
+Для базы он полезен как материал о:
 
-- gods of the Qerti
-- guardians of the gates
-- names and entry
-- enemies of Ra
-- supervised passage
+- ритуальном поклонении,
+- почитании местных божеств,
+- сакральной карте Египта,
+- и устойчивости религиозного порядка.
 
-## Graph use
+## Связи
 
-Use this source when linking:
+Связывать с:
 
-- [[summary-book-of-the-dead]]
-- [[summary-sekhet-hetep]]
-- [[analysis-drevnost-i-model-zla]]
-- [[analysis-zmea-podzemie]]
+- [[summary-adoration-of-the-gods-of-the-qerti]]
+- [[analysis-egypt-afterlife]]
 - [[entity-approach-egypt]]
-
+- [[analysis-building-motifs-global-map]]
