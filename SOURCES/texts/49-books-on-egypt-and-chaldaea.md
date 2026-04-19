@@ -1,40 +1,35 @@
 ---
-title: "Books on Egypt and Chaldaea"
-source: "Wikisource"
-author: "Various scholarly and translation authors"
-year: "Collected early-20th-century volumes"
-language: "en"
-text_source: "https://en.wikisource.org/wiki/Books_on_Egypt_and_Chaldaea"
-notes: "Collection index for Egyptian funerary, royal, and underworld texts including Book of the Dead, Book of Gates, Am-Tuat, and pyramid-related volumes."
+title: "Книги о Египте и Халдее"
+source: "Sacred Texts Archive"
+author: "Э. А. Уоллис Бадж"
+year: "XIX-XX век"
+language: "ru"
+text_source: "https://www.sacred-texts.com/egy/boe/index.htm"
+notes: "Сводный вход к книгам Баджа по Египту и Халдее."
 ---
 
-# Books on Egypt and Chaldaea
+# Книги о Египте и Халдее
 
-## What this source gives us
+Этот source-узел нужен как сводный вход к египетским и халдейским материалам Баджа. Для нашей базы он полезен как справочный мост между корпусами по Египту и Месопотамии.
 
-This is a useful scholarly collection page because it gathers the main Egyptian and Chaldaean comparative volumes in one place. For the base it works as an access-point to a whole cluster of afterlife, royal, and monumental texts.
+## Содержание
 
-## Why it matters
+Сборник охватывает различные религиозные и культурные тексты и комментарии по Египту и Халдее, что делает его удобным ориентиром для сравнительного исследования.
 
-- It gives us a navigational bridge to Egyptian funerary and underworld material.
-- It helps with the Book of the Dead, Book of Gates, Am-Tuat, and pyramid corpus.
-- It is useful as a source-map for future Egyptian expansion.
+## Почему это важно
 
-## Key motifs
+Помогает держать рядом:
 
-- funerary texts
-- underworld books
-- pyramid and royal literature
-- knowledge collection
-- access to primary and scholarly volumes
+- египетский загробный мир,
+- месопотамские сравнения,
+- храмовую и погребальную тематику,
+- и древние представления о священном порядке.
 
-## Graph use
+## Связи
 
-Use this source when linking:
+Связывать с:
 
+- [[analysis-egypt-afterlife]]
+- [[analysis-mesopotamia]]
 - [[summary-book-of-the-dead]]
-- [[summary-pyramid-builders]]
-- [[summary-sekhet-hetep]]
-- [[analysis-building-motifs-global-map]]
-- [[entity-approach-egypt]]
-
+- [[summary-pyramid-texts-index]]
