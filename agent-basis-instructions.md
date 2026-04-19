@@ -101,6 +101,7 @@ Enoch-Wiki исследует не только тему падших ангел
   - он может быть длинным
   - он должен передавать содержание целиком, но с фокусом на наши исследовательские мотивы
   - допустимы несколько абзацев и подпункты
+- Все `summary`-заметки всегда хранятся в `NOTES/summaries/`.
 - Потом добавляй связи в уже существующие узлы.
 - Если у источника несколько уровней полезности, можно делать отдельные заметки:
   - source note
@@ -145,9 +146,12 @@ Enoch-Wiki исследует не только тему падших ангел
   - PDF-версии источников, если они нужны как исходные сканы или полные переводы
   - если есть возможность, рядом должен быть и `.md`-вариант источника
 - `NOTES/`:
-  - все заметки живут в одной общей папке без разбиения по подпапкам
+  - все обычные заметки живут в одной общей папке без разбиения по подпапкам
   - тип заметки определяется через `type:` в frontmatter и самим содержанием
-  - внутри этой папки могут лежать и summary, и короткие заметки, и comparisons, и analyses, и redirects, и guides
+  - внутри этой папки могут лежать card, entity, comparison, analysis, redirects и guides
+- `NOTES/summaries/`:
+  - здесь лежат только summary-заметки
+  - каждая summary отвечает за один источник, книгу или корпус
 
 ## Как отличать summary от обычной заметки
 
@@ -156,6 +160,7 @@ Enoch-Wiki исследует не только тему падших ангел
   - даёт обзор всей книги или корпуса
   - может идти по главам, частям или крупным блокам
   - включает наши мотивы, но не сводится только к ним
+  - всегда хранится в `NOTES/summaries/`
 - обычная zettel-заметка:
   - отвечает на один конкретный вопрос
   - фиксирует один вывод, одну фигуру или один мотив
@@ -168,8 +173,9 @@ Enoch-Wiki исследует не только тему падших ангел
   - только источники
   - все источники в `.md`
 - `NOTES/`:
-  - все заметки в одной папке
-  - summary, entity, card, comparison, analysis, guide, redirect находятся здесь без отдельных подпапок
+  - все обычные заметки в одной папке
+  - summary-заметки отдельно в `NOTES/summaries/`
+  - entity, card, comparison, analysis, guide, redirect находятся здесь без отдельных подпапок
 - `PERSONAL/`:
   - мета-слой
 - `_inbox/`:
@@ -178,6 +184,7 @@ Enoch-Wiki исследует не только тему падших ангел
 ## Что считать качественным summary
 
 - `summary` должен быть отчётом о прочтении всей книги или всего источника, а не короткой аннотацией.
+- summary-заметка всегда должна лежать в `NOTES/summaries/`.
 - Нельзя ограничиваться одной строкой или формулой вида "эта заметка фиксирует основной смысл источника".
 - `summary` должен кратко, но последовательно передавать:
   - общий контекст источника
@@ -241,22 +248,22 @@ Enoch-Wiki исследует не только тему падших ангел
 ## Полезные ссылки на базу
 
 - Индекс: [NOTES/index.md](/home/dmin/Enoch-Wiki/NOTES/index.md)
-- Главный поток по потопу: [summary-mesopotamian-flood.md](/home/dmin/Enoch-Wiki/NOTES/summary-mesopotamian-flood.md)
-- Главный древний месопотамский мост: [summary-oldest-religious-text-babylonia.md](/home/dmin/Enoch-Wiki/NOTES/summary-oldest-religious-text-babylonia.md)
-- Enuma Elish: [summary-enuma-elish.md](/home/dmin/Enoch-Wiki/NOTES/summary-enuma-elish.md)
-- Atra-Hasis: [summary-atra-hasis.md](/home/dmin/Enoch-Wiki/NOTES/summary-atra-hasis.md)
-- Gilgamesh XI: [summary-gilgamesh-xi.md](/home/dmin/Enoch-Wiki/NOTES/summary-gilgamesh-xi.md)
-- 1 Енох: [summary-1-enoh.md](/home/dmin/Enoch-Wiki/NOTES/summary-1-enoh.md)
-- 2 Енох: [summary-2-enoch.md](/home/dmin/Enoch-Wiki/NOTES/summary-2-enoch.md)
-- 3 Енох: [summary-3-enoch.md](/home/dmin/Enoch-Wiki/NOTES/summary-3-enoch.md)
-- Книга Исполинов: [summary-kniga-ispolinov.md](/home/dmin/Enoch-Wiki/NOTES/summary-kniga-ispolinov.md)
-- Книга Юбилеев: [summary-kniga-yubileev.md](/home/dmin/Enoch-Wiki/NOTES/summary-kniga-yubileev.md)
-- Апокалипсис Авраама: [summary-apocalypse-abraham.md](/home/dmin/Enoch-Wiki/NOTES/summary-apocalypse-abraham.md)
-- Восхождение Исаии: [summary-ascension-isaiah.md](/home/dmin/Enoch-Wiki/NOTES/summary-ascension-isaiah.md)
-- Завещание Соломона: [summary-testament-solomon.md](/home/dmin/Enoch-Wiki/NOTES/summary-testament-solomon.md)
-- Vita Adae et Evae: [summary-vita-adae-et-eve.md](/home/dmin/Enoch-Wiki/NOTES/summary-vita-adae-et-eve.md)
-- Египетский блок: [summary-sekhet-hetep.md](/home/dmin/Enoch-Wiki/NOTES/summary-sekhet-hetep.md), [summary-opening-the-tomb.md](/home/dmin/Enoch-Wiki/NOTES/summary-opening-the-tomb.md), [summary-liturgy-of-funerary-offerings.md](/home/dmin/Enoch-Wiki/NOTES/summary-liturgy-of-funerary-offerings.md)
-- Индийский и иранский блок: [summary-rigveda-book-10.md](/home/dmin/Enoch-Wiki/NOTES/summary-rigveda-book-10.md), [summary-gathas-selected-passage.md](/home/dmin/Enoch-Wiki/NOTES/summary-gathas-selected-passage.md)
+- Главный поток по потопу: [summary-mesopotamian-flood.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-mesopotamian-flood.md)
+- Главный древний месопотамский мост: [summary-oldest-religious-text-babylonia.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-oldest-religious-text-babylonia.md)
+- Enuma Elish: [summary-enuma-elish.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-enuma-elish.md)
+- Atra-Hasis: [summary-atra-hasis.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-atra-hasis.md)
+- Gilgamesh XI: [summary-gilgamesh-xi.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-gilgamesh-xi.md)
+- 1 Енох: [summary-1-enoh.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-1-enoh.md)
+- 2 Енох: [summary-2-enoch.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-2-enoch.md)
+- 3 Енох: [summary-3-enoch.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-3-enoch.md)
+- Книга Исполинов: [summary-kniga-ispolinov.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-kniga-ispolinov.md)
+- Книга Юбилеев: [summary-kniga-yubileev.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-kniga-yubileev.md)
+- Апокалипсис Авраама: [summary-apocalypse-abraham.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-apocalypse-abraham.md)
+- Восхождение Исаии: [summary-ascension-isaiah.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-ascension-isaiah.md)
+- Завещание Соломона: [summary-testament-solomon.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-testament-solomon.md)
+- Vita Adae et Evae: [summary-vita-adae-et-eve.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-vita-adae-et-eve.md)
+- Египетский блок: [summary-sekhet-hetep.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-sekhet-hetep.md), [summary-opening-the-tomb.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-opening-the-tomb.md), [summary-liturgy-of-funerary-offerings.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-liturgy-of-funerary-offerings.md)
+- Индийский и иранский блок: [summary-rigveda-book-10.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-rigveda-book-10.md), [summary-gathas-selected-passage.md](/home/dmin/Enoch-Wiki/NOTES/summaries/summary-gathas-selected-passage.md)
 
 ## Что делать, если тема меняется
 
