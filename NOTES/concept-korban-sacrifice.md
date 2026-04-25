@@ -22,3 +22,4 @@ tags: [judaism, ritual, korban, sacrifice, contact]
 [[source-vayikra-leviticus]] — первоисточник законов
 [[analysis-why-temple-exists]] — зачем всё это нужно
 [[entity-action-maase-judaism]] — ритуал как форма действия
+[[analysis-judaism-through-young-gods-theory]] — взгляд на жертвы как на топливо для Элохим

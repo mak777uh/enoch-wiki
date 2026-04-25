@@ -18,4 +18,5 @@ tags: [source, torah, shemot, exodus, mishkan]
 [[entity-mishkan-tabernacle]] — что это и зачем
 [[concept-korban-sacrifice]] — ритуалы, описанные в конце Шмот и Левит
 [[analysis-why-temple-exists]] — причина существования Храма
+[[analysis-judaism-through-young-gods-theory]] — взгляд через теорию младших богов
 [[source-bereishit-genesis]] — предыдущая книга

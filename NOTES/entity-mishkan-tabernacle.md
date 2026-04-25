@@ -20,3 +20,4 @@ tags: [judaism, temple, mishkan, elohim, enlil, immortality]
 [[source-shemot-exodus]] — инструкции по постройке
 [[source-enuma-elish]] — история убийства Тиамат
 [[concept-korban-sacrifice]] — энергия для бессмертия Элохим
+[[analysis-judaism-through-young-gods-theory]] — взгляд на Мишкан как на базу бессмертия

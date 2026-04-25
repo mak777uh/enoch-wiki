@@ -20,3 +20,4 @@ tags: [source, torah, vayikra, leviticus, korban]
 [[entity-mishkan-tabernacle]] — где проводятся ритуалы
 [[concept-korban-sacrifice]] — детальный разбор ритуалов
 [[analysis-why-temple-exists]] — философский смысл
+[[analysis-judaism-through-young-gods-theory]] — взгляд через теорию Элохим

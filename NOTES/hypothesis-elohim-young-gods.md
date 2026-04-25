@@ -22,3 +22,4 @@ tags: [hypothesis, elohim, enlil, tiamat, apsu, immortality]
 [[hypothesis-death-ego-wisdom]] — необходимость смерти (которую отрицают Элохим)
 [[entity-serpent-death-necessary]] — Змей как носитель смерти
 [[analysis-sacrifices-as-bad-control]] — критика методов Элохим
+[[analysis-judaism-through-young-gods-theory]] — взгляд на иудаизм через эту теорию
