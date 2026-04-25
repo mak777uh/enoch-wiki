@@ -62,6 +62,11 @@ tags:
 
 Связывать с:
 - [[summary-enuma-elish]]
+- [[summary-eridu-genesis]]
+- [[entity-marduk]]
+- [[entity-enlil]]
+- [[comparison-gnosticism-mesopotamia]]
+- [[comparison-sumerian-vs-babylonian-cosmogony]]
 - [[summary-atra-hasis]]
 - [[summary-gilgamesh-xi]]
 - [[analysis-mesopotamia]]

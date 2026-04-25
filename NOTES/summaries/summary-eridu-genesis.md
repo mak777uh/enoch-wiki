@@ -4,7 +4,7 @@ created: 2026-04-19
 type: summary
 tags: [mesopotamia, eridu, flood, kingship, city, creation]
 source: [[47-eridu-genesis]]
-related: [[summary-mesopotamian-flood]], [[summary-oldest-religious-text-babylonia]], [[summary-eridu-paradise-adapa]]
+related: [[summary-mesopotamian-flood]], [[summary-oldest-religious-text-babylonia]], [[summary-eridu-paradise-adapa]], [[comparison-sumerian-vs-babylonian-cosmogony]]
 status: active
 ---
 

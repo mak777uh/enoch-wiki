@@ -71,6 +71,8 @@ status: active
 - [[summary-mesopotamian-flood]] — месопотамские сказания о потопе (Атрахасис, Утнапиштим)
 - [[summary-sumerian-sources]] — шумерские источники о допотопной эпохе
 - [[entity-nefilim]] — нефилимы (допотопные гиганты в иудейской традиции)
+- [[entity-marduk]] — вавилонский бог, заменивший Энлиля в Энума элиш
+- [[comparison-sumerian-vs-babylonian-cosmogony]] — сравнение шумерской и вавилонской космогонии
 
 ---
 

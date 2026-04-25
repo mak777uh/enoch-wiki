@@ -134,6 +134,7 @@
 |---|---|
 | [[summary-oldest-religious-text-babylonia]] | Самый ранний религиозный текст из Вавилонии |
 | [[summary-enuma-elish]] | Enuma Elish |
+| [[comparison-sumerian-vs-babylonian-cosmogony]] | Шумерская vs Вавилонская космогония |
 | [[summary-rigveda-book-10]] | Rigveda, Book 10 |
 | [[summary-sekhet-hetep]] | Sekhet-Hetepet |
 | [[summary-opening-the-tomb]] | Opening the Tomb |
