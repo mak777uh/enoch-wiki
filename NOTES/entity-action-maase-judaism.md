@@ -27,3 +27,5 @@ tags: [judaism, action, maase, avoda, philosophy]
 [[concept-avoda-service]] — труд как высшая форма действия
 [[analysis-yetzer-hara-sublimation]] — как направить энергию в действие
 [[comparison-eden-vs-exile]] — переход от созерцания к делу
+[[hypothesis-death-ego-wisdom]] — смерть эго для истинного действия
+[[entity-serpent-death-necessary]] — необходимость смерти в действии
