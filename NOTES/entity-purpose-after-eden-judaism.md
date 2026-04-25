@@ -31,3 +31,5 @@ tags: [judaism, purpose, eden, tikkun-olam, commandments]
 [[source-bereishit-genesis]] — первоисточник истории
 [[concept-tikkun-olam]] — детальный разбор концепции
 [[comparison-eden-vs-exile]] — сравнение состояний
+[[analysis-yetzer-hara-sublimation]] — метод борьбы со злом
+[[critique-mitzvot-as-crutch]] — зачем нужны мицвот (ответ на критику)

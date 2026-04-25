@@ -19,3 +19,5 @@ tags: [judaism, concept, tikkun-olam, kabbalah]
 ## Источники
 [[entity-purpose-after-eden-judaism]] — цель человека после изгнания
 [[source-bereishit-genesis]] — история падения и изгнания
+[[analysis-yetzer-hara-sublimation]] — инструмент реализации через борьбу со страстями
+[[critique-mitzvot-as-crutch]] — зачем нужна дисциплина мицвот для исправления

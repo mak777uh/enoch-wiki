@@ -20,3 +20,5 @@ tags: [source, torah, genesis, bereishit]
 [[entity-purpose-after-eden-judaism]] — анализ цели
 [[comparison-eden-vs-exile]] — сравнение состояний
 [[concept-tikkun-olam]] — развитие идеи труда и исправления
+[[analysis-yetzer-hara-sublimation]] — корень борьбы со страстями в тексте
+[[critique-mitzvot-as-crutch]] — контекст для понимания заповедей

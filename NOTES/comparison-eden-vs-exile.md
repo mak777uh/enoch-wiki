@@ -23,3 +23,5 @@ tags: [comparison, eden, exile, Judaism]
 [[entity-purpose-after-eden-judaism]] — детальная цель после изгнания
 [[concept-tikkun-olam]] — инструмент реализации цели
 [[source-bereishit-genesis]] — первоисточник
+[[analysis-yetzer-hara-sublimation]] — почему нужна борьба после Эдема
+[[critique-mitzvot-as-crutch]] — роль мицвот в новой реальности
