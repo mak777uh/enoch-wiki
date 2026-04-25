@@ -25,3 +25,6 @@ tags: [comparison, eden, exile, Judaism]
 [[source-bereishit-genesis]] — первоисточник
 [[analysis-yetzer-hara-sublimation]] — почему нужна борьба после Эдема
 [[critique-mitzvot-as-crutch]] — роль мицвот в новой реальности
+[[entity-action-maase-judaism]] — переход от созерцания к действию
+[[concept-avoda-service]] — работа как смысл жизни после Эдема
+[[analysis-contact-vs-law]] — почему просто "закон" не работает в изгнании

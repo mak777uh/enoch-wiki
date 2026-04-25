@@ -22,3 +22,6 @@ tags: [source, torah, genesis, bereishit]
 [[concept-tikkun-olam]] — развитие идеи труда и исправления
 [[analysis-yetzer-hara-sublimation]] — корень борьбы со страстями в тексте
 [[critique-mitzvot-as-crutch]] — контекст для понимания заповедей
+[[entity-action-maase-judaism]] — действие как результат контакта с текстом
+[[concept-avoda-service]] — работа на земле как ключевой мотив
+[[analysis-contact-vs-law]] — столкновение закона и реальности в тексте

@@ -24,6 +24,9 @@ tags: [judaism, critique, mitzvot, freedom, slavery, philosophy]
 Пророки (Исайя 1:11-17) жестко критиковали тех, кто делал мицвот механически без сердца. **Цель — войти в состояние, где мицва и воля человека становятся одним целым.**
 
 ## Связи
-[[analysis-yetzer-hara-sublimation]] — как контролировать страсти через дисциплину
+[[analysis-yetzer-hara-sublimation]] — метод борьбы со злом
 [[source-bereishit-genesis]] — корень свободы воли
 [[concept-tikkun-olam]] — результат правильного исполнения
+[[entity-action-maase-judaism]] — действие как альтернатива механике
+[[concept-avoda-service]] — работа и контакт с миром
+[[analysis-contact-vs-law]] — почему закон без контакта мертв
